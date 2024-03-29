@@ -1,0 +1,62 @@
+﻿<Window x:Class="NGO_MANAGEMENT.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NGO_MANAGEMENT"
+        mc:Ignorable="d"
+        Title="Window1" Height="432" Width="674">
+    <Grid Background="#FF223458" Margin="0,0,0,-200">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="581*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
+        <ListView Margin="95,72,0,0" SelectionChanged="ListView_SelectionChanged" Foreground="Black" FontFamily="Ink Free" Background="#FFC0D1D4" Height="526" VerticalAlignment="Top">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+            <Button Height="20" Width="150" Cursor="Hand" Content="Andaman &amp; Nicobar"/>
+            <Button Cursor="Hand" Content="Andhra Pradesh" Height="20" Width="150"/>
+            <Button Height="20" Width="150" Cursor="Hand" Content="Arunachal Pradesh"/>
+            <Button Height="20" Width="150" Cursor="Hand" Content="Assam" IsDefault="True"/>
+            <Button Height="20" Width="150" Content="Bihar"/>
+            <Button Height="20" Width="150" Content="Chandigarh"/>
+            <Button Height="20" Width="150" Content="Chhasttisgarh"/>
+            <Button Content="Dadra &amp; Nagar Haveli" Height="20" Width="150"/>
+            <Button Content="Daman &amp; Diu" Height="20" Width="150"/>
+            <Button Content="Delhi" Height="20" Width="150"/>
+            <Button Content="Goa" Height="20" Width="150"/>
+            <Button Content="Gujrat" Height="20" Width="150"/>
+            <Button Content="Haryana" Height="20" Width="150"/>
+            <Button Cursor="Hand" Content="Himachal Pradesh" Height="20" Width="150"/>
+            <Button Content="Jammu &amp; Kashmir" Height="20" Width="150"/>
+            <Button Content="Jharkhand" Height="20" Width="150"/>
+            <Button Content="Karnataka" Height="20" Width="150"/>
+            <Button Content="Kerala" Height="20" Width="150"/>
+            <Button Content="Ladakh" Height="20" Width="150"/>
+            <Button Content="Lakshadweep" Height="20" Width="150"/>
+            <Button Cursor="Hand" Content="Madhya Pradesh" Height="20" Width="150"/>
+            <Button Content="Maharashtra" Height="20" Width="150"/>
+            <Button Content="Manipur" Height="20" Width="150"/>
+            <Button Cursor="Hand" Content="Meghalaya" Height="20" Width="150"/>
+            <Button Content="Mizoram" Height="20" Width="150"/>
+            <Button Content="Nagaland" Height="20" Width="150"/>
+            <Button Content="Odisha" Height="20" IsCancel="True" Width="150"/>
+            <Button Content="Puducherry" Height="20" Width="150"/>
+            <Button Content="Punjab" Height="20" Width="150"/>
+            <Button Content="Rajasthan" Height="20" Width="150"/>
+            <Button Content="Sikkim" Height="20" Width="150"/>
+            <Button Content="Tamil Nadu" Height="20" Width="150"/>
+            <Button Content="Telangana" Height="20" Width="150"/>
+            <Button Background="#FFDFDDDD" Content="Tripura" Height="20" Width="150"/>
+            <Button Content="Uttar Pradesh" Height="20" Width="150"/>
+            <Button Content="Uttrakhand" Height="20" Width="150"/>
+            <Button Content="West Bengal" Height="20" Width="150"/>
+        </ListView>
+        <Rectangle Margin="94,10,1,0" Stroke="Black" Height="62" VerticalAlignment="Top" Fill="#FF434598"/>
+        <Label Content="WELCOME USER!!" Height="38" Margin="239,22,128,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Ink Free" FontSize="24"/>
+    </Grid>
+
+</Window>
