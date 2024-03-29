@@ -1,0 +1,46 @@
+INSERT INTO NGO VALUES (61, 'CHHATTISGARH', 'Education and Literacy', 'BRILLIANT PUBLIC SCHOOLAKALTARA ROADJANJGIR', 'Registered Societies (Non-Government)', '21ST CENTURY EDUCATION SOCIETY');
+INSERT INTO Heads VALUES (61, 'ALOK KUMAR AGRAWAL', 'Chairman');
+INSERT INTO Heads VALUES (61, 'BABITA DHANUKA', 'Treasurer');
+INSERT INTO Heads VALUES (61, 'SANDHYA AGRAWAL', 'Secretary');
+
+INSERT INTO NGO VALUES (62, 'CHHATTISGARH', 'Women Development and Empowerment', 'SHAKUNTALA VIDHYALAY ROAD, GAYATRI MANDIR WARD NO 13, RAMNAGAR BHILAI, DIST- DURG', 'Registered Societies (Non-Government)', 'A S B S FOUNDATION');
+INSERT INTO Heads VALUES (62, 'DAMINI SAHU', 'President');
+INSERT INTO Heads VALUES (62, 'OMKARI SAHU', 'Joint Secretary');
+INSERT INTO Heads VALUES (62, 'Pooja Sahu', 'Treasurer');
+INSERT INTO Heads VALUES (62, 'Pramod Kumar Sah', 'Member');
+
+INSERT INTO NGO VALUES (63, 'CHHATTISGARH', 'Education and Literacy', 'LIG 149 OLD DEENDAYAL COLONY JUNWANI ROAD BHILAI BHILAI CHHATISHGARH490020', 'Registered Societies (Non-Government)', 'A Society for education welfare and ability');
+INSERT INTO Heads VALUES (63, 'Rahul Vishwakarma', 'President');
+INSERT INTO Heads VALUES (63, 'Babli Vishwakarma', 'Secretary');
+INSERT INTO Heads VALUES (63, 'Arvind Tamrakar', 'Treasurer');
+
+INSERT INTO NGO VALUES (64, 'CHHATTISGARH', 'Food Processing', 'Ward No.16, Near Holicrass School, Shankar Ghat, Kawardha, District-Kabirdham (Chhattisgarh)', 'Registered Societies (Non-Government)', 'AACHALMAHILA SWA SAHAYATA SAMUH');
+INSERT INTO Heads VALUES (64, 'PRIYANKA TIWARI', 'Treasurer');
+INSERT INTO Heads VALUES (64, 'VIJAY LAXMI TIWARI', 'President');
+INSERT INTO Heads VALUES (64, 'PREETI TIWARI', 'Member');
+
+INSERT INTO NGO VALUES (65, 'CHHATTISGARH', 'Urban Development and Poverty Alleviation', 'SHRI CHANMAY PATHAK JAMAT PARA WARD NEAR BANK OF INDIA RAJNANDGAON CHHATTISGARH 491441', 'Registered Societies (Non-Government)', 'AKS WELFARE SOCIETY');
+INSERT INTO Heads VALUES (65, 'Abdul hanif', 'Secretary');
+INSERT INTO Heads VALUES (65, 'AJAY DEEP RAJWANI', 'Executive Member');
+
+INSERT INTO NGO VALUES (66, 'CHHATTISGARH', 'Education and Literacy', 'Bharat Mata English Medium School, Bilaspur TiTli Chawck ,Railway Colony Bilaspur.C.G.495004', 'Registered Societies (Non-Government)', 'Bharat Mata Vidhya Sangh');
+INSERT INTO Heads VALUES (66, 'VICTOR HENRY THAKUR', 'President');
+INSERT INTO Heads VALUES (66, 'Shaji Thomas', 'Executive Member');
+INSERT INTO Heads VALUES (66, 'Joseph Moolakkara', 'Treasurer');
+INSERT INTO Heads VALUES (66, 'SEBASTIAN POOMATTAM', 'Vice President');
+
+INSERT INTO NGO VALUES (67, 'CHHATTISGARH', 'Animal Husbandry', 'NAILA ROAD SARKHON , JANJGIR DISTT- JANJGIR CHAMPA', 'Registered Societies (Non-Government)', 'BHARAT UTKARSH SEVA SANSTHAN');
+INSERT INTO Heads VALUES (67, 'puspa devi', 'President');
+INSERT INTO Heads VALUES (67, 'MAHIMA PANDEY', 'Treasurer');
+INSERT INTO Heads VALUES (67, 'ANUKRITI', 'Secretary');
+
+INSERT INTO NGO VALUES (69, 'CHHATTISGARH', 'Women Development and Empowerment', 'old sarkanda mata chowa house no.-100 ward no.48 teh- bilaspur 495001', 'Registered Societies (Non-Government)', 'chhattisgarh mahila vikas samiti');
+INSERT INTO Heads VALUES (69, 'shivani thakur', 'Member');
+INSERT INTO Heads VALUES (69, 'nikhil kumar rai', 'Project Director');
+INSERT INTO Heads VALUES (69, 'KUNTI VARKADE', 'President');
+
+INSERT INTO NGO VALUES (70, 'CHHATTISGARH', 'Education and Literacy', 'Goverdhan Chowk Dr. Rajendra nagar Raipur C.G.', 'Registered Societies (Non-Government)', 'JAI AMBE EDUCATION SOCIETY');
+INSERT INTO Heads VALUES (70, 'YOGESHWAR PRASAD', 'President');
+INSERT INTO Heads VALUES (70, 'BEENA SAHU', 'Vice President');
+INSERT INTO Heads VALUES (70, 'Rakesh Dewangan', 'Member');
+INSERT INTO Heads VALUES (70, 'Santosh Kumar Yadav', 'Academic Advisor');

@@ -1,0 +1,47 @@
+INSERT INTO NGO VALUES (101,'HARYANA','Drinking Water','128, National Media Centre, NH-8, Gurugram','Private Sector Companies','3R WASTE Foundation');
+INSERT INTO Heads VALUES (101,'Kulwant Singh','Chief Executive Officer');
+INSERT INTO Heads VALUES (101,'Abhijit Banerji','Director');
+
+INSERT INTO NGO VALUES (102,'HARYANA','Women Development and Empowerment','Jhajjar Chungi , Near Ajit Gas Service , Circular Road Rohtak -124001 (HR)','Registered Societies (Non-Government)','aam jan shiksha sansthan');
+INSERT INTO Heads VALUES (102,'DHARMENDER','Cashier');
+INSERT INTO Heads VALUES (102,'NARESH','President');
+INSERT INTO Heads VALUES (102,'SUNITA KUMARI','Member');
+
+INSERT INTO NGO VALUES (103,'HARYANA','Children','Uklana Road, Narwana, District Jind, 126116','Registered Societies (Non-Government)','Mittaso Education Society');
+INSERT INTO Heads VALUES (103,'Sonu Mittal','Chairman');
+INSERT INTO Heads VALUES (103,'Ranjan Kumar','Joint Secretary');
+INSERT INTO Heads VALUES (103,'Bishnu Shrestha','Secretary');
+INSERT INTO Heads VALUES (103,'Nikhil Garg','Treasurer');
+
+INSERT INTO NGO VALUES (104,'HARYANA','Animal Husbandry','RAJENDER NAGAR NEW HOUSING BOARD JIND','Private Sector Companies','Nain Foundation');
+INSERT INTO Heads VALUES (104,'SAT PARKASH','Director');
+
+INSERT INTO NGO VALUES (105,'HARYANA','Art and Culture','VPO BHAINI BADSHAHPUR TAHSIL UKLANA DIST HISAR STATE HARYANA125121','Trust (Non-Government)','MAA TULSI CHARITABLE TRUST');
+INSERT INTO Heads VALUES (105,'anshul','President');
+INSERT INTO Heads VALUES (105,'Pravin Ganpati Aradwad','Cashier');
+INSERT INTO Heads VALUES (105,'SILOCHANA','Secretary');
+
+INSERT INTO NGO VALUES (106, 'HARYANA', 'Legal Awareness and Aid', 'H. No.390, VillageRanwar, Karnal-132001', 'Trust (Non-Government)', 'International Anti-Corruption Association');
+INSERT INTO Heads VALUES (106, 'Surjeet Singh', 'Chairman');
+INSERT INTO Heads VALUES (106, 'KULDEEP SINGH', 'Secretary');
+INSERT INTO Heads VALUES (106, 'Pritpal Singh', 'Treasurer');
+
+INSERT INTO NGO VALUES (107, 'HARYANA', 'Environment and Forests', '36 B, PROFESSOR COLONY, BALSAMAND ROAD, HISAR', 'Trust (Non-Government)', 'JAGO INDIA JAGO');
+INSERT INTO Heads VALUES (107, 'SEEMA MADHOK', 'Trustee');
+INSERT INTO Heads VALUES (107, 'JITENDER MADHOK', 'Founder');
+
+INSERT INTO NGO VALUES (108, 'HARYANA', 'Environment and Forests', 'H.NO.407, GALI NO.1, VPO SERDHA, BLOCK RAJOUND, DISTT. KAITHAL', 'Registered Societies (Non-Government)', 'GRAMIN YUVA VIKAS MANDAL SERDHA');
+INSERT INTO Heads VALUES (108, 'TARSEM SINGH', 'President');
+INSERT INTO Heads VALUES (108, 'ASHOK KUMAR', 'Secretary');
+INSERT INTO Heads VALUES (108, 'SUMAN BALA', 'Vice President');
+INSERT INTO Heads VALUES (108, 'POOJA DEVI', 'Member');
+
+INSERT INTO NGO VALUES (109, 'HARYANA', 'Agriculture', '495, Shiv Colony, Gali No.3 Palla no.1,Vill : palla', 'Trust (Non-Government)', 'Gramoday Yuva Vikas samiti');
+INSERT INTO Heads VALUES (109, 'Anurag', 'President');
+INSERT INTO Heads VALUES (109, 'Manoj Kumar', 'Treasurer');
+INSERT INTO Heads VALUES (109, 'Shekhar Tanwar', 'Secretary');
+
+INSERT INTO NGO VALUES (110, 'HARYANA', 'Art and Culture', 'W2B-123, Wellington Estate, DLF phase 5, Gurgaon', 'Private Sector Companies', 'CENTER FOR EMPOWERMENT and DEVELOPMENT STUDIES');
+INSERT INTO Heads VALUES (110, 'Anup Kumar Sharma', 'President');
+INSERT INTO Heads VALUES (110, 'Richa Sharma', 'Secretary');
+INSERT INTO Heads VALUES (110, 'RAKESH RANJAN', 'Treasurer');

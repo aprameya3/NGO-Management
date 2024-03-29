@@ -1,0 +1,51 @@
+INSERT INTO NGO VALUES (51, 'CHANDIGARH', 'Health and Family Welfare', 'Department of Community Medicine, School of Public Health, PGIMER, Chandigarh', 'Registered Societies (Non-Government)', 'AHSAS: Association For Health Systems Analysis and Strengthening');
+INSERT INTO Heads VALUES (51, 'Arun Kumar Aggarwal', 'President');
+INSERT INTO Heads VALUES (51, 'Harpreet Kaur', 'Secretary');
+INSERT INTO Heads VALUES (51, 'Nikita Sharma', 'Treasurer');
+
+INSERT INTO NGO VALUES (52, 'CHANDIGARH', 'Agriculture', 'H. no -3184 , Housing Board Complex, EWS Society , sector -52 d , chandigarh', 'Registered Societies (Non-Government)', 'Alankartheatrechd');
+INSERT INTO Heads VALUES (52, 'CHAKRESH KUMAR', 'Director');
+INSERT INTO Heads VALUES (52, 'MANJU YADAV', 'Programme Executive');
+INSERT INTO Heads VALUES (52, 'HRISHABH SHARMA', 'Actor');
+INSERT INTO Heads VALUES (52, 'RAJESH KUMAR KASHYAP', 'Additional Director');
+INSERT INTO Heads VALUES (52, 'NIRESH KUMAR', 'Deputy Director');
+
+INSERT INTO NGO VALUES (53, 'CHANDIGARH', 'Children', 'Plot No 268 Sector 21A', 'Registered Societies (Non-Government)', 'ARRIVE SAFE SOCIETY OF CHANDIGARH');
+INSERT INTO Heads VALUES (53, 'HARMAN SINGH SIDHU', 'President');
+INSERT INTO Heads VALUES (53, 'Himmat Mohan Singh Ghuman', 'General Secretary');
+INSERT INTO Heads VALUES (53, 'Parkash Chander Joshi', 'Treasurer');
+
+INSERT INTO NGO VALUES (54, 'CHANDIGARH', 'Art and Culture', 'Artscapes SCO 7 II Floor Sector 30 D', 'Registered Societies (Non-Government)', 'Artscapes');
+INSERT INTO Heads VALUES (54, 'Simrat Sharma', 'Chief Functionary');
+INSERT INTO Heads VALUES (54, 'Simrat Sharma', 'Chairman');
+INSERT INTO Heads VALUES (54, 'Anil Mehta', 'Secretary');
+INSERT INTO Heads VALUES (54, 'Vikas Sharma', 'Treasurer');
+
+INSERT INTO NGO VALUES (55, 'CHANDIGARH', 'Environment and Forests', 'Karuna Sadan, Sector 11-B', 'Registered Societies (Non-Government)', 'Environment Society of India');
+INSERT INTO Heads VALUES (55, 'Dr R C Mishra', 'Chief Functionary');
+INSERT INTO Heads VALUES (55, 'Dr R C Mishra', 'Chairman');
+INSERT INTO Heads VALUES (55, 'N K Jhingan K Jhingan', 'Secretary');
+
+INSERT INTO NGO VALUES (56, 'CHANDIGARH', 'Children', 'MANIMAJRA CHURCH, 5TH STREET, SHANTI NAGAR, MANIMAJRA', 'Registered Societies (Non-Government)', 'FAITH IMPACT SOCIETY');
+INSERT INTO Heads VALUES (56, 'KARNAIL MASIH', 'President');
+INSERT INTO Heads VALUES (56, 'ANIL KUMAR', 'Vice President');
+INSERT INTO Heads VALUES (56, 'MASIH DASS', 'Treasurer');
+INSERT INTO Heads VALUES (56, 'MANPAL SINGH', 'Secretary');
+INSERT INTO Heads VALUES (56, 'SANJAY MASIH', 'Member');
+
+INSERT INTO NGO VALUES (57, 'CHANDIGARH', 'Education and Literacy', '1030, Dayal Baug Society, Sector 51-B, Chandigarh 160047', 'Trust (Non-Government)', 'Feel For Human Charitable Trust');
+INSERT INTO Heads VALUES (57, 'J S Negi', 'Member');
+
+INSERT INTO NGO VALUES (58, 'CHANDIGARH', 'Health and Family Welfare', '3869 SECTOR 32D CHANDIGARH', 'Private Sector Companies', 'GIVE A PENNY FOUNDATION');
+INSERT INTO Heads VALUES (58, 'MANOJ KOHLI', 'President');
+INSERT INTO Heads VALUES (58, 'SAVITA KOHLI', 'Secretary');
+INSERT INTO Heads VALUES (58, 'MAYANK KOHLI', 'Treasurer');
+
+INSERT INTO NGO VALUES (59, 'CHANDIGARH', 'Children', 'GUR AASRA TRUST (Regd.), Gurdwara complex, Village- Palsora, Sector-55, Chandigarh (U.T) Pin code-160055', 'Trust (Non-Government)', 'GUR AASRA TRUST');
+INSERT INTO Heads VALUES (59, 'Kanwar Singh Dhami', 'President');
+INSERT INTO Heads VALUES (59, 'Jagjeet Singh', 'Vice President');
+
+INSERT INTO NGO VALUES (60, 'CHANDIGARH', 'Animal Husbandry', 'Village Mauli Jagran, Chandigarh, Pin Code-160102', 'Trust (Non-Government)', 'Pracheen Shree Shiv Mandir Charitable Trust');
+INSERT INTO Heads VALUES (60, 'Krishan Kumar Mishra', 'Chairman');
+INSERT INTO Heads VALUES (60, 'Kirpa Shankar Shukla', 'Treasurer');
+
