@@ -1,0 +1,63 @@
+create table NGO
+(
+	id int,
+	ngo_name varchar(125),
+	state varchar(30),
+	sector varchar(50),
+	address varchar(125),
+	type varchar(50),
+	primary key (id)
+);
+
+create table Heads
+(
+	id int,
+	name varchar(50),
+	position varchar(30),
+	foreign key (id) references NGO,
+	primary key (id, position)
+);
+
+create table User_NGO
+(
+	user_id int, 
+	username varchar(50),
+	password varchar(50),
+	primary key (user_id)
+);
+	
+create table Donor
+(
+	name varchar(50),
+	user_id int,
+	id int,
+	amount decimal(8, 2),
+	foreign key (id) references NGO,
+	foreign key (user_id) references User_NGO
+);
+
+create table Volunteer
+(
+	vol_id int,
+	name varchar(50),
+	id int,
+	foreign key (id) references NGO
+);
+
+create table Events
+(
+	name varchar(125),
+	id int,
+	event_id int,
+	event_date date,
+	venue varchar(100),
+	primary key (event_id),
+	foreign key (id) references NGO
+);
+
+
+
+
+
+	
+	

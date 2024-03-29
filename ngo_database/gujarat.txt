@@ -1,0 +1,51 @@
+INSERT INTO NGO VALUES (91,'GUJARAT','Education and Literacy','AT. :- KAVERI SANGAM , ANAVAL CROSS TA. :- MAHUVA , DIST.:- SURAT','Trust (Non-Government)','SWAMI SHRI MANOHARRANAND MANU SEVA SANGH');
+INSERT INTO Heads VALUES (91,'SWAMISHREEMANOHARANAND UMAMATESHVARI','Trustee');
+
+INSERT INTO NGO VALUES (92,'GUJARAT','Education and Literacy','ROHIT VAS , SALUN , TA. NADIAD','Trust (Non-Government)','25 PARGANA ROHIT SAMAJ SEVA TRUST');
+INSERT INTO Heads VALUES (92,'ROHIT PREMABHAI LALLUBHAI','President');
+INSERT INTO Heads VALUES (92,'SHANKERBHAI KOHYABHAI SOLANKI','Vice President');
+INSERT INTO Heads VALUES (92,'VAGHELA KANJIBHAI MAKANBHAI','Treasurer');
+INSERT INTO Heads VALUES (92,'CHAWADA VITTHALBHAI TRIKAMBHAI','Board Member');
+
+INSERT INTO NGO VALUES (93,'GUJARAT','Animal Husbandry','55, Giriraj Society, Part 2, Nr. HP Petrol Pump, K.K.Nagar Road, Ghatlodia, Ahmedabad382481','Trust (Non-Government)','4LEG RESCUE FOUNDATION');
+INSERT INTO Heads VALUES (93,'Mitesh Babubhai Chauhan','Director');
+INSERT INTO Heads VALUES (93,'Vinaykumar Rameshchandra Katakiya','Secretary');
+INSERT INTO Heads VALUES (93,'Yogesh Balubhai Chauhan','Treasurer');
+
+INSERT INTO NGO VALUES (94,'GUJARAT','Agriculture','O/102 Nandanvan V Near Preranatirth Derasar Jodhpur Char Rasta','Private Sector Companies','Aashray Promotion of Social Enterprises Foundation');
+INSERT INTO Heads VALUES (94,'Rajendra Joshi','Director');
+INSERT INTO Heads VALUES (94,'Mani Swaminathan Iyer','Chairman');
+INSERT INTO Heads VALUES (94,'Sharadbala Joshi','Member');
+
+INSERT INTO NGO VALUES (95,'GUJARAT','Education and Literacy','Adivasi Sevalaya, Jhagadia Dist -Bharuch Pin-393110','Registered Societies (Non-Government)','ADIVASI SEVA SANGH');
+INSERT INTO Heads VALUES (95,'William Bavtis Carvalho','President');
+INSERT INTO Heads VALUES (95,'JADI VASAVA','Member');
+INSERT INTO Heads VALUES (95,'ANTHONY SWAMY','Treasurer');
+INSERT INTO Heads VALUES (95,'JOEL REGINALD PAIS','Vice President');
+
+INSERT INTO NGO VALUES (96,'GUJARAT','HIV/AIDS','ADNPAbove Pareshbhai Achary Office Nr Civil Hospital Amreli 365601.','Registered Societies (Non-Government)','Amreli District Network of People Living with HIV/AIDS');
+INSERT INTO Heads VALUES (96,'Jignaben Madhusudanbhai Devmurari','President');
+INSERT INTO Heads VALUES (96,'RADADIYA PRAVINBHAI BHIKHABHAI','Secretary');
+INSERT INTO Heads VALUES (96,'Solanki Minaben M','Treasurer');
+
+INSERT INTO NGO VALUES (97,'GUJARAT','Agriculture','A1 TIRUPATI TOWNSHIP-2, DEESA HIGHWAY, PALANPUR-385001, GUJARAT','Trust (Non-Government)','BANAS GRAM VIKAS SAMITI');
+INSERT INTO Heads VALUES (97,'BHARATKUMAR MOTILAL THAKOR','Secretary');
+INSERT INTO Heads VALUES (97,'Ankit BharatKumar Thakor','Member');
+
+INSERT INTO NGO VALUES (98,'GUJARAT','Children','ST XAVIERS HIGH SCHOOL POST BOX NO 3 RAMOSNA ROAD MEHSANA','Trust (Non-Government)','CATHOLIC ASHRAM MEHSANA');
+INSERT INTO Heads VALUES (98,'THOMAS SAVARIMUTHU','Trustee');
+INSERT INTO Heads VALUES (98,'THOMAS IGNAS MACWAN','Director');
+INSERT INTO Heads VALUES (98,'AROCKIASWAMY SOOSAI','Chief Functionary');
+INSERT INTO Heads VALUES (98,'LAWRENCE ARULSAMY','Member');
+
+INSERT INTO NGO VALUES (99,'GUJARAT','Health and Family Welfare','UDVADA JANKALYAN AROGYA SEVA TRUST (UJAS), C/O SHRI KISHAORBHAI KANTILAL GANDHI, BHAGWATI COLONY','Trust (Non-Government)','UDVADA JANKALYAN AROGYA SEVA TRUST (UJAS)');
+INSERT INTO Heads VALUES (99,'KISHORBHAI KANTILAL GANDHI','President');
+INSERT INTO Heads VALUES (99,'NEHAL ASHOKBHAI DESAI','Treasurer');
+INSERT INTO Heads VALUES (99,'HASMUKHLAL BHAGWANDAS PATEL','Member');
+INSERT INTO Heads VALUES (99,'ASHOKKUMAR AMRATLAL RATHOD','Secretary');
+
+INSERT INTO NGO VALUES (100,'GUJARAT','Dalit Upliftment','A-3, RAJHANS SOCIETY, ELLISBRIDGE, AHMEDABAD-380006','Trust (Non-Government)','SMT. USHABEN RASIKLAL SHAW DIGVIJA Y. LIONS DARDI SAHAYAK TRUST');
+INSERT INTO Heads VALUES (100,'CHIMANLAL SHANTILAL SHAH','Assistant Managing Trustee');
+INSERT INTO Heads VALUES (100,'BIPINBHAI SHANTILAL SHAH','Chairman');
+INSERT INTO Heads VALUES (100,'APURVA GHELABHAI SHAH','Secretary');
+INSERT INTO Heads VALUES (100,'NANDLAL GHASILAL SHAH','Treasurer');

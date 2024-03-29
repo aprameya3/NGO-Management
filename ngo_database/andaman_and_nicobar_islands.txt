@@ -1,0 +1,53 @@
+INSERT INTO NGO VALUES (1,'ANDAMAN and NICOBAR ISLANDS','Sports','C/O STATE OLYMPIC ASSOCIATION NETAJI STADIUM PORT BLAIR','Registered Societies (Non-Government)','A and N KAYAKING and CANEOING ASSOCIATION');
+INSERT INTO Heads VALUES (1,'LALY JOSEPH','President');
+INSERT INTO Heads VALUES (1,'VAGARAM BISHNOI','Secretary');
+INSERT INTO Heads VALUES (1,'ARPITA ROY','Co-Treasurer');
+
+INSERT INTO NGO VALUES (2,'ANDAMAN and NICOBAR ISLANDS','Science and Technology','Room No.604(1)-MB550, Port Blair','Registered Societies (Non-Government)','Anandodhara');
+INSERT INTO Heads VALUES (2,'Arjith E P','President');
+INSERT INTO Heads VALUES (2,'Ajit Kumar','General Secretary');
+INSERT INTO Heads VALUES (2,'S. Balaji','Treasurer');
+
+INSERT INTO NGO VALUES (3,'ANDAMAN and NICOBAR ISLANDS','Art and Culture','31 M.G. Road, Opp. Sun Sea Resort, Middle Point.','Registered Societies (Non-Government)','AdityaNatyaAcademy');
+INSERT INTO Heads VALUES (3,'ASHUTOSH KARMAKAR','President');
+INSERT INTO Heads VALUES (3,'KAVERI DEBSHARMA','Member');
+INSERT INTO Heads VALUES (3,'SATYAJIT BAIN','Vice President');
+INSERT INTO Heads VALUES (3,'NABA KUMAR DHAR','Executive Member');
+INSERT INTO Heads VALUES (3,'ARUP KUMAR ROY','Executive Member');
+INSERT INTO Heads VALUES (3,'NANDALAL DEBSHARMA','Treasurer');
+
+INSERT INTO NGO VALUES (4,'ANDAMAN and NICOBAR ISLANDS','Education and Literacy','Wimberly Gunj','Trust (Non-Government)','AL AMEEN EDUCATION SOCIETY');
+INSERT INTO Heads VALUES (4,'ZAINUDDIN','Chairman');
+INSERT INTO Heads VALUES (4,'C KADIJA','Secretary');
+INSERT INTO Heads VALUES (4,'C P MOHAMMED SHAFIQUE','Treasurer');
+
+INSERT INTO NGO VALUES (5,'ANDAMAN and NICOBAR ISLANDS','Art and Culture','C/o Baakprotima (SBI Building) Junglighat Port Blair-744103 South Andaman PIN-744103','Registered Societies (Non-Government)','Anandodhara');
+INSERT INTO Heads VALUES (5,'DIPEN SAHA','Secretary');
+INSERT INTO Heads VALUES (5,'Rina Saha','Treasurer');
+INSERT INTO Heads VALUES (5,'Anadiranjan Biswas','Chairman');
+
+INSERT INTO NGO VALUES (6,'ANDAMAN and NICOBAR ISLANDS','Sports','STATE OLYMPIC ASSOCIATION NETAJI STADIUM','Registered Societies (Non-Government)','ANDAMAN AND NICOBAR KHO-KHO ASSOCIATION');
+INSERT INTO Heads VALUES (6,'RAVINDER PAL SINGH','President');
+INSERT INTO Heads VALUES (6,'CHELLURU UMAPATHI','Secretary');
+INSERT INTO Heads VALUES (6,'BIJOY KUMAR LOHAR','Co Treasurer');
+
+INSERT INTO NGO VALUES (7,'ANDAMAN and NICOBAR ISLANDS','Sports','ANDAMAN NICOBAR STATE OLYMPIC ASSOCIATION NETAJI STADIUM','Registered Societies (Non-Government)','ANDAMAN AND NICOBAR TAEKWONDO ASSOCIATION');
+INSERT INTO Heads VALUES (7,'V A SHIYAD','Vice President');
+INSERT INTO Heads VALUES (7,'BINOY KUMAR BAROI','Secretary');
+INSERT INTO Heads VALUES (7,'KAMAL DHALI','Treasurer');
+
+INSERT INTO NGO VALUES (8,'ANDAMAN and NICOBAR ISLANDS','Health and Family Welfare','No. 2, Babu Line, Aberdeen Bazar,Port Blair, South Andaman, Andaman','Registered Societies (Non-Government)','ANDAMAN AND NICOBAR CHEMIST AND DRUGGIST ASSOCIATION');
+INSERT INTO Heads VALUES (8,'VIVEK KUMAR MISRA','President');
+INSERT INTO Heads VALUES (8,'P K ANISH','Secretary');
+INSERT INTO Heads VALUES (8,'R. VADIVELAN','Treasurer');
+
+INSERT INTO NGO VALUES (9,'ANDAMAN and NICOBAR ISLANDS','Sports','ANDAMAN NICOBAR CHESS ASSOCIATION11 KM ROAD, PORT BLAIR 744102, SOUTH ANDAMAN','Registered Societies (Non-Government)','ANDAMAN AND NICOBAR CHESS ASSOCIATION');
+INSERT INTO Heads VALUES (9,'C S ASHOK','President');
+INSERT INTO Heads VALUES (9,'B NEELAIAH','Secretary');
+INSERT INTO Heads VALUES (9,'N T SUBA LAXMI','Treasurer');
+
+INSERT INTO NGO VALUES (10,'ANDAMAN and NICOBAR ISLANDS','Sports','27, KADAMTALA','Registered Societies (Non-Government)','ANDAMAN AND NICOBAR FOOTBALL ASSOCIATION');
+INSERT INTO Heads VALUES (10,'M K HUSSAIN','Vice President');
+INSERT INTO Heads VALUES (10,'SAPNA BALA','Secretary');
+INSERT INTO Heads VALUES (10,'MOHAMMED RAFIQUE','Co Treasurer');
+

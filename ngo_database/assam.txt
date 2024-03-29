@@ -1,0 +1,61 @@
+INSERT INTO NGO VALUES (31,'ASSAM','Agriculture','Old UBI Bank Building, 2nd floor, Bhuragaon Natun Bazar, P.O. Bhuragaon, P.S. Bhuragaon, MARIGAON, 782121','Registered Societies (Non-Government)','BRIGHT FUTURE FOR PEOPLES AND RURAL AREA DEVELOPMENT OF ASSAM');
+INSERT INTO Heads VALUES (31,'NURMAHAMMAD ALI','Chairman');
+INSERT INTO Heads VALUES (31,'SHARIF AHMED','Secretary');
+INSERT INTO Heads VALUES (31,'AHAMMAD ALI','Treasurer');
+INSERT INTO Heads VALUES (31,'TARIF RAIHAN SIDDIQUE','Director');
+
+INSERT INTO NGO VALUES (32,'ASSAM','Women Development and Empowerment','BAGPARA, P.O KHAGARPUR, DIST: BONGAIGAON','Trust (Non-Government)','A CHIK BAPTIST CONVENTION');
+INSERT INTO Heads VALUES (32,'KILONA B MARAK','President');
+INSERT INTO Heads VALUES (32,'JOHARSON MARAK','Secretary');
+INSERT INTO Heads VALUES (32,'NIRANJAN MARAK','Assistant Secretary');
+INSERT INTO Heads VALUES (32,'WINGTON R MARAK','Treasurer');
+
+INSERT INTO NGO VALUES (33,'ASSAM','Youth Affairs','C/O:Madhu Sudhan Sarkar,Haflong Bazar PO/PS:HAFLONG','Registered Societies (Non-Government)','A RAY OF HOPE SOCIETY');
+INSERT INTO Heads VALUES (33,'MITHUN SARKAR','President');
+INSERT INTO Heads VALUES (33,'AVIRUP DEY','Secretary');
+
+INSERT INTO NGO VALUES (34,'ASSAM','Civic Issues','Rup Nagar, Nalbari Gaon, PO- Gopalbazar','Registered Societies (Non-Government)','A SOCIAL FOR HUMAN RESOURCE ORGANISATION AND IMPROVEMENTS');
+INSERT INTO Heads VALUES (34,'Rinku Baruah Mahanta','President');
+INSERT INTO Heads VALUES (34,'Alpana Sarma','Vice President');
+INSERT INTO Heads VALUES (34,'Gurupad Pathak','Secretary');
+INSERT INTO Heads VALUES (34,'Dhrubajyoti Baishya','Additional Secretary');
+INSERT INTO Heads VALUES (34,'Kishor Kumar Sarma','Treasurer');
+
+INSERT INTO NGO VALUES (35,'ASSAM','Agriculture','HOUSE NO-39,LAKHINGAR,R.G BORUAH ROAD,GUWAHATI,PIN-781005','Trust (Non-Government)','A1 FOUNDATION');
+INSERT INTO Heads VALUES (35,'Himangshu sarma','President');
+INSERT INTO Heads VALUES (35,'Ashok kumar Laskar','Board Member');
+INSERT INTO Heads VALUES (35,'Debasish Chutia','Member');
+
+INSERT INTO NGO VALUES (36,'ASSAM','Art and Culture','BOTERTAL, BILASIPARA WARD -8, PO-HAKAMA, PS-BILASIPARA','Registered Societies (Non-Government)','Abhimat NGO');
+INSERT INTO Heads VALUES (36,'Rofizul Hoque','Secretary');
+INSERT INTO Heads VALUES (36,'JAHANARA KHATUN','President');
+INSERT INTO Heads VALUES (36,'Moidul Islam','Treasurer');
+INSERT INTO Heads VALUES (36,'S M SAIDUL ALOM','Member');
+
+INSERT INTO NGO VALUES (37,'ASSAM','Animal Husbandry','VILL JHARNAR CHAR PT IV PO JORUAR CHAR PS FAKIR GANJ DIST DHUBRI ASSAM PIN 783339','Registered Societies (Non-Government)','AL ZAMIA MODERN ACADEMY');
+INSERT INTO Heads VALUES (37,'JESMINA AKTAR','Treasurer');
+INSERT INTO Heads VALUES (37,'FOYZAL HOQUE','President');
+INSERT INTO Heads VALUES (37,'SHAHANUR ALOM','Vice President');
+INSERT INTO Heads VALUES (37,'MOHAMMAD ROBIAL HOQUE','Member');
+INSERT INTO Heads VALUES (37,'JEHIRUL ISLAM','Secretary');
+
+INSERT INTO NGO VALUES (38,'ASSAM','Women Development and Empowerment','ALOK NGO, BIHPURIA WARD NO 1, PO/PSBIHPURIA, PIN784161, DIST - LAKHIMPUR ,ASAM','Registered Societies (Non-Government)','ALOK NGO');
+INSERT INTO Heads VALUES (38,'TANURAM LAHAN','President');
+INSERT INTO Heads VALUES (38,'PRADIP BHARALI','Secretary');
+INSERT INTO Heads VALUES (38,'IMTIYAZ ANSARI','Board Member');
+INSERT INTO Heads VALUES (38,'KRISHNA NEOG','Member');
+
+INSERT INTO NGO VALUES (39,'ASSAM','Education and Literacy','VILL. BHAIRABPUR P.O. KALAIN','Registered Societies (Non-Government)','BHAIRABPUR HAFIJIA MADRASSA');
+INSERT INTO Heads VALUES (39,'RAHIM UDDIN LASKAR','President');
+INSERT INTO Heads VALUES (39,'MIZAZUL HOQUE','Vice President');
+INSERT INTO Heads VALUES (39,'ABUL HASAN','Secretary');
+INSERT INTO Heads VALUES (39,'FARID AHMED BARBHUIYA','Executive Member');
+INSERT INTO Heads VALUES (39,'SAHID UDDIN BARBHUIYA','Treasurer');
+
+INSERT INTO NGO VALUES (40,'ASSAM','Agriculture','SARUPATHAR, GOLAGHAT, ASSAM','Registered Societies (Non-Government)','DHANSIRI GANA MANCHA');
+INSERT INTO Heads VALUES (40,'RAJIB SAIKIA','President');
+INSERT INTO Heads VALUES (40,'SANTANU PHUKAN','Vice President');
+INSERT INTO Heads VALUES (40,'RINTU DEKA','General Secretary');
+INSERT INTO Heads VALUES (40,'MONUJ GOGOI','Assistant General Secretary');
+INSERT INTO Heads VALUES (40,'DINESH SAIKIA','Member');
+

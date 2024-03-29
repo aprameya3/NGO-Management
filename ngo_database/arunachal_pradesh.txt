@@ -1,0 +1,53 @@
+INSERT INTO NGO VALUES (21,'ARUNACHAL PRADESH','Art and Culture','Jomlo Mobuk, District: Siang, Arunachal Pradesh-791003','Registered Societies (Non-Government)','AANE SIANG SOCIETY');
+INSERT INTO Heads VALUES (21,'Opung Jerang','Chairman');
+INSERT INTO Heads VALUES (21,'Gaga Gao','Secretary');
+INSERT INTO Heads VALUES (21,'Yayi Taggu','Treasurer');
+
+INSERT INTO NGO VALUES (22,'ARUNACHAL PRADESH','HIV and AIDS','Yahung Tekseng Simar Colony Yingkiong PO/PS Yingkiong -791002 District Upper Siang Arunachal Pradesh','Registered Societies (Non-Government)','AARRO WELFARE SOCIETY');
+INSERT INTO Heads VALUES (22,'Yahung Tekseng','Chairman');
+INSERT INTO Heads VALUES (22,'ANU PANGKAM','Secretary');
+INSERT INTO Heads VALUES (22,'Tilam Miyu','Treasurer');
+
+INSERT INTO NGO VALUES (23,'ARUNACHAL PRADESH','Animal Husbandry','Amik Matai Society Post Box No 8 New Mekailiang Tezu PO Tezu Lohit District Arunachal Pradesh 792 001','Registered Societies (Non-Government)','Amik Matai Society');
+INSERT INTO Heads VALUES (23,'Sonem Kri','Chief Functionary');
+INSERT INTO Heads VALUES (23,'Locholum Tayang','Chairman');
+INSERT INTO Heads VALUES (23,'Sandhya Bellai','Secretary');
+INSERT INTO Heads VALUES (23,'Raja Bora','Treasurer');
+
+INSERT INTO NGO VALUES (24,'ARUNACHAL PRADESH','Environment and Forests','SFRI COMPLEX, VAN VIHAR, CHIMPU, PO- R.K MISSION, PS- ITANAGAR','Registered Societies (Non-Government)','Arunachal Pradesh Bamboo Resources and Development Agency (APBRDA)');
+INSERT INTO Heads VALUES (24,'Dr. G. Murtem','Chairman');
+INSERT INTO Heads VALUES (24,'Rab Kara Taj','Others');
+INSERT INTO Heads VALUES (24,'KARA HAKAP','Vice Chairman');
+
+INSERT INTO NGO VALUES (25,'ARUNACHAL PRADESH','Art and Culture','CHOWKHAM, LOHIT-792102 (ARUNACHAL PRADESH)','Unknown','ARUNACHAL PRADESH BHIKKHU SANGHA');
+INSERT INTO Heads VALUES (25,'VEN INDASARA BHIKKHU','Chairman');
+INSERT INTO Heads VALUES (25,'NARINDRA BHIKKHU','Treasurer');
+INSERT INTO Heads VALUES (25,'CHOW SUJING NAMCHOOM','Secretary');
+
+INSERT INTO NGO VALUES (26,'ARUNACHAL PRADESH','Food Processing','NEAR AGRICULTURE OFFICE, BORDUMSA, DIST- CHANGLANG, ARUNACHAL PRADESH, PIN- 792056','Registered Societies (Non-Government)','BORDUMSA MAHILA MANDAL');
+INSERT INTO Heads VALUES (26,'PISILU SINGPHO','President');
+INSERT INTO Heads VALUES (26,'KAIDIM SINGPHO','Secretary');
+INSERT INTO Heads VALUES (26,'BISITRA MAIO','Treasurer');
+
+INSERT INTO NGO VALUES (27,'ARUNACHAL PRADESH','Agriculture','PREM NAGAR, NEAR FOREST IB NAMSAI, DIST: NAMSAI, ARUNACHAL PRADESH-792103','Registered Societies (Non-Government)','BRIGHT FOUNDATION');
+INSERT INTO Heads VALUES (27,'Chow Kenkham Chowlu','Chairman');
+INSERT INTO Heads VALUES (27,'Joyten Mossang','Secretary');
+INSERT INTO Heads VALUES (27,'Sengpan Pomung','Treasurer');
+INSERT INTO Heads VALUES (27,'CHOW DIPANKAR CHOWLU','Board Member');
+
+INSERT INTO NGO VALUES (28,'ARUNACHAL PRADESH','Art and Culture','Buddhist Culture Preservation Society P.O. PS Bomdila West Kameng District Arunachal Pradesh PIN-790001','Registered Societies (Non-Government)','Buddhist Culture Preservation Society Bomdila');
+INSERT INTO Heads VALUES (28,'Tashi Tsering','Treasurer');
+INSERT INTO Heads VALUES (28,'Dr Ngawang Thupten','Joint Secretary');
+INSERT INTO Heads VALUES (28,'DORJEE NORBU','Secretary');
+INSERT INTO Heads VALUES (28,'JAMBEY DORJEE','President');
+
+INSERT INTO NGO VALUES (29,'ARUNACHAL PRADESH','Education and Literacy','NIRJULI, PAPAUM PARE','Registered Societies (Non-Government)','COMPUTER SOCIETY OF ARUNACHAL PRADESH TECHNO PARK');
+INSERT INTO Heads VALUES (29,'BAMANG APO','Chairman');
+INSERT INTO Heads VALUES (29,'TAI PAHA','Secretary');
+INSERT INTO Heads VALUES (29,'BAMANG YANIAM','Treasurer');
+
+INSERT INTO NGO VALUES (30,'ARUNACHAL PRADESH','Women Development and Empowerment','Natun Basti, Buddhist Colony, Deomali, Tirap district, Arunachal Pradesh','Registered Societies (Non-Government)','H.O.P.E Foundation');
+INSERT INTO Heads VALUES (30,'Mitali Tingkhatra','Board Member');
+INSERT INTO Heads VALUES (30,'Komna Moidam','Chairman');
+INSERT INTO Heads VALUES (30,'Lengran Lowang','Administrator');
+
