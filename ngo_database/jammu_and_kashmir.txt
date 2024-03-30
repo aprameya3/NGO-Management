@@ -1,0 +1,56 @@
+INSERT INTO NGO VALUES (121, 'JAMMU and KASHMIR', 'Women Development and Empowerment', '51, Darulaslam, New Colony, Batamaloo', 'Trust (Non-Government)', 'A B Skills');
+INSERT INTO Heads VALUES (121, 'Bilquis Abdullah', 'Chairman');
+INSERT INTO Heads VALUES (121, 'Mir Arif Jeelani', 'Vice Chairman');
+INSERT INTO Heads VALUES (121, 'Asima Aslam Qadri', 'General Secretary');
+INSERT INTO Heads VALUES (121, 'Nasir Ahmad Bhat', 'Finance Secretary');
+INSERT INTO Heads VALUES (121, 'Syed Himayoon Akther Bukhari', 'Trustee');
+
+INSERT INTO NGO VALUES (122, 'JAMMU and KASHMIR', 'Education and Literacy', 'DRUGTENGOO, PRENG KANGAN', 'Trust (Non-Government)', 'A P J MEMORIAL EDUCATIONAL TRUST');
+INSERT INTO Heads VALUES (122, 'KULSOOMA HAMID', 'Secretary');
+INSERT INTO Heads VALUES (122, 'BILAL AHMAD DAR', 'Joint Secretary');
+INSERT INTO Heads VALUES (122, 'ABDUL HAMID MAGRAY', 'President');
+
+INSERT INTO NGO VALUES (123, 'Jammu and Kashmir', 'Science and Technology', 'AIR FORCE SCHOOL AIR FORCE STATIONSATWARIJAMMU CANTT', 'Registered Societies (Non-Government)', 'Air Force School Jammu');
+INSERT INTO Heads VALUES (123, 'Raman Arora', 'Member');
+INSERT INTO Heads VALUES (123, 'Shuchi Gupta', 'Chairman');
+INSERT INTO Heads VALUES (123, 'Sarojni Pandita', 'Secretary');
+INSERT INTO Heads VALUES (123, 'Prakriti Sharma', 'Treasurer');
+
+INSERT INTO NGO VALUES (124, 'Jammu and Kashmir', 'Rural Development and Poverty Alleviation', 'KULGAM, KASHMIR PIN CODE192231', 'Trust (Non-Government)', 'ALL HUMAN WELFARE TRUST');
+INSERT INTO Heads VALUES (124, 'AEJAZ AHMAD MALIK', 'Chairman');
+INSERT INTO Heads VALUES (124, 'PEER BILAL AHMAD SHAH', 'Trustee');
+INSERT INTO Heads VALUES (124, 'Mubark Ahmad Mir', 'Secretary');
+INSERT INTO Heads VALUES (124, 'RIYAZ AHMAD GANAIE', 'Joint Secretary');
+INSERT INTO Heads VALUES (124, 'IMRAAN AHMAD NAIK', 'Member');
+
+INSERT INTO NGO VALUES (125, 'Jammu and Kashmir', 'Women Development and Empowerment', 'Hamza Colony Sector BHNo 18 Bagat Kaipora Budgam 1900015', 'Registered Societies (Non-Government)', 'Darkshan Womens and Child Welfare Society');
+INSERT INTO Heads VALUES (125, 'Neelofar Shah', 'President');
+INSERT INTO Heads VALUES (125, 'Abid Ashraf', 'Secretary');
+INSERT INTO Heads VALUES (125, 'Kulsooma Akhter', 'Treasurer');
+
+INSERT INTO NGO VALUES (126, 'Jammu and Kashmir', 'Health and Family Welfare', 'NEAR BAL VIDHYA MANDIR SCHOOL DHARAT NOWSHERA DISTT RAJOURI, J and K PIN 185151', 'Registered Societies (Non-Government)', 'FRIENDS YOUTH AND CULTURAL CLUB');
+INSERT INTO Heads VALUES (126, 'THORU RAM SHARMA', 'President');
+INSERT INTO Heads VALUES (126, 'SANTOSH KUMARI', 'Secretary');
+INSERT INTO Heads VALUES (126, 'NEK RAM', 'Treasurer');
+INSERT INTO Heads VALUES (126, 'SUNITA DEVI', 'Member');
+
+INSERT INTO NGO VALUES (127, 'Jammu and Kashmir', 'Agriculture', 'Near Maruti Showroom .Badhoon , Rajouri jammu and kashmir 185132', 'Registered Societies (Non-Government)', 'GREEN COOPERATIVE PUBLIC SCHOOL');
+INSERT INTO Heads VALUES (127, 'Shah nawaz Chowdhary', 'President');
+INSERT INTO Heads VALUES (127, 'Raseela Akhter', 'General Secretary');
+INSERT INTO Heads VALUES (127, 'randesh singh', 'Treasurer');
+INSERT INTO Heads VALUES (127, 'HAQ NAWAZ CHOWDHARY', 'Secretary');
+
+INSERT INTO NGO VALUES (128, 'Jammu and Kashmir', 'Animal Husbandry', 'P.O.BOX 777GPOSrinagarKashmir190001', 'Registered Societies (Non-Government)', 'Inception');
+INSERT INTO Heads VALUES (128, 'Imad Riyaz Malik', 'Chairman');
+INSERT INTO Heads VALUES (128, 'Mumtaza Rasool', 'Secretary');
+INSERT INTO Heads VALUES (128, 'Asmat sultan', 'Treasurer');
+INSERT INTO Heads VALUES (128, 'Amir sana ullah', 'Executive Member');
+
+INSERT INTO NGO VALUES (129, 'Jammu and Kashmir', 'Youth Affairs', 'Head office:-Baktoo Complex Beehama Ganderbal Jammu', 'Registered Societies (Non-Government)', 'J and K YOUTH DEVELOPMENT FORUM');
+INSERT INTO Heads VALUES (129, 'SHEHRE YAR MAJEED', 'President');
+INSERT INTO Heads VALUES (129, 'FAROOQ AHMAD DAR', 'Founder');
+INSERT INTO Heads VALUES (129, 'ABDUL RASHID MIR', 'General Secretary');
+INSERT INTO Heads VALUES (129, 'ZAHOOR AHMAD BHAT', 'Vice President');
+INSERT INTO Heads VALUES (129, 'AABID RASOOL', 'Member');
+
+

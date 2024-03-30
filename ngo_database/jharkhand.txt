@@ -1,0 +1,54 @@
+INSERT INTO NGO VALUES (131, 'Jharkhand', 'HIV/AIDS', 'Village-Palkot,Post-Palkot,Thana-PalkotPIN-835220', 'Registered Societies (Non-Government)', 'ADARSH VIKASH KENDRAPALKOT');
+INSERT INTO Heads VALUES (131, 'Mohammed Nasir Siddique', 'President');
+INSERT INTO Heads VALUES (131, 'Akil Bakhs', 'Secretary');
+INSERT INTO Heads VALUES (131, 'Sajid Ansari', 'Treasurer');
+
+INSERT INTO NGO VALUES (132, 'Jharkhand', 'Drinking Water', 'VILLAGE:BENGABAD, P.O: BENGABAD, DISTRICT: - GIRIDIH, PIN:- 815312', 'Registered Societies (Non-Government)', 'ADARSH SEWA KENDRA');
+INSERT INTO Heads VALUES (132, 'DURGA PRASAD', 'Chairman');
+INSERT INTO Heads VALUES (132, 'SANDEEP KUMAR', 'Secretary');
+INSERT INTO Heads VALUES (132, 'AJAY KUMAR KANDHWAY', 'Treasurer');
+
+INSERT INTO NGO VALUES (133, 'Jharkhand', 'Health and Family Welfare', 'VILL-AURU PO-AURUGERUA PS-HUNTERGANJ DIST-CHATRA (JHARKHAND)', 'Registered Societies (Non-Government)', 'ANNPURNA HEALTH AND EDUCATION WELFARE SOCIETY');
+INSERT INTO Heads VALUES (133, 'ANAND KUMAR', 'Treasurer');
+INSERT INTO Heads VALUES (133, 'MITHLESH KUMAR', 'Secretary');
+INSERT INTO Heads VALUES (133, 'ARUN KUMAR VERMA', 'Member');
+INSERT INTO Heads VALUES (133, 'KAMLESH PRAJAPATI', 'Chairman');
+
+INSERT INTO NGO VALUES (134, 'Jharkhand', 'Legal Awareness and Aid', 'H/O- SRI LALMANI KUMAR SINHA, 215, B, GAURI SHANKAR VILLA, NEAR DEVANGANA CHOWK', 'Trust (Non-Government)', 'ANTI CRIME AND HUMAN RIGHTS PROTECTION COUNCIL OF INDIA');
+INSERT INTO Heads VALUES (134, 'LALMANI KUMAR SINHA', 'Chairman');
+INSERT INTO Heads VALUES (134, 'PAWAN KUMAR SINGH', 'Trustee');
+INSERT INTO Heads VALUES (134, 'AMIT KUMAR', 'Vice Chairman');
+INSERT INTO Heads VALUES (134, 'PAWAN KUMAR SHARMA', 'Secretary');
+
+INSERT INTO NGO VALUES (135, 'Jharkhand', 'Agriculture', 'A.G Office Road, Doranda, Ranchi-834002, Jharkhand', 'Other Registered Entities (Non-Government)', 'Asirbadh Hospitality Private Limited');
+INSERT INTO Heads VALUES (135, 'RUPALI BASU', 'Director');
+INSERT INTO Heads VALUES (135, 'ARBIND BASU', 'Treasurer');
+
+INSERT INTO NGO VALUES (136, 'Jharkhand', 'Dalit Upliftment', 'GANDHI NAGAR SABJI BAGAN PO DHANBAD PSDHANSAR DIST DHANBADJHARKHAND 826001', 'Registered Societies (Non-Government)', 'BASERA SEWM SEVI SANSTHA');
+INSERT INTO Heads VALUES (136, 'RAVI RANJAN SINGH', 'Secretary');
+INSERT INTO Heads VALUES (136, 'RAGHUNATH PRASAD', 'President');
+INSERT INTO Heads VALUES (136, 'ARTI DEVI', 'Treasurer');
+
+INSERT INTO NGO VALUES (137, 'Jharkhand', 'Women Development and Empowerment', '384 SIJUA BASTI KARMATAND DIST BOKARO JHARKHAND BOKARO BOKARO 828404', 'Private Sector Companies', 'DARSHANI DEVI SEWA FOUNDATION');
+INSERT INTO Heads VALUES (137, 'DARSHANI DEVI', 'President');
+INSERT INTO Heads VALUES (137, 'RAJ KUMAR MAHTO', 'Vice President');
+INSERT INTO Heads VALUES (137, 'CHANDRAKET KUMAR SINGH', 'Secretary');
+INSERT INTO Heads VALUES (137, 'PRITAM KUMAR MAHTO', 'Treasurer');
+INSERT INTO Heads VALUES (137, 'SHANKAR KUMAR MAHTO', 'Executive Member');
+
+INSERT INTO NGO VALUES (138, 'Jharkhand', 'Agriculture', 'Shyam Colony Vill -Sarai ToliPO- Mahilong PS- Tatisilway Dist- RanchiJharkahand Pin Code-835103', 'Registered Societies (Non-Government)', 'Enabling India');
+INSERT INTO Heads VALUES (138, 'Anish Kumar', 'President');
+INSERT INTO Heads VALUES (138, 'Pramod Kumar', 'Secretary');
+INSERT INTO Heads VALUES (138, 'Uttam Kumar Pandey', 'Treasurer');
+
+INSERT INTO NGO VALUES (139, 'Jharkhand', 'Rural Development and Poverty Alleviation', 'AT:THARI, MAHUBANA, RAMGARH', 'Registered Societies (Non-Government)', 'Gramin Vikash Kalyan Kendra');
+INSERT INTO Heads VALUES (139, 'KARTIK MANDAL', 'Treasurer');
+INSERT INTO Heads VALUES (139, 'PUSPA KUMARI KISKU', 'Executive Member');
+INSERT INTO Heads VALUES (139, 'ANNA HANSDAK', 'Vice President');
+INSERT INTO Heads VALUES (139, 'NITESH KUMAR PANDIT', 'Secretary');
+
+INSERT INTO NGO VALUES (140, 'Jharkhand', 'Disaster Management', 'TIWARI TANK ROAD TIWARI STREET HINDPIRI RANCHI', 'Registered Societies (Non-Government)', 'HELP and CARE WELFARE SOCIETY');
+INSERT INTO Heads VALUES (140, 'MOHAMMAD AZAD', 'Secretary');
+INSERT INTO Heads VALUES (140, 'ARSHAD JAMIL', 'President');
+INSERT INTO Heads VALUES (140, 'AFZAL HUSSAIN', 'Executive Member');
+INSERT INTO Heads VALUES (140, 'Md Jawed', 'Treasurer');
