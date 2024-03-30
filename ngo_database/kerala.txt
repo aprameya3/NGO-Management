@@ -1,0 +1,58 @@
+INSERT INTO NGO VALUES ('151', 'KERALA', 'Youth Affairs', 'AKHILA VYPEEN PULAYAVAMSODHARINI SABHA H O NAYARAMBALAM EDAVANAKAD P O 682502', 'Trust (Non-Government)', 'AKHILA VYPEEN PULAYAVAMSODHARINI SABHA');
+INSERT INTO Heads VALUES ('151', 'P K BABY', 'President');
+INSERT INTO Heads VALUES ('151', 'PRASAD N K', 'Secretary');
+INSERT INTO Heads VALUES ('151', 'SAJAN M K', 'Member');
+
+INSERT INTO NGO VALUES ('152', 'KERALA', 'Aged/Elderly', 'PB No:53, Guruvayoor Road, Kunnamkulam', 'Registered Societies (Non-Government)', 'Alzheimer''s and Related Disorders Society of India');
+INSERT INTO Heads VALUES ('152', 'Robert Mathew', 'Chairman');
+INSERT INTO Heads VALUES ('152', 'Nilanjana Maulik', 'Member');
+INSERT INTO Heads VALUES ('152', 'Agith Thomas John', 'Joint Secretary');
+INSERT INTO Heads VALUES ('152', 'THOMAS CHERIAN', 'Treasurer');
+INSERT INTO Heads VALUES ('152', 'Meera Pattabiraman', 'Board Member');
+
+INSERT INTO NGO VALUES ('153', 'KERALA', 'Women''s Development and Empowerment', 'B P Moideen Seva Mandir, Mukkam Post, Calicut', 'Registered Societies (Non-Government)', 'B. P Moideen Seva Mandir');
+INSERT INTO Heads VALUES ('153', 'BABY SHAKEELA', 'Secretary');
+INSERT INTO Heads VALUES ('153', 'RUKHIYA', 'Member');
+INSERT INTO Heads VALUES ('153', 'KANCHANA', 'Chairman');
+INSERT INTO Heads VALUES ('153', 'INDIRA', 'Treasurer');
+
+INSERT INTO NGO VALUES ('154', 'KERALA', 'Differently Abled', 'BEZER BLINDS SERVING FRIEND, Nambikolly, Nenmenikunnu (PO), Cheeral(via) Wayanad Pin673595, Sulthan Bathery', 'Registered Societies (Non-Government)', 'BEZER BLINDS SERVING FRIEND');
+INSERT INTO Heads VALUES ('154', 'VIJAYAKUMARI', 'Secretary');
+INSERT INTO Heads VALUES ('154', 'George Thomas', 'Treasurer');
+INSERT INTO Heads VALUES ('154', 'K SELVARAJ', 'Director');
+
+INSERT INTO NGO VALUES ('155', 'KERALA', 'Rural Development and Poverty Alleviation', '34/229, 16 Mill Road,Vylankara, Vavad, Koduvally P.O, Kozhikode', 'Trust (Non-Government)', 'BOLSTER FOUNDATION');
+INSERT INTO Heads VALUES ('155', 'SHAHUL HAMEED M M', 'President');
+INSERT INTO Heads VALUES ('155', 'MUHAMMED JALALUDEEN ALBAKARI', 'Vice President');
+INSERT INTO Heads VALUES ('155', 'MUJEEBU RAHMAN', 'Secretary');
+
+INSERT INTO NGO VALUES ('156', 'KERALA', 'Education and Literacy', 'KOVOOR, ARINALOOR PO, KOLLAM, KERALA-690538', 'Academic Institutions (Private)', 'BOYS AND GIRLS HIGH SCHOOL THEVALAKKARA');
+INSERT INTO Heads VALUES ('156', 'SHIBU C', 'President');
+INSERT INTO Heads VALUES ('156', 'MUBEENA S', 'Vice President');
+INSERT INTO Heads VALUES ('156', 'JAGADEESAN PILLAI', 'Secretary');
+
+INSERT INTO NGO VALUES ('157', 'KERALA', 'Art and Culture', 'C R MADHU SHABDIKA GRANDHASALA PUTHIYAKAVU KS PURAM KARUNAGAPPALLY KOLLAM 690544', 'Other Registered Entities (Non-Government)', 'C R MADHU SHABDIKA GRANDHASALA');
+INSERT INTO Heads VALUES ('157', 'BINDHU', 'President');
+INSERT INTO Heads VALUES ('157', 'THARA S', 'Vice President');
+INSERT INTO Heads VALUES ('157', 'JALAJA M', 'Secretary');
+
+INSERT INTO NGO VALUES ('158', 'KERALA', 'Aged/Elderly', 'Calicut Diocese Social Service Society Mini bye pass Road, Eranhipalam P.O, Calicut 673 006', 'Registered Societies (Non-Government)', 'Calicut Diocese Social Service Society');
+
+INSERT INTO Heads VALUES ('158', 'CHAKKALAKKAL VARGHESE OUSEPH', 'President');
+INSERT INTO Heads VALUES ('158', 'VARGHESE PUTHENVEETTIL', 'Vice President');
+INSERT INTO Heads VALUES ('158', 'ALFRED V C', 'Secretary');
+INSERT INTO Heads VALUES ('158', 'PAUL PERCY DSILVA', 'Treasurer');
+
+INSERT INTO NGO VALUES ('159', 'KERALA', 'Differently Abled', 'VIKAS BHAVANYOUNG WOMEN CHRISTIAN ASSOCIATION OPP TO COMMISSIONER OF POLICE OFFICE', 'Registered Societies (Non-Government)', 'YWCA Kollam');
+
+INSERT INTO Heads VALUES ('159', 'Shyla Rachel Varkey', 'President');
+INSERT INTO Heads VALUES ('159', 'Anitha Len Philip', 'Secretary');
+INSERT INTO Heads VALUES ('159', 'Latha G Enoch', 'Treasurer');
+INSERT INTO Heads VALUES ('159', 'Beena Jacob', 'Headmistress');
+
+INSERT INTO NGO VALUES ('160', 'KERALA', 'Agriculture', 'XIX/293/C VAYATTUPARAMBA P.O NADUVIL VIA KANNUR DT KERALA-670582', 'Registered Societies (Non-Government)', 'WESTERN GHATS BEEKEEPING AND MARKETING SOCIETY(WBMS)');
+
+INSERT INTO Heads VALUES ('160', 'JOSEPH DENNIS', 'President');
+INSERT INTO Heads VALUES ('160', 'ANEESH THOMAS', 'Secretary');
+INSERT INTO Heads VALUES ('160', 'BIJU VARGHESE', 'Joint Secretary');
+

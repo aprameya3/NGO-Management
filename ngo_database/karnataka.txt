@@ -1,0 +1,51 @@
+INSERT INTO NGO VALUES (141, 'Karnataka', 'Women Development and Empowerment', 'No 268, 6th cross, 1st block, Jayanagar, Bengaluru-560011, Karnataka', 'Registered Societies (Non-Government)', 'Akila Bharatha Mahila Seva Samaja');
+INSERT INTO Heads VALUES (141, 'Laxmi Ananda Rao', 'President');
+INSERT INTO Heads VALUES (141, 'Ashish Shetty', 'Vice President');
+INSERT INTO Heads VALUES (141, 'Dushyant R Prasad', 'Secretary');
+INSERT INTO Heads VALUES (141, 'Mahesh Shandilya', 'Member');
+INSERT INTO Heads VALUES (141, 'Ajay Kumar P K', 'Treasurer');
+
+INSERT INTO NGO VALUES (142, 'KARNATAKA', 'Differently Abled', 'No.106/1, Ashwathamma Land, 12th Cross, 3rd Main, Hoysalanagar, T C Palya Main Road, Ramamurthynagar, Dooravaninagar Post', 'Trust (Non-Government)', 'AKILAM FOUNDATIONS SPIRITUAL and CHARITABLE TRUST');
+INSERT INTO Heads VALUES (142, 'Manigandan G', 'Chairman');
+INSERT INTO Heads VALUES (142, 'YASHODHA M', 'Secretary');
+
+INSERT INTO NGO VALUES (143, 'KARNATAKA', 'Art and Culture', 'Ward No 20, Allam Karibasappa Colony, Sanganakallu Road, Ballary – 583102', 'Trust (Non-Government)', 'ALAAP SANGEETHA KALA TRUST');
+INSERT INTO Heads VALUES (143, 'B RAMANAPPA', 'President');
+INSERT INTO Heads VALUES (143, 'R POOJITHA', 'Secretary');
+INSERT INTO Heads VALUES (143, 'K SUJATA', 'Treasurer');
+
+INSERT INTO NGO VALUES (144, 'KARNATAKA', 'Children', '1-A, 5TH MAIN, N R COLONY, BENGALURU', 'Registered Societies (Non-Government)', 'AMRUTHA SHISHU NIVASA');
+INSERT INTO Heads VALUES (144, 'TATACHAR SREENIVASAN', 'President');
+INSERT INTO Heads VALUES (144, 'SHYAM PRASAD TEKKEKERE SUBRAHMANYA BHAT', 'Joint Secretary');
+INSERT INTO Heads VALUES (144, 'LAKSHMI NARAYANA SHARMA', 'Treasurer');
+INSERT INTO Heads VALUES (144, 'SURYA NARAYANA UMASHANKAR', 'Secretary');
+
+INSERT INTO NGO VALUES (146, 'KARNATAKA', 'Differently Abled', 'LOKESH J S/O JAYARAMAPPA V, KALLUDI-561208, GOURIBIDANUR (T), CHIKKABALLAPUR (D), KARNATAKA STATE', 'Trust (Non-Government)', 'AVUMA TRUST');
+INSERT INTO Heads VALUES (146, 'CHANDRAKALA KN', 'Chief Functionary');
+INSERT INTO Heads VALUES (146, 'LOKESH J', 'Chairman');
+INSERT INTO Heads VALUES (146, 'J GAYITHRI', 'Treasurer');
+
+INSERT INTO NGO VALUES (147, 'KARNATAKA', 'Environment and Forests', '285, 10th Cross, Rashi Residency Layout, Kadabagere', 'Trust (Non-Government)', 'Bat Conservation India Trust');
+INSERT INTO Heads VALUES (147, 'Rajesh Bittasandra Puttaswamaiah', 'President');
+INSERT INTO Heads VALUES (147, 'Chaitra Maraliga Ramaiah', 'Trustee');
+
+INSERT INTO NGO VALUES (148, 'KARNATAKA', 'Children', 'No 179 8th cross Chikkagollarahatti Rathnanagar near Ayur Ashram Bangalore 560091', 'Trust (Non-Government)', 'BHARAVASE TRUST');
+
+INSERT INTO Heads VALUES (148, 'MOHAN GOWDA R', 'President');
+INSERT INTO Heads VALUES (148, 'PAVITHRA B R', 'Treasurer');
+INSERT INTO Heads VALUES (148, 'Pavithra K', 'Secretary');
+INSERT INTO Heads VALUES (148, 'Thimmegowda K P', 'Vice President');
+INSERT INTO Heads VALUES (148, 'Roopesh K', 'Joint Secretary');
+
+INSERT INTO NGO VALUES (149, 'KARNATAKA', 'Youth Affairs', '843, 1st Main Rd, BDA Layout I Block, HAL 3rd Stage, Bhoomi Reddy Colony, New Tippasandra, Bengaluru, Karnataka 560075', 'Private Sector Companies', 'WELIVE FOUNDATION');
+INSERT INTO Heads VALUES (149, 'Anant Gangola', 'Director');
+INSERT INTO Heads VALUES (149, 'Ramya Sundararajan', 'Chief Executive Officer');
+INSERT INTO Heads VALUES (149, 'N S Parthasarathy', 'Board Member');
+
+INSERT INTO NGO VALUES (150, 'KARNATAKA', 'Drinking Water', 'SY 7P and 93P, ELECTRONIC CITY WEST, INDUSTRIAL AREA, BEGUR HOBLI, BANGALORE560100', 'Private Sector Companies', 'VATTIKUTI INDIA FOUNDATION');
+INSERT INTO Heads VALUES (150, 'Joseph Neri', 'Chief Functionary and Director');
+INSERT INTO Heads VALUES (150, 'Gopal D Chakravarthy', 'Director');
+
+
+
+
