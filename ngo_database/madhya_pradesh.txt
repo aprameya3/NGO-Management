@@ -1,0 +1,59 @@
+INSERT INTO NGO VALUES ('161', 'MADHYA PRADESH', 'Aged/Elderly', 'Artys, 148 teja ji nagar kasturbagram khandwa road indore', 'Registered Societies (Non-Government)', 'AABHAS KALA SEWA SAMITI');
+INSERT INTO Heads VALUES ('161', 'Arjun Chouhan', 'President');
+INSERT INTO Heads VALUES ('161', 'PURNIMA GOUD', 'Secretary');
+INSERT INTO Heads VALUES ('161', 'monesh sanghvi', 'Treasurer');
+
+INSERT INTO NGO VALUES ('162', 'MADHYA PRADESH', 'Drinking Water', 'Aahuti Foundation Krishna Kunj,Rajghat Colony,Datia(M.P) 475661', 'Registered Societies (Non-Government)', 'Aahuti Foundation');
+INSERT INTO Heads VALUES ('162', 'Vaishali Agarwal', 'President');
+INSERT INTO Heads VALUES ('162', 'VIKASH TYAGI', 'Vice President');
+INSERT INTO Heads VALUES ('162', 'ANIL KUMAR KHARE', 'Secretary');
+INSERT INTO Heads VALUES ('162', 'Sunil Singhal', 'Treasurer');
+
+INSERT INTO NGO VALUES ('163', 'MADHYA PRADESH', 'Rural Development and Poverty Alleviation', 'Radhika Garden water plant, Gali no.4 Chhatarpur MP 471001', 'Registered Societies (Non-Government)', 'Abhar Mahila Samiti');
+INSERT INTO Heads VALUES ('163', 'prabhati khare', 'President');
+INSERT INTO Heads VALUES ('163', 'Praveena Rai', 'Vice President');
+INSERT INTO Heads VALUES ('163', 'kalpna Sing Gond', 'Secretary');
+INSERT INTO Heads VALUES ('163', 'Nisha Khare', 'Treasurer');
+INSERT INTO Heads VALUES ('163', 'Archana khare', 'Board Member');
+
+
+INSERT INTO NGO VALUES ('164', 'MADHYA PRADESH', 'Art and Culture', 'E-3/10A,ARERA COLONY ,Next to Nalanada school , 10 NO MARKET AREA', 'Registered Societies (Non-Government)', 'Baithak -The art house');
+INSERT INTO Heads VALUES ('164', 'Ramesh shrivastava', 'President');
+INSERT INTO Heads VALUES ('164', 'SANJEEV SHRIVASTAVA', 'Secretary');
+INSERT INTO Heads VALUES ('164', 'GEETA SHRIVASTAVA', 'Treasurer');
+
+INSERT INTO NGO VALUES ('165', 'MADHYA PRADESH', 'Urban Development and Poverty Alleviation', 'House No. 801, PWD Shed No. 09 Ke Pichhe, Jawahar Chowk', 'Registered Societies (Non-Government)', 'CHANAKYA SAMAJIK JAN UTTHAN WEFARE SOCIETY');
+INSERT INTO Heads VALUES ('165', 'RAHUL YADAV', 'President');
+INSERT INTO Heads VALUES ('165', 'BHAGWAN SINGH LODHI', 'Secretary');
+INSERT INTO Heads VALUES ('165', 'MAHESH YADAV', 'Treasurer');
+
+INSERT INTO NGO VALUES ('166', 'MADHYA PRADESH', 'HIV/AIDS', '35-B, Kasturba Nagar, Bhopal, M.P', 'Registered Societies (Non-Government)', 'DASHMESH EDUCATIONAL SOCIETY');
+INSERT INTO Heads VALUES ('166', 'SUKHMINDER KAUR CHAWLA', 'President');
+INSERT INTO Heads VALUES ('166', 'HARPREET KAUR', 'Secretary');
+INSERT INTO Heads VALUES ('166', 'JASPAL KAUR CHAWLA', 'Member');
+
+INSERT INTO NGO VALUES ('167', 'MADHYA PRADESH', 'Education and Literacy', 'GRAMIN SEWA KENDRA MANDALINATHU, PO-MANDLINATHU, TEH-RANAPUR, DIST-JHABUA, MP', 'Registered Societies (Non-Government)', 'GRAMIN N SEWA KENDRA');
+INSERT INTO Heads VALUES ('167', 'MALLABHAI ROJH', 'Chairman');
+INSERT INTO Heads VALUES ('167', 'KATARA DALSING DHANABHAI', 'Secretary');
+INSERT INTO Heads VALUES ('167', 'NAHAR SINGH', 'Vice Chairman');
+
+INSERT INTO NGO VALUES ('168', 'MADHYA PRADESH', 'Dalit Upliftment', '46-Geet Apartment-5 Old Ashoka Garden Bhopal-462023 MP', 'Registered Societies (Non-Government)', 'Hopes Society for Community Empowerment and Research');
+INSERT INTO Heads VALUES ('168', 'PRAVEEN MATHUR', 'President');
+INSERT INTO Heads VALUES ('168', 'SANTOSH KUMAR', 'Joint Secretary');
+INSERT INTO Heads VALUES ('168', 'ARCHANA DEVI', 'Secretary');
+INSERT INTO Heads VALUES ('168', 'SAVITRI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('169', 'MADHYA PRADESH', 'Health and Family Welfare', 'F NO 602 DAISY APARTMENT SHALIMAR TOWNSHIP INDORE M.P. 452010', 'Registered Societies (Non-Government)', 'INDORE ONCOLOGISTS ASSOCIATION');
+INSERT INTO Heads VALUES ('169', 'Rajesh Patidar', 'President');
+INSERT INTO Heads VALUES ('169', 'Akash Tiwari', 'Vice President');
+INSERT INTO Heads VALUES ('169', 'Vikas Asati', 'Secretary');
+INSERT INTO Heads VALUES ('169', 'Abhilasha Goyal', 'Treasurer');
+INSERT INTO Heads VALUES ('169', 'Rajesh Patidar', 'Member');
+
+INSERT INTO NGO VALUES ('170', 'MADHYA PRADESH', 'Art and Culture', 'Ahata Rustam Khan, House No. 892, Mohalle Ka Nam Ahata Rustam Khan, Gandhi Bhavan Ke Pas, Shyamla Hills Bhopal', 'Registered Societies (Non-Government)', 'YAMINI CULTURAL AND WELFARE SOCIETY');
+INSERT INTO Heads VALUES ('170', 'RAVINDRA MORE', 'President');
+INSERT INTO Heads VALUES ('170', 'RAJ KUMAREE BARAHA', 'Secretary');
+INSERT INTO Heads VALUES ('170', 'SEEMA MORE', 'Treasurer');
+
+
+
