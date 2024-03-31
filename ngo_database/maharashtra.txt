@@ -1,0 +1,51 @@
+INSERT INTO NGO VALUES ('171', 'MAHARASHTRA', 'Aged/Elderly', 'AT. SAMATANAGAR, BORIVALI, NEAR Z.P. SCHOOL MARATHI, POST. PADGHA, TAL. BHIWANDI', 'Trust (Non-Government)', 'LOKDHARA PRATISHTHAN');
+INSERT INTO Heads VALUES ('171', 'MILIND SURESH JADHAV', 'President');
+INSERT INTO Heads VALUES ('171', 'AKSHAY SURESH JADHAV', 'Secretary');
+INSERT INTO Heads VALUES ('171', 'AMOL SURESH JADHAV', 'Treasurer');
+
+INSERT INTO NGO VALUES ('172', 'MAHARASHTRA', 'Health and Family Welfare', 'Dimond Homes Basment B, Opp Manas Society, Bhaskar, Thane, Thane, Maharashtra- 400099', 'Private Sector Companies', '1 RUPEE CLINIC FOUNDATION');
+INSERT INTO Heads VALUES ('172', 'AMOL BHIMRAO GHULE', 'Director');
+
+INSERT INTO NGO VALUES ('173', 'MAHARASHTRA', 'Environment and Forests', 'PANJRAPOLE, JAY BHOLA NAGAR, DINQUARRY MARG, CHEMBUR, MUMBAI', 'Trust (Non-Government)', 'AADHAR CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('173', 'HARIHARAN S', 'President');
+INSERT INTO Heads VALUES ('173', 'NILESH BALASAHEB PAWAR', 'Chairman');
+
+INSERT INTO NGO VALUES ('174', 'MAHARASHTRA', 'Rural Development and Poverty Alleviation', 'AmarAmrut Road, Raysingpura, Nandurbar Dist Nandurbar', 'Other Registered Entities (Non-Government)', 'YUVARANG FOUNDATION');
+INSERT INTO Heads VALUES ('174', 'Jitendra Jagdish Lule', 'President');
+INSERT INTO Heads VALUES ('174', 'Rahul Dattatray Shinde', 'Secretary');
+INSERT INTO Heads VALUES ('174', 'Jyoti Jitendra Lule', 'Member');
+
+INSERT INTO NGO VALUES ('175', 'MAHARASHTRA', 'Animal Husbandry', 'C/O SHRI NARESH GOPALRAO WANKAR R/O 128, KHARBI ROAD, BHAVAN SHALEJAVAL, SHESHNAGAR, HANUMAN NAGAR, NAGPUR', 'Registered Societies (Non-Government)', 'WINNER BAHUDDESHIY SANSTHA');
+INSERT INTO Heads VALUES ('175', 'AMOL KASHIRAM JAWANJALKAR', 'President');
+INSERT INTO Heads VALUES ('175', 'NARESH GOPALRAOJI WANKAR', 'Secretary');
+INSERT INTO Heads VALUES ('175', 'Umesh Mahadeorao Waghamare', 'Treasurer');
+
+INSERT INTO NGO VALUES ('176', 'MAHARASHTRA', 'Differently Abled', 'Shishu Niketan, Umrale, Nalasopara (West)', 'Trust (Non-Government)', 'Vivekanand Shobha Jeevan Jyoti Kendra');
+INSERT INTO Heads VALUES ('176', 'Sunil Narender Khanna', 'Chairman');
+INSERT INTO Heads VALUES ('176', 'Subhasri Duttagupta', 'Vice Chairman');
+
+INSERT INTO NGO VALUES ('177', 'MAHARASHTRA', 'Aged/Elderly', 'UTTAR BHARTIYA MAHASANGH 1 GHANSHYAM DUBE TOWER M.G. ROAD, BORIVALI (EAST) MUMBAI 400 066', 'Registered Societies (Non-Government)', 'UTTAR BHARTIYA MAHASANGH');
+INSERT INTO Heads VALUES ('177', 'DR YOGESH DUBE', 'Chairman');
+INSERT INTO Heads VALUES ('177', 'RAMESH MATADIN MISHRA', 'Secretary');
+INSERT INTO Heads VALUES ('177', 'AWADH NARAYAN YADAV', 'Treasurer');
+
+INSERT INTO NGO VALUES ('178', 'MAHARASHTRA', 'Drinking Water', 'Pandurang Nandkishor Hulker At post Takli Ku Tq. Dist. Parbhani. 431540', 'Registered Societies (Non-Government)', 'TULJAI PRATISHTHAN TAKLI KU');
+INSERT INTO Heads VALUES ('178', 'Anita Pralhad Apshinde', 'President');
+INSERT INTO Heads VALUES ('178', 'Pandurang Nandkishor Hulekar', 'Secretary');
+INSERT INTO Heads VALUES ('178', 'Mohan Jankirampant Joshi', 'Joint Secretary');
+
+INSERT INTO NGO VALUES ('179', 'MAHARASHTRA', 'Rural Development and Poverty Alleviation', 'Swatantravir Savarkar Mandal, sector 25, Bulk Land, Pradhikaran Nigdi Pune 44', 'Trust (Non-Government)', 'Swatantryaveer Savarkar Mandal');
+INSERT INTO Heads VALUES ('179', 'Satish Baswant Patil', 'President');
+INSERT INTO Heads VALUES ('179', 'Bhaskar Keru Rikame', 'Secretary');
+INSERT INTO Heads VALUES ('179', 'RATNAKAR JANARDAN DEO', 'Treasurer');
+
+INSERT INTO NGO VALUES ('180', 'MAHARASHTRA', 'Children', 'Bassein Fort, P. O.Vasai,401 201 Dist. Palghar', 'Trust (Non-Government)', 'ST GONSALO GARCIA ASHRAM');
+INSERT INTO Heads VALUES ('180', 'Sunil Santhosh Serrao', 'Chairman');
+INSERT INTO Heads VALUES ('180', 'Norbert Balthazar Dsouza', 'Secretary');
+INSERT INTO Heads VALUES ('180', 'AMIT RAMCHANDRA MAHEROTRA', 'Member');
+
+
+
+
+
+
