@@ -1,0 +1,54 @@
+INSERT INTO NGO VALUES ('191', 'MEGHALAYA', 'Children', 'MAWSYNJRI, KHARANG', 'Registered Societies (Non-Government)', 'ANNIE MARGARET BARR CHILDRENS VILLAGE');
+INSERT INTO Heads VALUES ('191', 'BIANGHEIPORMI NIANGTI', 'Chairman');
+INSERT INTO Heads VALUES ('191', 'DRANWELL BARISHISHA MUKHIM', 'Secretary');
+INSERT INTO Heads VALUES ('191', 'CREAMLIMON NONGBRI', 'Executive Member');
+
+INSERT INTO NGO VALUES ('192', 'MEGHALAYA', 'Sports', 'TURA, West Garo Hills, Meghalaya', 'Registered Societies (Non-Government)', 'DURA WASAA ASSOCIATION TURA');
+INSERT INTO Heads VALUES ('192', 'Fleming Ch. Marak', 'President');
+INSERT INTO Heads VALUES ('192', 'GARY GILSANG CH. SANGMA', 'General Secretary');
+INSERT INTO Heads VALUES ('192', 'Gary Gilsang Ch Sangma', 'Treasurer');
+
+INSERT INTO NGO VALUES ('193', 'MEGHALAYA', 'Civic Issues', 'First Floor, Hotel Sapphire, Keating Road, Shillong- 793001', 'Registered Societies (Non-Government)', 'EASTERN PANORAMA FOUNDATION');
+INSERT INTO Heads VALUES ('193', 'Kamal Kumar Jhunjhunwala', 'President');
+INSERT INTO Heads VALUES ('193', 'Harsh Jhunjhunwala', 'Secretary');
+INSERT INTO Heads VALUES ('193', 'Madhulata Jhunjhunwala', 'Vice President');
+
+INSERT INTO NGO VALUES ('194', 'MEGHALAYA', 'Rural Development and Poverty Alleviation', 'LAITRYNGEW SOHRA ROAD SHELLA BHOLAGANJ BLOCK EAST KHASI HILLS DISTRICT MEGHALAYA 793111', 'Registered Societies (Non-Government)', 'KA LAWEI INTEGRATED RURAL DEVELOPMENT SOCIETY');
+INSERT INTO Heads VALUES ('194', 'ARMY STAR NONGKHLAW', 'Chairman');
+INSERT INTO Heads VALUES ('194', 'BANKERLANG DIENGDOH', 'Secretary');
+INSERT INTO Heads VALUES ('194', 'KENYSIUS THYRNIANG', 'Treasurer');
+
+INSERT INTO NGO VALUES ('195', 'MEGHALAYA', 'Sports', 'C/O ANJANA ARENG TURA AMPATI ROAD PO TURA HAWAKHANA PROPER 17293 HAWAKHANA West Garo Hills ML 794001 IN', 'Private Sector Companies', 'MEGHALAYA AUTKARSH FOUNDATION');
+INSERT INTO Heads VALUES ('195', 'ANJANA ARENG', 'Director');
+INSERT INTO Heads VALUES ('195', 'PALLAB D ARENGH', 'Office Bearer');
+
+INSERT INTO NGO VALUES ('196', 'MEGHALAYA', 'Sports', 'Sagarmal Ramkumar,Thana Road', 'Registered Societies (Non-Government)', 'Meghalaya Golf Promoters Society');
+INSERT INTO Heads VALUES ('196', 'GAURAV BAJAJ', 'President');
+INSERT INTO Heads VALUES ('196', 'Kishan Singhania', 'Treasurer');
+INSERT INTO Heads VALUES ('196', 'Daniel Surong Jyrwa', 'Vice President');
+
+INSERT INTO NGO VALUES ('197', 'MEGHALAYA', 'Health and Family Welfare', 'At Walbakgre,DistrictWest Garo Hills , StateiMeghalaya - Pin- 794101', 'Trust (Non-Government)', 'P A SANGMA FOUNDATION');
+INSERT INTO Heads VALUES ('197', 'Soradini Sangma', 'President');
+INSERT INTO Heads VALUES ('197', 'Thomas a Sangma', 'Secretary');
+INSERT INTO Heads VALUES ('197', 'Dr Charles Reuben Lyngdoh', 'Joint Secretary');
+INSERT INTO Heads VALUES ('197', 'Bebeth Sangma', 'Treasurer');
+
+INSERT INTO NGO VALUES ('198', 'MEGHALAYA', 'Art and Culture', 'C/o. Lovelymon Dkhar, Madanrting, Shillong, East Khasi Hills, Meghalaya-793021', 'Private Sector Companies', 'POSITIVE ENERGY ART FOUNDATION');
+INSERT INTO Heads VALUES ('198', 'PRAKASH KISHORE', 'Chairman');
+INSERT INTO Heads VALUES ('198', 'UMESHWARI DKHAR', 'Secretary');
+INSERT INTO Heads VALUES ('198', 'RAJEEV RANJAN', 'Treasurer');
+
+INSERT INTO NGO VALUES ('199', 'MEGHALAYA', 'Drinking Water', 'Village and BPO. Kyndongtuber-793150, West Jaintia Hills District, Meghalaya.', 'Registered Societies (Non-Government)', 'SEIN KYNTULANG KI KYNTHAI KYNDONGTUBER');
+INSERT INTO Heads VALUES ('199', 'DAKARUPA SWER', 'Secretary');
+INSERT INTO Heads VALUES ('199', 'ROBINA SWER', 'Member');
+
+INSERT INTO NGO VALUES ('200', 'MEGHALAYA', 'Sports', 'Dommyntong (Village) B.P.O.Marskuin P.o.Nongstoin west Khasi Hills .793119', 'Registered Societies (Non-Government)', 'Seng Khasi Cultural Club Social Sports Dommyntong');
+INSERT INTO Heads VALUES ('200', 'slanding lyngkhoi', 'President');
+INSERT INTO Heads VALUES ('200', 'Darilin lyngkhoi', 'Secretary');
+INSERT INTO Heads VALUES ('200', 'Wida kharkylliang', 'Others');
+
+
+
+
+
+

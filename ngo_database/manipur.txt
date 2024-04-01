@@ -1,0 +1,51 @@
+INSERT INTO NGO VALUES ('181', 'MANIPUR', 'Environment and Forests', 'SEGA ROAD THOUDABHABOK LEIKAI', 'Registered Societies (Non-Government)', 'ANOUBA IMA MANIPUR YAIPHA LUP');
+INSERT INTO Heads VALUES ('181', 'CHAKPRAM INDUBALA DEVI', 'President');
+INSERT INTO Heads VALUES ('181', 'THINGUJAM MANISHANG DEVI', 'Secretary');
+INSERT INTO Heads VALUES ('181', 'YUMNAM NOLINI DEVI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('182', 'MANIPUR', 'Children', 'GAILILONG,TAMEI, TAMENGLONG, MANIPUR', 'Academic Institutions (Private)', 'Apou Kading High School');
+INSERT INTO Heads VALUES ('182', 'GUITHUANPHUNGBOU PAMEI', 'Chairman');
+INSERT INTO Heads VALUES ('182', 'NK HUTHONBOU', 'Secretary');
+INSERT INTO Heads VALUES ('182', 'HEMANG CHAWANG', 'Treasurer');
+
+INSERT INTO NGO VALUES ('183', 'MANIPUR', 'Youth Affairs', 'K Salbung Village, Churachandpur', 'Registered Societies (Non-Government)', 'CENTRE FOR RESOURCE MANAGEMENT AND COMMUNITY DEVELOPMENT (CEREMCOD)');
+INSERT INTO Heads VALUES ('183', 'CH Khailet', 'Chairman');
+INSERT INTO Heads VALUES ('183', 'GINKHOSIEM SINGSON', 'Secretary');
+INSERT INTO Heads VALUES ('183', 'T Lunkhosei Singson', 'Treasurer');
+
+INSERT INTO NGO VALUES ('184', 'MANIPUR', 'Rural Development and Poverty Alleviation', 'VENGPUI, RENGKAI', 'Registered Societies (Non-Government)', 'EIN GEDI');
+INSERT INTO Heads VALUES ('184', 'JOSEPH D JOUTE', 'Chairman');
+INSERT INTO Heads VALUES ('184', 'ELDA ROHLUOTHANG', 'Secretary');
+INSERT INTO Heads VALUES ('184', 'ANNIE GANESH SHINDE', 'Treasurer');
+
+INSERT INTO NGO VALUES ('185', 'MANIPUR', 'Animal Husbandry', 'SAIKUL BAZAR, SADAR HILLS EAST, PO', 'Trust (Non-Government)', 'GOODFAITH FOUNDATION');
+INSERT INTO Heads VALUES ('185', 'LUNMINTHANG DIMNGEL', 'President');
+INSERT INTO Heads VALUES ('185', 'NEIKHOVAH DIMNGEL', 'Secretary');
+INSERT INTO Heads VALUES ('185', 'PAOTINLEN DIMNGEL', 'Treasurer');
+
+INSERT INTO NGO VALUES ('186', 'MANIPUR', 'Education and Literacy', 'Kakching Khullen Turel Wangma Part I, P.O. Kakching, Thoubal District, Manipur-795103, India', 'Registered Societies (Non-Government)', 'Hindi Prachar Parishad');
+INSERT INTO Heads VALUES ('186', 'Raju Yengkhom', 'President');
+INSERT INTO Heads VALUES ('186', 'Yengkhom Polendro Singh', 'Secretary');
+INSERT INTO Heads VALUES ('186', 'Yengkhom Modhuchandra Singh', 'Member');
+
+INSERT INTO NGO VALUES ('187', 'MANIPUR', 'Women Development and Empowerment', 'Rengkai, P.O. Churachandpur, Churachandpur, Manipur, PIN795128', 'Registered Societies (Non-Government)', 'Hmar Women Association');
+INSERT INTO Heads VALUES ('187', 'Joute Lal Sawmi', 'President');
+INSERT INTO Heads VALUES ('187', 'Rebecca Siemlien Hmar', 'Secretary');
+INSERT INTO Heads VALUES ('187', 'Lalrinpui', 'Treasurer');
+
+INSERT INTO NGO VALUES ('188', 'MANIPUR', 'Art and Culture', 'Akampat Pungyeibam Leirak, Imphal East - 795001, Manipur, India.', 'Registered Societies (Non-Government)', 'Institute of Performing Arts');
+INSERT INTO Heads VALUES ('188', 'CHINGAKHAM NANDAKUMAR SINGH', 'Chief Functionary');
+INSERT INTO Heads VALUES ('188', 'MAKHONMANI MONGSABA', 'Chairman');
+INSERT INTO Heads VALUES ('188', 'CHINGAKHAM NANDAKUMAR SINGH', 'Secretary');
+INSERT INTO Heads VALUES ('188', 'BACHASPATIMAYUM RABITA DEVI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('189', 'MANIPUR', 'Differently Abled', 'KAKCHING CHUMNANG LEIKAI', 'Registered Societies (Non-Government)', 'KAKA FOUNDATION');
+INSERT INTO Heads VALUES ('189', 'MAYANGLAMBAM INDRAKUMAR SINGH', 'President');
+INSERT INTO Heads VALUES ('189', 'RAHUL NONGMAITHEM', 'Secretary');
+INSERT INTO Heads VALUES ('189', 'MOIRANGTHEM MEMTOMBI DEVI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('190', 'MANIPUR', 'Science and Technology', 'Heingang Mayai Leikai', 'Trust (Non-Government)', 'THE UNIQUE MODEL ACADEMY');
+INSERT INTO Heads VALUES ('190', 'KONJENGBAM JAYENTA SINGH', 'Chairman');
+INSERT INTO Heads VALUES ('190', 'SAPAM HEMCHANDRA SINGH', 'Secretary');
+INSERT INTO Heads VALUES ('190', 'NAOROIBAM DEWAN SINGH', 'Treasurer');
+INSERT INTO Heads VALUES ('190', 'KHOINAIJAM NARA SINGH', 'Trustee');
