@@ -1,0 +1,56 @@
+INSERT INTO NGO VALUES ('201', 'MIZORAM', 'Women Development and Empowerment', 'SAZEP BRANCH', 'Registered Societies (Non-Government)', 'SAZEP BRAN MIZO HMEICHHE INSUIHKHAWM PAWL');
+INSERT INTO Heads VALUES ('201', 'LALTANPUII', 'Adviser');
+INSERT INTO Heads VALUES ('201', 'ZORAMTHANGI SAILO', 'President');
+INSERT INTO Heads VALUES ('201', 'K LALMALSAWMI', 'Assistant Secretary');
+
+INSERT INTO NGO VALUES ('202', 'MIZORAM', 'Agriculture', 'H.NO. B/12 MRF TYRE SHOWROOM BUILDING DAWRPUI VENGTHAR AIZAWL, MIZORAM-796001', 'Registered Societies (Non-Government)', 'AINAWN SOCIETY');
+INSERT INTO Heads VALUES ('202', 'Malsawmi Sen', 'President');
+INSERT INTO Heads VALUES ('202', 'LALCHHUANAWMI', 'Treasurer');
+INSERT INTO Heads VALUES ('202', 'Lalthansanga', 'Secretary');
+
+INSERT INTO NGO VALUES ('203', 'MIZORAM', 'Sports', 'No.188, Dawrpui West, Aizawl, Mizoram', 'Registered Societies (Non-Government)', 'AIZAWL FOOTBALL CLUB');
+INSERT INTO Heads VALUES ('203', 'Vanlalnghaka Chhawnchhek', 'Secretary');
+INSERT INTO Heads VALUES ('203', 'Robert Romawia Royte', 'President');
+INSERT INTO Heads VALUES ('203', 'Lalhriatchiani', 'Treasurer');
+INSERT INTO Heads VALUES ('203', 'Hmingthansanga', 'Assistant Secretary');
+
+INSERT INTO NGO VALUES ('204', 'MIZORAM', 'Sports', 'T Section, Dinthar Veng', 'Registered Societies (Non-Government)', 'Dinthar Football Club');
+INSERT INTO Heads VALUES ('204', 'Hmingthansiama', 'Chairman');
+INSERT INTO Heads VALUES ('204', 'Johny Lalrinchhana', 'Secretary');
+INSERT INTO Heads VALUES ('204', 'Lalthianghlima', 'Treasurer');
+
+INSERT INTO NGO VALUES ('205', 'MIZORAM', 'Art and Culture', 'c/o SHADE, Durtlang Road, Bawngkawn, Aizawl-796 014 Mizoram', 'Registered Societies (Non-Government)', 'Do Re Mi Drama and Cultural Club');
+INSERT INTO Heads VALUES ('205', 'H Chhawntluanga', 'Chief Functionary');
+INSERT INTO Heads VALUES ('205', 'H Chhawntluanga Chhawntluanga', 'President');
+INSERT INTO Heads VALUES ('205', 'VL BELA', 'Secretary');
+INSERT INTO Heads VALUES ('205', 'Esther Lalthasangzuali', 'Treasurer');
+
+INSERT INTO NGO VALUES ('206', 'MIZORAM', 'Children', 'ENNA IN BOYS HOME VENGTHAR, KOLASIB-796081 MIZORAM', 'Trust (Non-Government)', 'Enna In Boys Home');
+INSERT INTO Heads VALUES ('206', 'ALPHONSA LALRINKIMI', 'Counceller');
+INSERT INTO Heads VALUES ('206', 'C LALKHUMI', 'Nurse');
+INSERT INTO Heads VALUES ('206', 'Zothanmawia', 'Board Member');
+
+INSERT INTO NGO VALUES ('207', 'MIZORAM', 'Aged/Elderly', 'Isua Krista Kohhran, Headquarters Office, Ground Floor, Bualpui (NG), Lawngtlai,796891', 'Registered Societies (Non-Government)', 'Isua Krista Kohhran');
+INSERT INTO Heads VALUES ('207', 'Lalzaidama', 'Accountant');
+INSERT INTO Heads VALUES ('207', 'JM Lalhuapliana', 'General Secretary');
+INSERT INTO Heads VALUES ('207', 'VANLALHRUAIA', 'Cashier');
+
+INSERT INTO NGO VALUES ('208', 'MIZORAM', 'Women Development and Empowerment', 'Mizo Hmeichhe Insuihkhawm Pawl(MHIP), N.Khawlek Branch, N.Khawlek; Mizoram', 'Registered Societies (Non-Government)', 'MHIP NORTH KHAWLEK BRANCH');
+INSERT INTO Heads VALUES ('208', 'Lalduhsaki', 'President');
+INSERT INTO Heads VALUES ('208', 'Lalrodawngi', 'Secretary');
+INSERT INTO Heads VALUES ('208', 'Lalrinfeli', 'Finance Secretary');
+
+INSERT INTO NGO VALUES ('209', 'MIZORAM', 'HIV/AIDS', 'B-48, Muka Colony, Mission Veng, Aizawl, Mizoram', 'Registered Societies (Non-Government)', 'NATIONAL EXHILARATION UNION SOCIETY (NEXUS)');
+INSERT INTO Heads VALUES ('209', 'Benjamin Tlangthanmawia', 'Chairman');
+INSERT INTO Heads VALUES ('209', 'Samuel Zothantluanga', 'Secretary');
+INSERT INTO Heads VALUES ('209', 'Lalhmingthangi', 'Treasurer');
+
+INSERT INTO NGO VALUES ('210', 'MIZORAM', 'HIV/AIDS', 'New Hope Society, Bethel Veng, Champhai Mizoram796321', 'Registered Societies (Non-Government)', 'NEW HOPE SOCIETY');
+INSERT INTO Heads VALUES ('210', 'Lalnunsangi', 'President');
+INSERT INTO Heads VALUES ('210', 'Lalchhanhimi', 'Secretary');
+INSERT INTO Heads VALUES ('210', 'Lalvulmawii', 'Treasurer');
+
+
+
+
+
