@@ -1,0 +1,50 @@
+INSERT INTO NGO VALUES ('251', 'SIKKIM', 'Legal Awareness and Aid', 'Martam, Gyalshing, West Sikkim', 'Registered Societies (Non-Government)', 'Arithang Neel Gagan Development Society');
+INSERT INTO Heads VALUES ('251', 'Bir Bahadur Rai', 'President');
+INSERT INTO Heads VALUES ('251', 'Dilli Ram Sharma', 'Treasurer');
+INSERT INTO Heads VALUES ('251', 'Pabi Maya Sharma', 'Board Member');
+
+INSERT INTO NGO VALUES ('252', 'SIKKIM', 'Health and Family Welfare', 'Lower Burtuk, near Helipad Indira byepass road, Gangtok East Sikkim', 'Registered Societies (Non-Government)', 'Association for Social Health in India Sikkim');
+INSERT INTO Heads VALUES ('252', 'Rudra Poudyal', 'Chairman');
+INSERT INTO Heads VALUES ('252', 'Thakur Prasad Koirala', 'Vice President');
+INSERT INTO Heads VALUES ('252', 'Khus Kumari Subba', 'Secretary');
+INSERT INTO Heads VALUES ('252', 'Sharada Pradhan', 'President');
+
+INSERT INTO NGO VALUES ('253', 'SIKKIM', 'Environment and Forests', 'Deorali Chorten Gonpa P O Tadong Nonrural- INR', 'Trust (Non-Government)', 'DODRUPCHEN CHORTEN TRUST');
+INSERT INTO Heads VALUES ('253', 'Dodrupchen Rimpoche', 'Trustee');
+INSERT INTO Heads VALUES ('253', 'Lobzang Lepcha', 'Secretary');
+INSERT INTO Heads VALUES ('253', 'Dukgay Tshering Lepcha', 'Assistant Treasure');
+INSERT INTO Heads VALUES ('253', 'C.L Denzongpa', 'Chief Functionary');
+
+INSERT INTO NGO VALUES ('254', 'SIKKIM', 'Environment and Forests', 'SAJONG RUMTEK GANGTOK EAST SIKKIM -737135', 'Other Registered Entities (Non-Government)', 'FUTURITY CLUB');
+INSERT INTO Heads VALUES ('254', 'KAILASH CHETTRI', 'President');
+INSERT INTO Heads VALUES ('254', 'RAMESH CHETTRI', 'Vice President');
+INSERT INTO Heads VALUES ('254', 'SAROJ GURUNG', 'Treasurer');
+
+INSERT INTO NGO VALUES ('255', 'SIKKIM', 'Environment and Forests', 'Mandir Dara, New Secondary School Road, Namchi, South Sikkim -737126', 'Trust (Non-Government)', 'Himalayan Institute of Natural Sciences');
+INSERT INTO Heads VALUES ('255', 'Hemant Dawarhi', 'Chairman');
+INSERT INTO Heads VALUES ('255', 'Saraswoti Aale', 'Administrative Officer');
+INSERT INTO Heads VALUES ('255', 'Devika Sharma', 'Treasurer');
+
+INSERT INTO NGO VALUES ('256', 'SIKKIM', 'HIV/AIDS', 'Mazhi Goan, Jorethang, South, Sikkim, Pin No- 737121', 'Registered Societies (Non-Government)', 'HOPE CENTRE');
+INSERT INTO Heads VALUES ('256', 'PREM KUMAR CHETTRI', 'Chief Chairman');
+INSERT INTO Heads VALUES ('256', 'Aroon Subba', 'Secretary');
+INSERT INTO Heads VALUES ('256', 'SUREN TAMANG', 'Accountant');
+
+INSERT INTO NGO VALUES ('257', 'SIKKIM', 'Tourism', 'Yuksam,West Sikkim P.O Yuksam, West SikkimPin number 737113 India', 'Registered Societies (Non-Government)', 'KHANGCHENDZONGA CONSERVATION COMMITTEE');
+INSERT INTO Heads VALUES ('257', 'Kinzong Sharap Bhutia', 'Secretary');
+INSERT INTO Heads VALUES ('257', 'Tshering Uden Bhutia', 'President');
+INSERT INTO Heads VALUES ('257', 'Ongyala Bhutia', 'Treasurer');
+
+INSERT INTO NGO VALUES ('258', 'SIKKIM', 'Civic Issues', 'Perbing Samteling Gumpa Managing Committee, Perbing, P.O. Perbing, P S Namchi, South Sikkim', 'Other Registered Entities (Non-Government)', 'Perbing Samteling Gumpa Managing Committee');
+INSERT INTO Heads VALUES ('258', 'Dawa Dadul Sherpa', 'President');
+INSERT INTO Heads VALUES ('258', 'Mingma Topden Sherpa', 'Secretary');
+INSERT INTO Heads VALUES ('258', 'Pema Tshering Sherpa', 'Treasurer');
+
+INSERT INTO NGO VALUES ('259', 'SIKKIM', 'Science and Technology', 'LOWER SRIPATAM, NEAR SANSKRIT PATHSALA, Yangang, Sikkim', 'Other Registered Entities (Non-Government)', 'SRIPATAM SANSKRIT PATHSALA (SCHOOL) MANAGING COMMITTEE');
+INSERT INTO Heads VALUES ('259', 'CHURAMANI GAUTAM', 'Member');
+INSERT INTO Heads VALUES ('259', 'SHIVA LALL GAUTAM', 'President');
+
+INSERT INTO NGO VALUES ('260', 'SIKKIM', 'Youth Affairs', 'Stars Of Hope, Baraily Bhawan, Development Area, Near Sangram Hall, Gangtok, East Sikkim', 'Trust (Non-Government)', 'Stars Of Hope');
+INSERT INTO Heads VALUES ('260', 'Bikash Thapa', 'Chairman');
+INSERT INTO Heads VALUES ('260', 'Jeena Subedi', 'Secretary');
+INSERT INTO Heads VALUES ('260', 'Praticha Chettri', 'Project Incharge');

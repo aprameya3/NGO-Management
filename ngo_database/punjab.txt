@@ -1,0 +1,54 @@
+INSERT INTO NGO VALUES ('231', 'PUNJAB', 'Differently Abled', 'OPPOSITE PEER BANNA BANOI DARGAH, PEER NANNA BANOI ROAD, SUNAM', 'Trust (Non-Government)', 'ANAND GURU KIRPA WELFARE FOUNDATION');
+INSERT INTO Heads VALUES ('231', 'HARDEV SINGH HANJRA', 'President');
+INSERT INTO Heads VALUES ('231', 'NARESH KUMAR', 'Treasurer');
+
+INSERT INTO NGO VALUES ('232', 'PUNJAB', 'Dalit Upliftment', 'H. NO. 148, KRISHANA ENCLAVE, DHAKOLI, ZIRAKPUR, SAS NAGAR,PUNJAB-140603', 'Trust (Non-Government)', 'ATULYA PRAYAS CHARITABLE SOCIETY');
+INSERT INTO Heads VALUES ('232', 'RAMNIK SHARMA', 'Chairman');
+INSERT INTO Heads VALUES ('232', 'MONICA RAI', 'Secretary');
+INSERT INTO Heads VALUES ('232', 'AMANDEEP SHARMA', 'Joint Secretary');
+INSERT INTO Heads VALUES ('232', 'MANDEEP SINGH', 'Additional Secretary');
+
+INSERT INTO NGO VALUES ('233', 'PUNJAB', 'Youth Affairs', 'h.no.450/11 prem nagar hardo chhanni road gurdaspur', 'Registered Societies (Non-Government)', 'badhte kadam');
+INSERT INTO Heads VALUES ('233', 'WILLIAM GILL', 'President');
+INSERT INTO Heads VALUES ('233', 'RAFIQ MASIH', 'Secretary');
+INSERT INTO Heads VALUES ('233', 'RACHNA', 'Treasurer');
+
+INSERT INTO NGO VALUES ('234', 'PUNJAB', 'Urban Development and Poverty Alleviation', 'VPO NIHAL KHERA TEH AND DISTT FAZILKA', 'Registered Societies (Non-Government)', 'bhimraoeducation');
+INSERT INTO Heads VALUES ('234', 'TARA CHAND SHILA', 'President');
+INSERT INTO Heads VALUES ('234', 'NEELAM', 'Vice President');
+INSERT INTO Heads VALUES ('234', 'MANJU RANI', 'Secretary');
+INSERT INTO Heads VALUES ('234', 'MANPREET KAUR', 'Member');
+INSERT INTO Heads VALUES ('234', 'MUKESH KUMAR', 'Adviser');
+
+INSERT INTO NGO VALUES ('235', 'PUNJAB', 'Health and Family Welfare', 'CHINMAYA AMRIT CHINMAYA MARG E-BLOCK RANJIT AVENUE, AMRITSAR.', 'Trust (Non-Government)', 'CHINMAYA MISSION AMRITSAR TRUST');
+INSERT INTO Heads VALUES ('235', 'AVINASH MOHINDRU', 'Chairman');
+INSERT INTO Heads VALUES ('235', 'ASHWANI MALHOTRA', 'Trustee');
+
+INSERT INTO NGO VALUES ('236', 'PUNJAB', 'Differently Abled', '161/13, HUSSAINPURA, NEW MARKET, AMRITSAR', 'Registered Societies (Non-Government)', 'DRISHTI FOUNDATION FOR THE BLIND');
+INSERT INTO Heads VALUES ('236', 'RAVINDER KUMAR JOSHI', 'President');
+INSERT INTO Heads VALUES ('236', 'VISHU CHAND', 'Member');
+
+INSERT INTO NGO VALUES ('237', 'PUNJAB', 'Children', 'FRISHTA INDIA CHARITABLE TRUST, VILLAGE MUKANDPUR, DERABASSI, S.A.S NAGAR, MOHALI, PUNJAB', 'Trust (Non-Government)', 'FRISHTA INDIA CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('237', 'KULDIP STUDLEY', 'President');
+INSERT INTO Heads VALUES ('237', 'BACHITTER SINGH', 'Senior Vice President');
+INSERT INTO Heads VALUES ('237', 'IMSUMEREN PONGEN', 'Secretary');
+INSERT INTO Heads VALUES ('237', 'BHUPINDER SINGH', 'Member');
+
+INSERT INTO NGO VALUES ('238', 'PUNJAB', 'Sports', '1281, GALI NO.2, RAJINDER NAGAR, CIVIL LINE LUDHIANA', 'Registered Societies (Non-Government)', 'GUJJAR SAMAJ SUDHAR SABHA');
+INSERT INTO Heads VALUES ('238', 'KRISHAN DEV', 'President');
+INSERT INTO Heads VALUES ('238', 'RAM SINGH', 'Chairman');
+INSERT INTO Heads VALUES ('238', 'JAGDISH KUMAR BHUMBLA', 'Joint Secretary');
+INSERT INTO Heads VALUES ('238', 'BALDEV RAJ', 'Vice Chairman');
+
+INSERT INTO NGO VALUES ('239', 'PUNJAB', 'Women Development and Empowerment', '112-L, 1st Floor, Model Town, Behind Arya Samaj Mandir, Jalandhar', 'Registered Societies (Non-Government)', 'JAGDAMBAY HANDICRAFTS WOMAN WELFARE SOCIETY');
+INSERT INTO Heads VALUES ('239', 'SAROJ RANI', 'President');
+INSERT INTO Heads VALUES ('239', 'ARJUN THAPAR', 'Secretary');
+INSERT INTO Heads VALUES ('239', 'JAI PAL SAHNI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('240', 'PUNJAB', 'Youth Affairs', 'House No. 56, Guru Gobind Singh Avenue GT Road Bypass, Jalandhar 144009', 'Registered Societies (Non-Government)', 'YUVAA');
+INSERT INTO Heads VALUES ('240', 'Ankur Sharma', 'Chief Functionary');
+INSERT INTO Heads VALUES ('240', 'Chahat', 'Chairman');
+INSERT INTO Heads VALUES ('240', 'Arusa', 'Secretary');
+INSERT INTO Heads VALUES ('240', 'Manpreet Singh', 'Treasurer');
+INSERT INTO Heads VALUES ('240', 'Vishesh Arora', 'Vice President');
+

@@ -1,0 +1,54 @@
+INSERT INTO NGO VALUES ('211', 'NAGALAND', 'Women Development and Empowerment', 'APONZA WOMEN SOCIETY. K.STATION B.P.O KANDINU.. P.O TSEMINYU-797109. KOHIMA DISTRICT NAGALAND.', 'Registered Societies (Non-Government)', 'APONZA WOMEN SOCIETY');
+INSERT INTO Heads VALUES ('211', 'SENELI APON RENGMA', 'Chairman');
+INSERT INTO Heads VALUES ('211', 'NEISENUO APON RENGMA', 'Treasurer');
+INSERT INTO Heads VALUES ('211', 'HAICHULI APON', 'Secretary');
+
+INSERT INTO NGO VALUES ('212', 'NAGALAND', 'Education and Literacy', 'Clark Theological College, Aolijen, Mokokchung ,Nagaland', 'Academic Institutions (Private)', 'Clark Theological College');
+INSERT INTO Heads VALUES ('212', 'Marnungsang', 'President');
+INSERT INTO Heads VALUES ('212', 'A.Temjen jamir', 'Chief Functionary');
+INSERT INTO Heads VALUES ('212', 'Atoba Tali Ao', 'Vice Chairman');
+INSERT INTO Heads VALUES ('212', 'Renbi Rangthang', 'Secretary');
+
+INSERT INTO NGO VALUES ('213', 'NAGALAND', 'HIV/AIDS', 'Cultural Club Of Ahthibung Peren, Nagaland-797110', 'Registered Societies (Non-Government)', 'Cultural Club Of Ahthibung');
+INSERT INTO Heads VALUES ('213', 'MANGKHOLEN LENTHANG', 'Chief Functionary');
+INSERT INTO Heads VALUES ('213', 'Janghao', 'Chairman');
+INSERT INTO Heads VALUES ('213', 'MANGKHOLEN LENTHANG', 'Secretary');
+INSERT INTO Heads VALUES ('213', 'LHAINEITHEM', 'Treasurer');
+
+INSERT INTO NGO VALUES ('214', 'NAGALAND', 'Education and Literacy', 'House No. 44, Lane5, 7th Mile,Model Village, Chumukedima,Dimapur: Nagaland', 'Registered Societies (Non-Government)', 'Dreamers Education Foundation');
+INSERT INTO Heads VALUES ('214', 'Khiuchunlungbou K Newmai', 'Director');
+INSERT INTO Heads VALUES ('214', 'Langonglu Panmei', 'Treasurer');
+INSERT INTO Heads VALUES ('214', 'Poukenhalakliu Newmai', 'Executive Member');
+
+INSERT INTO NGO VALUES ('215', 'NAGALAND', 'Health and Family Welfare', 'Hongphoi village Mon District', 'Registered Societies (Non-Government)', 'HONGPHOI TEYO MULTIPURPOSE COOPERATIVE SOCIETY LIMITED');
+INSERT INTO Heads VALUES ('215', 'wangham', 'Chairman');
+INSERT INTO Heads VALUES ('215', 'temom konyak', 'Secretary');
+INSERT INTO Heads VALUES ('215', 'jukhao konyak', 'Treasurer');
+
+INSERT INTO NGO VALUES ('216', 'NAGALAND', 'Drinking Water', 'Khala Lagha Welfare Society Thilixu Village, Dimapur, Nagaland', 'Registered Societies (Non-Government)', 'KHALA LAGHA WELFARE SOCIETY');
+INSERT INTO Heads VALUES ('216', 'Henito', 'Chief Functionary');
+INSERT INTO Heads VALUES ('216', 'Henito', 'Chairman');
+INSERT INTO Heads VALUES ('216', 'ViKali', 'Secretary');
+INSERT INTO Heads VALUES ('216', 'Kishevi', 'Treasurer');
+
+INSERT INTO NGO VALUES ('217', 'NAGALAND', 'Women Development and Empowerment', 'korangmopu ward Mongsenyimti Village mokokchung district pin 798601', 'Registered Societies (Non-Government)', 'MONGSENLEPER WOMEN WELFARE SOCIETY');
+INSERT INTO Heads VALUES ('217', 'ZULUTEMJEN JAMIR', 'Executive Member');
+INSERT INTO Heads VALUES ('217', 'MEYISONGLA', 'Secretary');
+INSERT INTO Heads VALUES ('217', 'AYANGLA', 'Member');
+
+INSERT INTO NGO VALUES ('219', 'NAGALAND', 'HIV/AIDS', 'NNP , Secretariat, M.K Market, Kohima, Nagaland, Pin code- 797001', 'Registered Societies (Non-Government)', 'Network of Naga People Living with HIV and AIDS');
+INSERT INTO Heads VALUES ('219', 'Lanu', 'President');
+INSERT INTO Heads VALUES ('219', 'Lucy Wungleng', 'Treasurer');
+INSERT INTO Heads VALUES ('219', 'T Temsu Jamir', 'Secretary');
+
+INSERT INTO NGO VALUES ('220', 'NAGALAND', 'Urban Development and Poverty Alleviation', 'Naga Colony, Burma Camp, Nagaland, Dimapur, Pin-797112', 'H/RS-554', 'Social reformation and upliftment society');
+INSERT INTO Heads VALUES ('220', 'Mairikiu John', 'President');
+INSERT INTO Heads VALUES ('220', 'Shanti Malangmai', 'Secretary');
+INSERT INTO Heads VALUES ('220', 'Namgawi Charles', 'Asisstant Secretary');
+INSERT INTO Heads VALUES ('220', 'Kachugai Longmei', 'Vice President');
+INSERT INTO Heads VALUES ('220', 'Chalandonbo Malangmai', 'Treasurer');
+INSERT INTO Heads VALUES ('220', 'Abuiliu Malangmai', 'Executive Member');
+
+
+
+

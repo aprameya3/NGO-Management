@@ -1,0 +1,47 @@
+INSERT INTO NGO VALUES ('221', 'ORISSA', 'Legal Awareness and Aid', '401, Shanti Nivas, Bomikhal Near Esplanade mall, Rasulgarh', 'Trust (Non-Government)', '3rd Eye Foundation');
+INSERT INTO Heads VALUES ('221', 'SATCHIDANAND MAHAPATRA', 'Chairman');
+INSERT INTO Heads VALUES ('221', 'LIPSA BEHERA', 'Secretary');
+INSERT INTO Heads VALUES ('221', 'PRADEEP KUMAR RATH', 'Treasurer');
+
+INSERT INTO NGO VALUES ('222', 'ORISSA', 'Environment and Forests', 'At/Po- Balliguda (Kamana sahi) Dist-Kandhamal ORISSA PIN-72103', 'Registered Societies (Non-Government)', 'AgrivediC');
+INSERT INTO Heads VALUES ('222', 'BIKASH MOHANTY', 'Secretary');
+INSERT INTO Heads VALUES ('222', 'TUSHAR KANTA MISHRA', 'President');
+INSERT INTO Heads VALUES ('222', 'SISINTI SUSIL KUMAR PATRA', 'Treasurer');
+
+INSERT INTO NGO VALUES ('223', 'ORISSA', 'Rural Development and Poverty Alleviation', 'At- Bali Sahi, Nuapada, Madhupatna, Cuttack', 'Registered Societies (Non-Government)', 'AMA GAON AMA MAA AMA MIRAMBIKA');
+INSERT INTO Heads VALUES ('223', 'Jiban Jyoti Barik', 'President');
+INSERT INTO Heads VALUES ('223', 'Subhashree Behera', 'Secretary');
+INSERT INTO Heads VALUES ('223', 'Satyajit Mohanty', 'Treasurer');
+
+INSERT INTO NGO VALUES ('224', 'ORISSA', 'Aged/Elderly', 'At-Balisahi, Po-Pattanaikia, Via-Sakhigopal,Dist-Puri', 'Registered Societies (Non-Government)', 'barunei agragami jubak sangha');
+INSERT INTO Heads VALUES ('224', 'Mr. Sangram Kishor Dash', 'Secretary');
+INSERT INTO Heads VALUES ('224', 'Laxmi Priya Gahana', 'President');
+INSERT INTO Heads VALUES ('224', 'Biswajit Hota', 'Treasurer');
+
+INSERT INTO NGO VALUES ('225', 'ORISSA', 'Aged/Elderly', 'AT- BARTOLI, POST- JABAGHAT, VIA- JHIRPANI, ROURKELA- 769042,DIST- SUNDERGARH,ODISHA', 'Registered Societies (Non-Government)', 'CENTRE FOR PEOPLES HELP CARE SOCIETY');
+INSERT INTO Heads VALUES ('225', 'MANSID EKKA', 'Chief Functionary');
+INSERT INTO Heads VALUES ('225', 'MANSID EKKA', 'Chairman');
+
+INSERT INTO NGO VALUES ('226', 'ORISSA', 'Civic Issues', 'AT-SHYAMRAIPUR, PO-REMUNA, BALASORE', 'Registered Societies (Non-Government)', 'CENTRE FOR RESEARCH AND SOCIAL REFORMS');
+INSERT INTO Heads VALUES ('226', 'SK SAMI AHMAD', 'President');
+INSERT INTO Heads VALUES ('226', 'JARINA BIBI', 'Treasurer');
+INSERT INTO Heads VALUES ('226', 'PARWEEN NISHA', 'Secretary');
+
+INSERT INTO NGO VALUES ('227', 'ORISSA', 'Drinking Water', 'INDIPUR,DHENKANAL,ODISHA', 'Trust (Non-Government)', 'COMMON MAN FOUNDATION');
+INSERT INTO Heads VALUES ('227', 'SAROJ KUMAR SAHOO', 'Founder');
+INSERT INTO Heads VALUES ('227', 'ANITA SAHOO', 'Trustee');
+
+INSERT INTO NGO VALUES ('228', 'ORISSA', 'Human Rights', 'UNIT NO DCB-722, DLF CYBERCITY, IDCO INFO PARK CHANDAKA INDUSTRIAL ESTATE, PATIA BHUBANESWAR Khordha OR 751024 IN', 'Private Sector Companies', 'DEARLIFE CHARITABLE FOUNDATION');
+INSERT INTO Heads VALUES ('228', 'PRAMOD KUMAR ROUL', 'CMD');
+INSERT INTO Heads VALUES ('228', 'SUKANYA SHARMA', 'Director');
+INSERT INTO Heads VALUES ('228', 'PRAKASH CHANDRA RAULA', 'Senior Advisor');
+
+INSERT INTO NGO VALUES ('229', 'ORISSA', 'Rural Development and Poverty Alleviation', 'AT/P.O-BARAKHAMA', 'Trust (Non-Government)', 'EXODUS CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('229', 'BROS ALEN DIGAL', 'Secretary');
+INSERT INTO Heads VALUES ('229', 'ADAM DIGAL', 'President');
+INSERT INTO Heads VALUES ('229', 'DEEPALI MOHANTY', 'Treasurer');
+
+INSERT INTO NGO VALUES ('230', 'ORISSA', 'Health and Family Welfare', 'GAJAPATI NAGAR 6TH LANE', 'Trust (Non-Government)', 'ZION FELLOWSHIP');
+INSERT INTO Heads VALUES ('230', 'SAMUEL SONDOR', 'Secretary');
+INSERT INTO Heads VALUES ('230', 'JHARANA SONDOR', 'President');
+INSERT INTO Heads VALUES ('230', 'JAMES SONDOR', 'Treasurer');

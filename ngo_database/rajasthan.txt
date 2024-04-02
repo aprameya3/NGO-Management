@@ -1,0 +1,47 @@
+INSERT INTO NGO VALUES ('241', 'RAJASTHAN', 'Education and Literacy', 'BHUNABAI JAIPUR ROAD AJMER', 'Registered Societies (Non-Government)', 'Akhil Bhartiya Shree Maharshi Gautam Sikshan Shodh Sansthan');
+INSERT INTO Heads VALUES ('241', 'Radheshyam Sharma', 'Chairman');
+INSERT INTO Heads VALUES ('241', 'Raja Ram Sharma', 'President');
+INSERT INTO Heads VALUES ('241', 'Ram Swaroop Sharma', 'Treasurer');
+
+INSERT INTO NGO VALUES ('242', 'RAJASTHAN', 'Women Development and Empowerment', 'Women and Child Development Department Near Income Tax Office, Mandawa Mod, Jhunjhunu333001', 'Registered Societies (Non-Government)', 'AMRITA BAHUDESHYA PRATMIK SAHKARI SAMITI LIMITED JHUNJHUNU');
+INSERT INTO Heads VALUES ('242', 'RUKAMANI', 'President');
+INSERT INTO Heads VALUES ('242', 'DEEPAK SWAMI', 'Chief Executive Officer');
+INSERT INTO Heads VALUES ('242', 'SHABEENA', 'Vice President');
+
+INSERT INTO NGO VALUES ('243', 'RAJASTHAN', 'Environment and Forests', 'Nagaur(Rajasthan)', 'Registered Societies (Non-Government)', 'AMRITA TREE GROWER AND SOCIAL SANSTHAN NAGAUR');
+INSERT INTO Heads VALUES ('243', 'RAM LAL', 'Secretary');
+INSERT INTO Heads VALUES ('243', 'KISHNA RAM', 'President');
+INSERT INTO Heads VALUES ('243', 'SURGYAN', 'Treasurer');
+
+INSERT INTO NGO VALUES ('244', 'RAJASTHAN', 'Health and Family Welfare', '117, INDUSTRIAL AREA, JHOTWARA', 'Trust (Non-Government)', 'BALAJEE CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('244', 'KAILASH KUMAR KANODIA', 'Chairman');
+INSERT INTO Heads VALUES ('244', 'ASHISH KUMAR KANODIA', 'Secretary');
+INSERT INTO Heads VALUES ('244', 'MADHU SUDAN SOMANI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('245', 'RAJASTHAN', 'Urban Development and Poverty Alleviation', '5 RATAN BAI DAMMANI QTRS. NR TOLIYASAR BHERUJI TEMPLE, K.E.M. ROAD, BIKANER -334001 (RAJ)', 'Registered Societies (Non-Government)', 'COMMITTEE FOR HUMAN RESEARCH AND DEVELOPMENT SOCIETY');
+INSERT INTO Heads VALUES ('245', 'PRATIMA TWARI', 'President');
+INSERT INTO Heads VALUES ('245', 'CHITRA MISHRA', 'Treasurer');
+INSERT INTO Heads VALUES ('245', 'SHAFI MOHAMMAD CHOUHAN', 'Secretary');
+
+INSERT INTO NGO VALUES ('246', 'RAJASTHAN', 'Agriculture', 'Department of Entomology, Rajasthan College of Agriculture, MPUAT, Udaipur 313001', 'Registered Societies (Non-Government)', 'Entomological Research Association');
+INSERT INTO Heads VALUES ('246', 'Satish Chandra Bhardwaj', 'President');
+INSERT INTO Heads VALUES ('246', 'Manoj Kumar Mahla', 'Secretary');
+INSERT INTO Heads VALUES ('246', 'Narayan Lal Dangi', 'Treasurer');
+
+INSERT INTO NGO VALUES ('247', 'RAJASTHAN', 'Women Development and Empowerment', 'RANJIT NAGAR D-8 KE SAMNE PRAJAPATI BHAWAN BHARATPUR', 'Registered Societies (Non-Government)', 'GRAMEEN MAHILA VIKAS PRASHIKSHAN SANSTHAN');
+INSERT INTO Heads VALUES ('247', 'VIMLESH FOUJDAR', 'Secretary');
+INSERT INTO Heads VALUES ('247', 'MAVASI RAM', 'Accountant');
+INSERT INTO Heads VALUES ('247', 'NAVAL SINGH', 'President');
+
+INSERT INTO NGO VALUES ('248', 'RAJASTHAN', 'HIV/AIDS', 'A 12 Harigarh House Behind CMHO Office Baggikhana Nayapura', 'Registered Societies (Non-Government)', 'HADOTI NETWORK FOR PEOPLE LIVING WITH HIV AIDS SAMITI');
+INSERT INTO Heads VALUES ('248', 'SHREE SURESH JAIN', 'President');
+INSERT INTO Heads VALUES ('248', 'Shakir Husain', 'Treasurer');
+INSERT INTO Heads VALUES ('248', 'DURGESH', 'Secretary');
+
+INSERT INTO NGO VALUES ('249', 'RAJASTHAN', 'Urban Development and Poverty Alleviation', '551,NEW JALUPURA,SHASTRI NAGAR', 'Trust (Non-Government)', 'HELPING WORLD FOUNDATION');
+INSERT INTO Heads VALUES ('249', 'YUSUF KHAN', 'Chairman');
+INSERT INTO Heads VALUES ('249', 'MOBINA KHAN', 'Secretary');
+
+INSERT INTO NGO VALUES ('250', 'RAJASTHAN', 'Art and Culture', 'Near Nagar Parishad, Pratap Nagar, Tallaiya Road, Dhaulpur, Dholpur', 'Registered Societies (Non-Government)', 'Vivekanand bal vidyalaya Shiksha samiti');
+INSERT INTO Heads VALUES ('250', 'VIVEK SONI', 'Member');
+INSERT INTO Heads VALUES ('250', 'BALVIR SINGH VERMA', 'Secretary');
