@@ -1,0 +1,53 @@
+INSERT INTO NGO VALUES ('281', 'TRIPURA', 'HIV/AIDS', 'DrMantu Sarkar Yoga NimbarkBus StopP O Siddhi AshramAgartala Tripura West PiN 799003 Ph 9774918828 8132025165', 'Registered Societies (Non-Government)', 'AKHANDA');
+INSERT INTO Heads VALUES ('281', 'MANTU SARKAR', 'President');
+INSERT INTO Heads VALUES ('281', 'PRAN BALLAB CHAKRABORTY', 'Secretary');
+INSERT INTO Heads VALUES ('281', 'TUTAN SARKAR', 'Teacher');
+INSERT INTO Heads VALUES ('281', 'Ashesh Kumar Dey', 'Member');
+
+INSERT INTO NGO VALUES ('282', 'TRIPURA', 'Children', 'north badhar ghat,subhash pally. agartala.', 'Registered Societies (Non-Government)', 'Alor Dishari');
+INSERT INTO Heads VALUES ('282', 'Sukanta Das', 'President');
+INSERT INTO Heads VALUES ('282', 'Prasanta Das', 'Treasurer');
+INSERT INTO Heads VALUES ('282', 'Suraj Bhattacharjee', 'Secretary');
+
+INSERT INTO NGO VALUES ('283', 'TRIPURA', 'Agriculture', 'Bardawali, P.O.-A.D.Nagar, Sadar,', 'Registered Societies (Non-Government)', 'Banatattwa Khadi Gram Udyog Samity');
+INSERT INTO Heads VALUES ('283', 'Subhasish Chakraborty', 'Secretary');
+INSERT INTO Heads VALUES ('283', 'Mukta Datta Chakraborty', 'Treasurer');
+INSERT INTO Heads VALUES ('283', 'Pranab Chakraborty', 'President');
+
+INSERT INTO NGO VALUES ('284', 'TRIPURA', 'Art and Culture', 'C/o. Amitava Nag (Partha). Hospital Road. Chandrapur Colony.', 'Registered Societies (Non-Government)', 'BARNOMALA');
+INSERT INTO Heads VALUES ('284', 'Amitava Nag', 'Secretary');
+INSERT INTO Heads VALUES ('284', 'Nabajyoti Das', 'Treasurer');
+INSERT INTO Heads VALUES ('284', 'Jayanta kumar Roy', 'President');
+
+INSERT INTO NGO VALUES ('285', 'TRIPURA', 'Drinking Water', 'KAMESWAR , P.O- KAMESWAR , DHARMANAGAR ,NORTH TRIPURA DISTRICT PIN- 799253', 'Registered Societies (Non-Government)', 'Earth Key foundation');
+INSERT INTO Heads VALUES ('285', 'NITISH DEB', 'Chairman');
+INSERT INTO Heads VALUES ('285', 'ALOK DHAR', 'Treasurer');
+INSERT INTO Heads VALUES ('285', 'SUMAN CHAKRABORTY', 'Secretary');
+INSERT INTO Heads VALUES ('285', 'UTTAM DEBNATH', 'Member');
+
+INSERT INTO NGO VALUES ('286', 'TRIPURA', 'Human Rights', 'Vill Jail Road Dharmanagar North Tripura 799250', 'Trust (Non-Government)', 'HUMAN RIGHTS CELL TRIPURA');
+INSERT INTO Heads VALUES ('286', 'Suman Mohanta', 'President');
+INSERT INTO Heads VALUES ('286', 'Swapan Kumar Paul', 'Treasurer');
+INSERT INTO Heads VALUES ('286', 'Jhantu Debnath', 'Secretary');
+
+INSERT INTO NGO VALUES ('287', 'TRIPURA', 'Children', 'ABHAYNAGAR, AGARTALA, SADAR SUBDIVISION, WEST TRIPURA DISTRICT', 'Registered Societies (Non-Government)', 'MUKTI MARG');
+INSERT INTO Heads VALUES ('287', 'ANITA BASAK GHOSH', 'President');
+INSERT INTO Heads VALUES ('287', 'YAMUNA BISWAS', 'Vice President');
+INSERT INTO Heads VALUES ('287', 'SUBRATA GUHA', 'Secretary');
+INSERT INTO Heads VALUES ('287', 'APARNA SUTRADHAR', 'Member');
+INSERT INTO Heads VALUES ('287', 'BISWAJIT CHAKRABORTY', 'Treasurer');
+
+INSERT INTO NGO VALUES ('288', 'TRIPURA', 'Tribal Affairs', 'BLOOMSMOUND, P.O. :- Churaibari, Dharmanagar North Tripura', 'Other Registered Entities (Non-Government)', 'OCEANHEARTS');
+INSERT INTO Heads VALUES ('288', 'Samir Sutradhar', 'President');
+INSERT INTO Heads VALUES ('288', 'Indranil Sarkar', 'Secretary');
+INSERT INTO Heads VALUES ('288', 'Sudip Kumar Das', 'Treasurer');
+
+INSERT INTO NGO VALUES ('289', 'TRIPURA', 'Differently Abled', 'Vidya Welfare Society, Office Lane, Agartala-799001', 'Registered Societies (Non-Government)', 'VIDYA WELFARE SOCIETY');
+INSERT INTO Heads VALUES ('289', 'Niharendu Majumder', 'President');
+INSERT INTO Heads VALUES ('289', 'Tushar Kanti Sengupta', 'Secretary');
+INSERT INTO Heads VALUES ('289', 'Phalguni Saha', 'Treasurer');
+
+INSERT INTO NGO VALUES ('290', 'TRIPURA', 'Drinking Water', 'Advisor Chowmohani, Krishna Nagar, Po-Agartala sadar, West Tripura.', 'Registered Societies (Non-Government)', 'Zara Foundation');
+INSERT INTO Heads VALUES ('290', 'Salma Khatun', 'President');
+INSERT INTO Heads VALUES ('290', 'Reshmi Deb', 'Treasurer');
+INSERT INTO Heads VALUES ('290', 'Debajyoti Bhowmik', 'Board Member');

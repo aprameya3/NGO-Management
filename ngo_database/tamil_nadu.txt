@@ -1,0 +1,50 @@
+INSERT INTO NGO VALUES ('261', 'TAMIL NADU', 'Sports', 'S/O-KUMARASAMY D.NO-24K/18 VANCHIAMAN PETROL BUNK(OPP) SEETHAPATTY', 'Private Sector Companies', 'BRAVE VISION SPORTS FOUNDATION');
+INSERT INTO Heads VALUES ('261', 'PANDIAN JEEVA ANANTHI', 'President');
+INSERT INTO Heads VALUES ('261', 'BALAKUMARASAMY SELVAKUMAR', 'Secretary');
+INSERT INTO Heads VALUES ('261', 'P RAVI', 'Treasurer');
+
+INSERT INTO NGO VALUES ('262', 'TAMIL NADU', 'Drinking Water', '25,KAMARAJ NAGAR', 'Registered Societies (Non-Government)', 'PANRUTI ONDRUPATTA ILAIGNER KAZHAKAM');
+INSERT INTO Heads VALUES ('262', 'RAMU DATCHANAMOORTHY', 'President');
+INSERT INTO Heads VALUES ('262', 'KUPPUSAMY RANJITH KUMAR', 'Secretary');
+INSERT INTO Heads VALUES ('262', 'VIJAYAN MANIARASAN', 'Treasurer');
+
+INSERT INTO NGO VALUES ('263', 'TAMIL NADU', 'Women Development and Empowerment', 'No-4, Buhari building, Moores road, Chennai-600006', 'Trust (Non-Government)', '4 M TRUST');
+INSERT INTO Heads VALUES ('263', 'MARYAM ABDUL QADIR', 'Secretary');
+INSERT INTO Heads VALUES ('263', 'ABDUL QADIR', 'Chairman');
+
+INSERT INTO NGO VALUES ('264', 'TAMIL NADU', 'Aged/Elderly', 'No.10, Perambakkam, Ananthapuram Village, Mugunthagiri Post, Cheyyur Tk, Chengalpattu Dist603309', 'Trust (Non-Government)', 'Aged People Care Trust');
+INSERT INTO Heads VALUES ('264', 'Prabu Krishnan', 'Founder');
+INSERT INTO Heads VALUES ('264', 'R Lakshmi', 'Secretary');
+
+INSERT INTO NGO VALUES ('265', 'TAMIL NADU', 'Education and Literacy', 'OLD NO.5,558,NEW NO.5/123, SUBRAMANIYA BHARATHIYAR STREET, M.A.NAGAR, REDHILLS,CHENNAI600 052', 'Trust (Non-Government)', 'ANNAI BHARATHA MATHA EDUCATIONAL CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('265', 'M Arumugapandiyan', 'President');
+INSERT INTO Heads VALUES ('265', 'A PONRANI', 'Secretary');
+INSERT INTO Heads VALUES ('265', 'A Preetha', 'Treasurer');
+
+INSERT INTO NGO VALUES ('266', 'TAMIL NADU', 'Differently Abled', 'Carmel Centre for Mentally Retarded IAF Avadi Chennai - 600 055', 'Registered Societies (Non-Government)', 'Carmel Centre for Mentally Retarded');
+INSERT INTO Heads VALUES ('266', 'Sr Rosemary CMC', 'Chief Functionary');
+INSERT INTO Heads VALUES ('266', 'Sr Ann James CMC', 'Secretary');
+INSERT INTO Heads VALUES ('266', 'Sr Benitta CMC', 'Treasurer');
+INSERT INTO Heads VALUES ('266', 'VIMALA CHENGINIMATTAM', 'President');
+INSERT INTO Heads VALUES ('266', 'LIZY A P', 'Vice President');
+INSERT INTO Heads VALUES ('266', 'ROSILY I K', 'Joint Secretary');
+INSERT INTO Heads VALUES ('266', 'MERCY GEORGE T', 'Member');
+
+INSERT INTO NGO VALUES ('267', 'TAMIL NADU', 'Health and Family Welfare', '582 A D B ROAD R S PURAM COIMBATORE-641002', 'Other Registered Entities (Non-Government)', 'Eye Foundation Limited');
+INSERT INTO Heads VALUES ('267', 'RAMAMURTHY D', 'President');
+INSERT INTO Heads VALUES ('267', 'CHITRA RAMAMURTHY', 'Vice President');
+INSERT INTO Heads VALUES ('267', 'SHREYAS R', 'Secretary');
+
+INSERT INTO NGO VALUES ('268', 'TAMIL NADU', 'Agriculture', '15A BHARATHI NAGAR AYANAVARAM CHENNAI', 'Trust (Non-Government)', 'Feed Trust');
+INSERT INTO Heads VALUES ('268', 'S SOWMIYAN', 'Chairman');
+INSERT INTO Heads VALUES ('268', 'S INDHUMALINI', 'Treasurer');
+INSERT INTO Heads VALUES ('268', 'Sathiyapriya', 'Secretary');
+
+INSERT INTO NGO VALUES ('269', 'TAMIL NADU', 'Education and Literacy', '23 VALLUVAR STREET, THIYAGARAJA NAGAR, WORAIYUR', 'Trust (Non-Government)', 'HARIPRASAD EDUCATIONAL CHARITABLE TRUST');
+INSERT INTO Heads VALUES ('269', 'ANDAL MANOHARAN', 'President');
+INSERT INTO Heads VALUES ('269', 'ANANTHANARAYANAN ELANGO', 'Secretary');
+
+INSERT INTO NGO VALUES ('270', 'TAMIL NADU', 'Sports', 'BHARATHY NAGAR, CHERAMBADI, PANDALUR', 'Registered Societies (Non-Government)', 'YENDRUM ANBUDAN PARAVAIKAL SANGAM');
+INSERT INTO Heads VALUES ('270', 'MANIKANDAN C', 'Chairman');
+INSERT INTO Heads VALUES ('270', 'KATHIRESAN', 'Joint Secretary');
+INSERT INTO Heads VALUES ('270', 'SHABEER', 'Board Member');
