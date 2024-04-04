@@ -1,0 +1,61 @@
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (31, 'BRIGHT FUTURE FOR PEOPLES AND RURAL AREA DEVELOPMENT OF ASSAM', 'ASSAM', 'Agriculture', 'Old UBI Bank Building, 2nd floor, Bhuragaon Natun Bazar, P.O. Bhuragaon, P.S. Bhuragaon, MARIGAON, 782121', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (32, 'A CHIK BAPTIST CONVENTION', 'ASSAM', 'Women Development and Empowerment', 'BAGPARA, P.O KHAGARPUR, DIST: BONGAIGAON', 'Trust (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (33, 'A RAY OF HOPE SOCIETY', 'ASSAM', 'Youth Affairs', 'C/O:Madhu Sudhan Sarkar,Haflong Bazar PO/PS:HAFLONG', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (34, 'A SOCIAL FOR HUMAN RESOURCE ORGANISATION AND IMPROVEMENTS', 'ASSAM', 'Civic Issues', 'Rup Nagar, Nalbari Gaon, PO- Gopalbazar', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (35, 'A1 FOUNDATION', 'ASSAM', 'Agriculture', 'HOUSE NO-39,LAKHINGAR,R.G BORUAH ROAD,GUWAHATI,PIN-781005', 'Trust (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (36, 'Abhimat NGO', 'ASSAM', 'Art and Culture', 'BOTERTAL, BILASIPARA WARD -8, PO-HAKAMA, PS-BILASIPARA', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (37, 'AL ZAMIA MODERN ACADEMY', 'ASSAM', 'Animal Husbandry', 'VILL JHARNAR CHAR PT IV PO JORUAR CHAR PS FAKIR GANJ DIST DHUBRI ASSAM PIN 783339', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (38, 'ALOK NGO', 'ASSAM', 'Women Development and Empowerment', 'ALOK NGO, BIHPURIA WARD NO 1, PO/PSBIHPURIA, PIN784161, DIST - LAKHIMPUR ,ASAM', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (39, 'BHAIRABPUR HAFIJIA MADRASSA', 'ASSAM', 'Education and Literacy', 'VILL. BHAIRABPUR P.O. KALAIN', 'Registered Societies (Non-Government)');
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (40, 'DHANSIRI GANA MANCHA', 'ASSAM', 'Agriculture', 'SARUPATHAR, GOLAGHAT, ASSAM', 'Registered Societies (Non-Government)');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (31, 8, 'NURMAHAMMAD ALI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (31, 2, 'SHARIF AHMED');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (31, 5, 'AHAMMAD ALI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (31, 10, 'TARIF RAIHAN SIDDIQUE');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (32, 1, 'KILONA B MARAK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (32, 2, 'JOHARSON MARAK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (32, 9, 'NIRANJAN MARAK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (32, 5, 'WINGTON R MARAK');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (33, 1, 'MITHUN SARKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (33, 2, 'AVIRUP DEY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (34, 1, 'Rinku Baruah Mahanta');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (34, 6, 'Alpana Sarma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (34, 2, 'Gurupad Pathak');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (34, 7, 'Dhrubajyoti Baishya');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (34, 5, 'Kishor Kumar Sarma');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (35, 1, 'Himangshu sarma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (35, 11, 'Ashok kumar Laskar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (35, 11, 'Debasish Chutia');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (36, 2, 'Rofizul Hoque');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (36, 1, 'JAHANARA KHATUN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (36, 5, 'Moidul Islam');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (36, 7, 'S M SAIDUL ALOM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (37, 5, 'JESMINA AKTAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (37, 8, 'FOYZAL HOQUE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (37, 6, 'SHAHANUR ALOM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (37, 7, 'MOHAMMAD ROBIAL HOQUE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (37, 2, 'JEHIRUL ISLAM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (38, 1, 'TANURAM LAHAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (38, 2, 'PRADIP BHARALI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (38, 10, 'IMTIYAZ ANSARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (38, 7, 'KRISHNA NEOG');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (39, 1, 'RAHIM UDDIN LASKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (39, 6, 'MIZAZUL HOQUE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (39, 2, 'ABUL HASAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (39, 7, 'FARID AHMED BARBHUIYA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (39, 5, 'SAHID UDDIN BARBHUIYA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (40, 1, 'RAJIB SAIKIA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (40, 6, 'SANTANU PHUKAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (40, 8, 'RINTU DEKA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (40, 10, 'MONUJ GOGOI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (40, 11, 'DINESH SAIKIA');

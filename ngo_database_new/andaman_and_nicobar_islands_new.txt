@@ -1,0 +1,132 @@
+
+-- Inserting data into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(1, 'A and N KAYAKING and CANEOING ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Sports', 'C/O STATE OLYMPIC ASSOCIATION NETAJI STADIUM PORT BLAIR', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(2, 'Anandodhara', 'ANDAMAN and NICOBAR ISLANDS', 'Science and Technology', 'Room No.604(1)-MB550, Port Blair', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(3, 'AdityaNatyaAcademy', 'ANDAMAN and NICOBAR ISLANDS', 'Art and Culture', '31 M.G. Road, Opp. Sun Sea Resort, Middle Point.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(4, 'AL AMEEN EDUCATION SOCIETY', 'ANDAMAN and NICOBAR ISLANDS', 'Education and Literacy', 'Wimberly Gunj', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(5, 'Anandodhara', 'ANDAMAN and NICOBAR ISLANDS', 'Art and Culture', 'C/o Baakprotima (SBI Building) Junglighat Port Blair-744103 South Andaman PIN-744103', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(6, 'ANDAMAN AND NICOBAR KHO-KHO ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Sports', 'STATE OLYMPIC ASSOCIATION NETAJI STADIUM', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(7, 'ANDAMAN AND NICOBAR TAEKWONDO ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Sports', 'ANDAMAN NICOBAR STATE OLYMPIC ASSOCIATION NETAJI STADIUM', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(8, 'ANDAMAN AND NICOBAR CHEMIST AND DRUGGIST ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Health and Family Welfare', 'No. 2, Babu Line, Aberdeen Bazar,Port Blair, South Andaman, Andaman', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(9, 'ANDAMAN AND NICOBAR CHESS ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Sports', 'ANDAMAN NICOBAR CHESS ASSOCIATION11 KM ROAD, PORT BLAIR 744102, SOUTH ANDAMAN', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(10, 'ANDAMAN AND NICOBAR FOOTBALL ASSOCIATION', 'ANDAMAN and NICOBAR ISLANDS', 'Sports', '27, KADAMTALA', 'Registered Societies (Non-Government)');
+
+-- Inserting data into Heads_new table
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(1, 1, 'LALY JOSEPH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(1, 2, 'VAGARAM BISHNOI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(1, 3, 'ARPITA ROY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(2, 1, 'Arjith E P');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(2, 4, 'Ajit Kumar');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(2, 5, 'S. Balaji');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 1, 'ASHUTOSH KARMAKAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 6, 'KAVERI DEBSHARMA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 7, 'SATYAJIT BAIN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 8, 'NABA KUMAR DHAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 8, 'ARUP KUMAR ROY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(3, 5, 'NANDALAL DEBSHARMA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(4, 9, 'ZAINUDDIN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(4, 2, 'C KADIJA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(4, 5, 'C P MOHAMMED SHAFIQUE');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(5, 9, 'Anadiranjan Biswas');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(5, 2, 'DIPEN SAHA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(5, 5, 'Rina Saha');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(6, 1, 'RAVINDER PAL SINGH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(6, 2, 'CHELLURU UMAPATHI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(6, 3, 'BIJOY KUMAR LOHAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(7, 7, 'V A SHIYAD');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(7, 2, 'BINOY KUMAR BAROI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(7, 5, 'KAMAL DHALI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(8, 1, 'VIVEK KUMAR MISRA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(8, 2, 'P K ANISH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(8, 5, 'R. VADIVELAN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(9, 1, 'C S ASHOK');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(9, 2, 'B NEELAIAH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(9, 5, 'N T SUBA LAXMI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(10, 7, 'M K HUSSAIN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(10, 2, 'SAPNA BALA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(10, 3, 'MOHAMMED RAFIQUE');
+

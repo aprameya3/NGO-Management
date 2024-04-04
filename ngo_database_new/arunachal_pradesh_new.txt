@@ -1,0 +1,83 @@
+-- NGO 21
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(21, 'AANE SIANG SOCIETY', 'ARUNACHAL PRADESH', 'Art and Culture', 'Jomlo Mobuk, District: Siang, Arunachal Pradesh-791003', 'Registered Societies (Non-Government)');
+
+-- NGO 22
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(22, 'AARRO WELFARE SOCIETY', 'ARUNACHAL PRADESH', 'HIV and AIDS', 'Yahung Tekseng Simar Colony Yingkiong PO/PS Yingkiong -791002 District Upper Siang Arunachal Pradesh', 'Registered Societies (Non-Government)');
+
+-- NGO 23
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(23, 'Amik Matai Society', 'ARUNACHAL PRADESH', 'Animal Husbandry', 'Amik Matai Society Post Box No 8 New Mekailiang Tezu PO Tezu Lohit District Arunachal Pradesh 792 001', 'Registered Societies (Non-Government)');
+
+-- NGO 24
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(24, 'Arunachal Pradesh Bamboo Resources and Development Agency (APBRDA)', 'ARUNACHAL PRADESH', 'Environment and Forests', 'SFRI COMPLEX, VAN VIHAR, CHIMPU, PO- R.K MISSION, PS- ITANAGAR', 'Registered Societies (Non-Government)');
+
+-- NGO 25
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(25, 'ARUNACHAL PRADESH BHIKKHU SANGHA', 'ARUNACHAL PRADESH', 'Art and Culture', 'CHOWKHAM, LOHIT-792102 (ARUNACHAL PRADESH)', 'Unknown');
+
+-- NGO 26
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(26, 'BORDUMSA MAHILA MANDAL', 'ARUNACHAL PRADESH', 'Food Processing', 'NEAR AGRICULTURE OFFICE, BORDUMSA, DIST- CHANGLANG, ARUNACHAL PRADESH, PIN- 792056', 'Registered Societies (Non-Government)');
+
+-- NGO 27
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(27, 'BRIGHT FOUNDATION', 'ARUNACHAL PRADESH', 'Agriculture', 'PREM NAGAR, NEAR FOREST IB NAMSAI, DIST: NAMSAI, ARUNACHAL PRADESH-792103', 'Registered Societies (Non-Government)');
+
+-- NGO 28
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(28, 'Buddhist Culture Preservation Society Bomdila', 'ARUNACHAL PRADESH', 'Art and Culture', 'Buddhist Culture Preservation Society P.O. PS Bomdila West Kameng District Arunachal Pradesh PIN-790001', 'Registered Societies (Non-Government)');
+
+-- NGO 29
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(29, 'COMPUTER SOCIETY OF ARUNACHAL PRADESH TECHNO PARK', 'ARUNACHAL PRADESH', 'Education and Literacy', 'NIRJULI, PAPAUM PARE', 'Registered Societies (Non-Government)');
+
+-- NGO 30
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(30, 'H.O.P.E Foundation', 'ARUNACHAL PRADESH', 'Women Development and Empowerment', 'Natun Basti, Buddhist Colony, Deomali, Tirap district, Arunachal Pradesh', 'Registered Societies (Non-Government)');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (21, 8, 'Opung Jerang');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (21, 2, 'Gaga Gao');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (21, 5, 'Yayi Taggu');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (22, 8, 'Yahung Tekseng');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (22, 2, 'ANU PANGKAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (22, 5, 'Tilam Miyu');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (23, 11, 'Sonem Kri');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (23, 8, 'Locholum Tayang');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (23, 2, 'Sandhya Bellai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (23, 5, 'Raja Bora');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (24, 8, 'Dr. G. Murtem');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (24, 11, 'Rab Kara Taj');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (24, 6, 'KARA HAKAP');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (25, 8, 'VEN INDASARA BHIKKHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (25, 5, 'NARINDRA BHIKKHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (25, 2, 'CHOW SUJING NAMCHOOM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (26, 1, 'PISILU SINGPHO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (26, 2, 'KAIDIM SINGPHO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (26, 5, 'BISITRA MAIO');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (27, 8, 'Chow Kenkham Chowlu');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (27, 2, 'Joyten Mossang');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (27, 5, 'Sengpan Pomung');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (27, 7, 'CHOW DIPANKAR CHOWLU');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (28, 5, 'Tashi Tsering');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (28, 9, 'Dr Ngawang Thupten');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (28, 2, 'DORJEE NORBU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (28, 1, 'JAMBEY DORJEE');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (29, 8, 'BAMANG APO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (29, 2, 'TAI PAHA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (29, 5, 'BAMANG YANIAM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (30, 11, 'Mitali Tingkhatra');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (30, 8, 'Komna Moidam');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (30, 12, 'Lengran Lowang');
+

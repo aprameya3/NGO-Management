@@ -1,0 +1,80 @@
+-- NGO 51
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (51, 'AHSAS: Association For Health Systems Analysis and Strengthening', 'CHANDIGARH', 'Health and Family Welfare', 'Department of Community Medicine, School of Public Health, PGIMER, Chandigarh', 'Registered Societies (Non-Government)');
+
+-- NGO 52
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (52, 'Alankartheatrechd', 'CHANDIGARH', 'Agriculture', 'H. no -3184 , Housing Board Complex, EWS Society , sector -52 d , chandigarh', 'Registered Societies (Non-Government)');
+
+-- NGO 53
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (53, 'ARRIVE SAFE SOCIETY OF CHANDIGARH', 'CHANDIGARH', 'Children', 'Plot No 268 Sector 21A', 'Registered Societies (Non-Government)');
+
+-- NGO 54
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (54, 'Artscapes', 'CHANDIGARH', 'Art and Culture', 'Artscapes SCO 7 II Floor Sector 30 D', 'Registered Societies (Non-Government)');
+
+-- NGO 55
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (55, 'Environment Society of India', 'CHANDIGARH', 'Environment and Forests', 'Karuna Sadan, Sector 11-B', 'Registered Societies (Non-Government)');
+
+-- NGO 56
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (56, 'FAITH IMPACT SOCIETY', 'CHANDIGARH', 'Children', 'MANIMAJRA CHURCH, 5TH STREET, SHANTI NAGAR, MANIMAJRA', 'Registered Societies (Non-Government)');
+
+-- NGO 57
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (57, 'Feel For Human Charitable Trust', 'CHANDIGARH', 'Education and Literacy', '1030, Dayal Baug Society, Sector 51-B, Chandigarh 160047', 'Trust (Non-Government)');
+
+-- NGO 58
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (58, 'GIVE A PENNY FOUNDATION', 'CHANDIGARH', 'Health and Family Welfare', '3869 SECTOR 32D CHANDIGARH', 'Private Sector Companies');
+
+-- NGO 59
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (59, 'GUR AASRA TRUST', 'CHANDIGARH', 'Children', 'GUR AASRA TRUST (Regd.), Gurdwara complex, Village- Palsora, Sector-55, Chandigarh (U.T) Pin code-160055', 'Trust (Non-Government)');
+
+-- NGO 60
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (60, 'Pracheen Shree Shiv Mandir Charitable Trust', 'CHANDIGARH', 'Animal Husbandry', 'Village Mauli Jagran, Chandigarh, Pin Code-160102', 'Trust (Non-Government)');
+
+-- NGO 51
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (51, 1, 'Arun Kumar Aggarwal');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (51, 2, 'Harpreet Kaur');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (51, 5, 'Nikita Sharma');
+
+-- NGO 52
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (52, 10, 'CHAKRESH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (52, 7, 'MANJU YADAV');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (52, 7, 'HRISHABH SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (52, 10, 'RAJESH KUMAR KASHYAP');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (52, 7, 'NIRESH KUMAR');
+
+-- NGO 53
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (53, 1, 'HARMAN SINGH SIDHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (53, 4, 'Himmat Mohan Singh Ghuman');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (53, 5, 'Parkash Chander Joshi');
+
+-- NGO 54
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (54, 10, 'Simrat Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (54, 10, 'Simrat Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (54, 2, 'Anil Mehta');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (54, 5, 'Vikas Sharma');
+
+-- NGO 55
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (55, 10, 'Dr R C Mishra');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (55, 10, 'Dr R C Mishra');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (55, 2, 'N K Jhingan K Jhingan');
+
+-- NGO 56
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (56, 1, 'KARNAIL MASIH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (56, 6, 'ANIL KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (56, 5, 'MASIH DASS');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (56, 2, 'MANPAL SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (56, 7, 'SANJAY MASIH');
+
+-- NGO 57
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (57, 7, 'J S Negi');
+
+-- NGO 58
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (58, 1, 'MANOJ KOHLI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (58, 2, 'SAVITA KOHLI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (58, 5, 'MAYANK KOHLI');
+
+-- NGO 59
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (59, 1, 'Kanwar Singh Dhami');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (59, 6, 'Jagjeet Singh');
+
+-- NGO 60
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (60, 8, 'Krishan Kumar Mishra');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (60, 5, 'Kirpa Shankar Shukla');

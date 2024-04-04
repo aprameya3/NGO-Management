@@ -1,0 +1,84 @@
+-- NGO 41
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (41, '24x7ministry', 'BIHAR', 'Children', 'aprajita building, First Floor, Opp. A.N. College, Near axis Bank Boring Road', 'Trust (Non-Government)');
+
+-- NGO 42
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (42, '3H FOUNDATION', 'BIHAR', 'Education and Literacy', 'C/O RUKHSANA KHATOON,VILL-MUZAFFARPUR TOLA WARD NO33,BLOCK-MUSAHRI MUZAFFARPUR', 'Private Sector Companies');
+
+-- NGO 43
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (43, 'A BRILLIANT CHARITABLE AND DEVELOPMENT TRUST', 'BIHAR', 'Art and Culture', 'PURNI BIJLI COLONY, P.O. P.S.JEHANABAD', 'Trust (Non-Government)');
+
+-- NGO 44
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (44, 'A FUTURE OF CHILDREN IN BODHGAYA SOCIETY', 'BIHAR', 'Education and Literacy', 'VILL DURGAPUR MONIA', 'Trust (Non-Government)');
+
+-- NGO 45
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (45, 'A M EDUCATIONAL AND WELFARE TRUST', 'BIHAR', 'Agriculture', 'MAHARAJGANJ, PO-LAHERIASARAI', 'Trust (Non-Government)');
+
+-- NGO 46
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (46, 'B B EDUCATIONAL and CHARITABLE TRUST', 'BIHAR', 'Education and Literacy', 'PURI NIWAS, ROAD NO.-6C, RAJENDRA NAGAR, PATNA-800016, BIHAR', 'Trust (Non-Government)');
+
+-- NGO 47
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (47, 'NIRDHAN KALYAN KENDRA', 'BIHAR', 'Art and Culture', 'P.O. P.S.-PARWALPUR', 'Unknown');
+
+-- NGO 48
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (48, 'OM SAI EDUCATIONAL TRUST', 'BIHAR', 'Education and Literacy', 'AT MOCHARIM , P.O.- MOCHARIM , P.S.- BODHGAYA , DIST.- GAYA , BIHAR - 824231', 'Trust (Non-Government)');
+
+-- NGO 49
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (49, 'OLAMA COUNCIL TRUST', 'BIHAR', 'Agriculture', 'AT-SATLETWA, PO-TONAPATHAR, PS-SUIYA, DISTT-BANKA, STATE-BIHAR, PIN CODE-813106', 'Trust (Non-Government)');
+
+-- NGO 50
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (50, 'OM SAI EDUCATIONAL TRUST', 'BIHAR', 'Education and Literacy', 'AT MOCHARIM , P.O.- MOCHARIM , P.S.- BODHGAYA , DIST.- GAYA , BIHAR - 824231', 'Trust (Non-Government)');
+
+
+-- NGO 41
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (41, 1, 'SOLOMAN GHOSH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (41, 12, 'Lalthafali Chhangte');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (41, 13, 'JOEL GHOSH');
+
+-- NGO 42
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (42, 1, 'AZAD QURAISHI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (42, 2, 'GAUTAM KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (42, 5, 'RAJNISH KUMAR');
+
+-- NGO 43
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (43, 2, 'AJAY KUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (43, 1, 'NIRMALA KUMARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (43, 5, 'SHANTI SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (43, 13, 'KIRAN DEVI');
+
+-- NGO 44
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (44, 2, 'Brajesh kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (44, 1, 'Sagar kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (44, 13, 'Baleshwar Yadav');
+
+-- NGO 45
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (45, 1, 'MD MONAUWAR ALAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (45, 13, 'MD SHAKIR ANSARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (45, 13, 'MD NAYEEM');
+
+-- NGO 46
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (46, 1, 'APURVA PURI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (46, 6, 'USHA PURI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (46, 2, 'BARUN KUMAR PURI');
+
+-- NGO 47
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (47, 2, 'RAVINDRA KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (47, 1, 'SHANKAR RAVIDAS');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (47, 5, 'JITENDRA KUMAR');
+
+-- NGO 48
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (48, 2, 'RAJ KISHOR PRASAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (48, 1, 'SANJAY KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (48, 5, 'RAJNISH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (48, 7, 'SURENDRA PRASAD');
+
+-- NGO 49
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (49, 2, 'MD MUSTAQIM AHMAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (49, 1, 'MOHAMMAD KAMAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (49, 5, 'MOHAMMAD SUBER ANSARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (49, 7, 'MD JUNAID RAZA');
+
+-- NGO 50
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (50, 2, 'RAJ KISHOR PRASAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (50, 1, 'SANJAY KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (50, 5, 'RAJNISH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (50, 7, 'SURENDRA PRASAD');

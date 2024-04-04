@@ -1,0 +1,81 @@
+-- NGO_new values for NGO 91
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (91, 'SWAMI SHRI MANOHARRANAND MANU SEVA SANGH', 'GUJARAT', 'Education and Literacy', 'AT. :- KAVERI SANGAM , ANAVAL CROSS TA. :- MAHUVA , DIST.:- SURAT', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 92
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (92, '25 PARGANA ROHIT SAMAJ SEVA TRUST', 'GUJARAT', 'Education and Literacy', 'ROHIT VAS , SALUN , TA. NADIAD', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 93
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (93, '4LEG RESCUE FOUNDATION', 'GUJARAT', 'Animal Husbandry', '55, Giriraj Society, Part 2, Nr. HP Petrol Pump, K.K.Nagar Road, Ghatlodia, Ahmedabad382481', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 94
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (94, 'Aashray Promotion of Social Enterprises Foundation', 'GUJARAT', 'Agriculture', 'O/102 Nandanvan V Near Preranatirth Derasar Jodhpur Char Rasta', 'Private Sector Companies');
+
+-- NGO_new values for NGO 95
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (95, 'ADIVASI SEVA SANGH', 'GUJARAT', 'Education and Literacy', 'Adivasi Sevalaya, Jhagadia Dist -Bharuch Pin-393110', 'Registered Societies (Non-Government)');
+
+-- NGO_new values for NGO 96
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (96, 'Amreli District Network of People Living with HIV/AIDS', 'GUJARAT', 'HIV/AIDS', 'ADNPAbove Pareshbhai Achary Office Nr Civil Hospital Amreli 365601.', 'Registered Societies (Non-Government)');
+
+-- NGO_new values for NGO 97
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (97, 'BANAS GRAM VIKAS SAMITI', 'GUJARAT', 'Agriculture', 'A1 TIRUPATI TOWNSHIP-2, DEESA HIGHWAY, PALANPUR-385001, GUJARAT', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 98
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (98, 'CATHOLIC ASHRAM MEHSANA', 'GUJARAT', 'Children', 'ST XAVIERS HIGH SCHOOL POST BOX NO 3 RAMOSNA ROAD MEHSANA', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 99
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (99, 'UDVADA JANKALYAN AROGYA SEVA TRUST (UJAS)', 'GUJARAT', 'Health and Family Welfare', 'UDVADA JANKALYAN AROGYA SEVA TRUST (UJAS), C/O SHRI KISHAORBHAI KANTILAL GANDHI, BHAGWATI COLONY', 'Trust (Non-Government)');
+
+-- NGO_new values for NGO 100
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (100, 'SMT. USHABEN RASIKLAL SHAW DIGVIJA Y. LIONS DARDI SAHAYAK TRUST', 'GUJARAT', 'Dalit Upliftment', 'A-3, RAJHANS SOCIETY, ELLISBRIDGE, AHMEDABAD-380006', 'Trust (Non-Government)');
+
+-- Heads_new values for NGO 91
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (91, 7, 'SWAMISHREEMANOHARANAND UMAMATESHVARI');
+
+-- Heads_new values for NGO 92
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (92, 1, 'ROHIT PREMABHAI LALLUBHAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (92, 2, 'SHANKERBHAI KOHYABHAI SOLANKI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (92, 5, 'VAGHELA KANJIBHAI MAKANBHAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (92, 11, 'CHAWADA VITTHALBHAI TRIKAMBHAI');
+
+-- Heads_new values for NGO 93
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (93, 8, 'Mitesh Babubhai Chauhan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (93, 2, 'Vinaykumar Rameshchandra Katakiya');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (93, 5, 'Yogesh Balubhai Chauhan');
+
+-- Heads_new values for NGO 94
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (94, 9, 'Rajendra Joshi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (94, 10, 'Mani Swaminathan Iyer');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (94, 11, 'Sharadbala Joshi');
+
+-- Heads_new values for NGO 95
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (95, 1, 'William Bavtis Carvalho');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (95, 6, 'JADI VASAVA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (95, 5, 'ANTHONY SWAMY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (95, 2, 'JOEL REGINALD PAIS');
+
+-- Heads_new values for NGO 96
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (96, 1, 'Jignaben Madhusudanbhai Devmurari');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (96, 2, 'RADADIYA PRAVINBHAI BHIKHABHAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (96, 5, 'Solanki Minaben M');
+
+-- Heads_new values for NGO 97
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (97, 2, 'BHARATKUMAR MOTILAL THAKOR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (97, 11, 'Ankit BharatKumar Thakor');
+
+-- Heads_new values for NGO 98
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (98, 6, 'THOMAS SAVARIMUTHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (98, 7, 'THOMAS IGNAS MACWAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (98, 12, 'AROCKIASWAMY SOOSAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (98, 5, 'LAWRENCE ARULSAMY');
+
+-- Heads_new values for NGO 99
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (99, 1, 'KISHORBHAI KANTILAL GANDHI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (99, 5, 'NEHAL ASHOKBHAI DESAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (99, 11, 'HASMUKHLAL BHAGWANDAS PATEL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (99, 2, 'ASHOKKUMAR AMRATLAL RATHOD');
+
+-- Heads_new values for NGO 100
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (100, 10, 'CHIMANLAL SHANTILAL SHAH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (100, 9, 'BIPINBHAI SHANTILAL SHAH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (100, 8, 'APURVA GHELABHAI SHAH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (100, 5, 'NANDLAL GHASILAL SHAH');

@@ -1,0 +1,89 @@
+CREATE TABLE NGO_new (
+    	id int,
+	ngo_name varchar(125),
+	state varchar(50),
+	sector varchar(50),
+	address varchar(200),
+	type varchar(50),
+	primary key (id)
+);
+
+CREATE TABLE Position (
+    position_id INT PRIMARY KEY,
+    position_name VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE User_NGO_new (
+    user_id INT PRIMARY KEY,
+    username VARCHAR(50),
+    password VARCHAR(50)
+);
+
+CREATE TABLE Heads_new (
+    ngo_id INT,
+    position_id INT,
+    head_name VARCHAR(50),
+    PRIMARY KEY (ngo_id, position_id),
+    FOREIGN KEY (ngo_id) REFERENCES NGO_new(id) ON DELETE CASCADE,
+    FOREIGN KEY (position_id) REFERENCES Position(position_id)
+);
+
+CREATE TABLE Donor_new (
+    name VARCHAR(50),
+    user_id INT,
+    ngo_id INT,
+    amount DECIMAL(8, 2),
+    FOREIGN KEY (ngo_id) REFERENCES NGO_new(id) ON DELETE CASCADE,
+    FOREIGN KEY (user_id) REFERENCES User_NGO_new(user_id)
+);
+
+CREATE TABLE Volunteer_new (
+    vol_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    user_id INT,
+    ngo_id INT,
+    FOREIGN KEY (user_id) REFERENCES User_NGO_new(user_id),
+    FOREIGN KEY (ngo_id) REFERENCES NGO_new(id) ON DELETE CASCADE
+);
+
+CREATE TABLE Events_new (
+    name VARCHAR(125),
+    ngo_id INT,
+    event_id INT,
+    event_date DATE,
+    venue VARCHAR(100),
+    PRIMARY KEY (event_id),
+    FOREIGN KEY (ngo_id) REFERENCES NGO_new(id) ON DELETE CASCADE
+);
+
+
+CREATE TABLE Membership_new (
+    user_id INT,
+    ngo_id INT,
+    role VARCHAR(50),
+    PRIMARY KEY (user_id, ngo_id),
+    FOREIGN KEY (user_id) REFERENCES User_NGO_new(user_id),
+    FOREIGN KEY (ngo_id) REFERENCES NGO_new(id) ON DELETE CASCADE
+);
+
+
+INSERT INTO Position (position_id, position_name) VALUES (1, 'President');
+INSERT INTO Position (position_id, position_name) VALUES (2, 'Secretary');
+INSERT INTO Position (position_id, position_name) VALUES (3, 'Co-Treasurer');
+INSERT INTO Position (position_id, position_name) VALUES (4, 'General Secretary');
+INSERT INTO Position (position_id, position_name) VALUES (5, 'Treasurer');
+INSERT INTO Position (position_id, position_name) VALUES (6, 'Vice President');
+INSERT INTO Position (position_id, position_name) VALUES (7, 'Executive Member');
+INSERT INTO Position (position_id, position_name) VALUES (8, 'Chairman');
+INSERT INTO Position (position_id, position_name) VALUES (9, 'Joint Secretary');
+INSERT INTO Position (position_id, position_name) VALUES (10, 'Director');
+INSERT INTO Position (position_id, position_name) VALUES (11, 'Board Member');
+INSERT INTO Position (position_id, position_name) VALUES (12, 'Administrator');
+INSERT INTO Position (position_id, position_name) VALUES (13, 'Trustee');
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+-- NGO 101
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (101, '3R WASTE Foundation', 'HARYANA', 'Drinking Water', '128, National Media Centre, NH-8, Gurugram', 'Private Sector Companies');
+
+-- NGO 102
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (102, 'aam jan shiksha sansthan', 'HARYANA', 'Women Development and Empowerment', 'Jhajjar Chungi , Near Ajit Gas Service , Circular Road Rohtak -124001 (HR)', 'Registered Societies (Non-Government)');
+
+-- NGO 103
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (103, 'Mittaso Education Society', 'HARYANA', 'Children', 'Uklana Road, Narwana, District Jind, 126116', 'Registered Societies (Non-Government)');
+
+-- NGO 104
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (104, 'Nain Foundation', 'HARYANA', 'Animal Husbandry', 'RAJENDER NAGAR NEW HOUSING BOARD JIND', 'Private Sector Companies');
+
+-- NGO 105
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (105, 'MAA TULSI CHARITABLE TRUST', 'HARYANA', 'Art and Culture', 'VPO BHAINI BADSHAHPUR TAHSIL UKLANA DIST HISAR STATE HARYANA125121', 'Trust (Non-Government)');
+
+-- NGO 106
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (106, 'International Anti-Corruption Association', 'HARYANA', 'Legal Awareness and Aid', 'H. No.390, VillageRanwar, Karnal-132001', 'Trust (Non-Government)');
+
+-- NGO 107
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (107, 'JAGO INDIA JAGO', 'HARYANA', 'Environment and Forests', '36 B, PROFESSOR COLONY, BALSAMAND ROAD, HISAR', 'Trust (Non-Government)');
+
+-- NGO 108
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (108, 'GRAMIN YUVA VIKAS MANDAL SERDHA', 'HARYANA', 'Environment and Forests', 'H.NO.407, GALI NO.1, VPO SERDHA, BLOCK RAJOUND, DISTT. KAITHAL', 'Registered Societies (Non-Government)');
+
+-- NGO 109
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (109, 'Gramoday Yuva Vikas samiti', 'HARYANA', 'Agriculture', '495, Shiv Colony, Gali No.3 Palla no.1,Vill : palla', 'Trust (Non-Government)');
+
+-- NGO 110
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (110, 'CENTER FOR EMPOWERMENT and DEVELOPMENT STUDIES', 'HARYANA', 'Art and Culture', 'W2B-123, Wellington Estate, DLF phase 5, Gurgaon', 'Private Sector Companies');
+
+-- NGO 101 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (101, 4, 'Kulwant Singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (101, 8, 'Abhijit Banerji');
+
+-- NGO 102 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (102, 11, 'DHARMENDER');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (102, 10, 'NARESH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (102, 13, 'SUNITA KUMARI');
+
+-- NGO 103 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (103, 1, 'Sonu Mittal');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (103, 3, 'Ranjan Kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (103, 2, 'Bishnu Shrestha');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (103, 5, 'Nikhil Garg');
+
+-- NGO 104 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (104, 9, 'SAT PARKASH');
+
+-- NGO 105 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (105, 1, 'anshul');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (105, 4, 'Pravin Ganpati Aradwad');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (105, 2, 'SILOCHANA');
+
+-- NGO 106 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (106, 6, 'Surjeet Singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (106, 10, 'KULDEEP SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (106, 11, 'Pritpal Singh');
+
+-- NGO 107 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (107, 14, 'SEEMA MADHOK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (107, 15, 'JITENDER MADHOK');
+
+-- NGO 108 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (108, 1, 'TARSEM SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (108, 2, 'ASHOK KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (108, 3, 'SUMAN BALA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (108, 6, 'POOJA DEVI');
+
+-- NGO 109 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (109, 1, 'Anurag');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (109, 3, 'Manoj Kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (109, 2, 'Shekhar Tanwar');
+
+-- NGO 110 Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (110, 1, 'Anup Kumar Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (110, 2, 'Richa Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (110, 5, 'RAKESH RANJAN');

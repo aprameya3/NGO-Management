@@ -1,0 +1,143 @@
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(11, 'Association for Needy and Kindle the Illiterate through Action', 'ANDHRA PRADESH', 'Rural Development and Poverty Alleviation', 'Flat no-101, Sri Saidatta Residency, Secunderabad-500 094, Telangana, India.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(12, '24 SPOKES ORGANISATION', 'ANDHRA PRADESH', 'Agriculture', '3-11-1 Yallamanda,Narasaraopet, Palnadu, Andhra Pradesh-522601', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(13, '3F SWABHIMAAN FOUNDATION', 'ANDHRA PRADESH', 'Children', '3F Swabhimaan Foundation Racherla Village Pentapadu (Mandal) West Godavari Dist. Andhrapradesh-534166 Mobil:9951824777', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(14, '3T FOUNDATION', 'ANDHRA PRADESH', 'Children', '111-3-181 RAMALAYAM STREET NARENDRAPURAM RAJANAGARAM EASTGODAVARI-533294', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(15, 'A and A EDUCATIONAL AND IT SOLUTIONS', 'ANDHRA PRADESH', 'Science and Technology', 'PLOT NO. 170, VENKATESWARA COLONY, PADMAVATI NAGAR, VIZIANAGARAM', 'Academic Institutions (Private)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(16, 'A G R A', 'ANDHRA PRADESH', 'Agriculture', '13-2-264 RAMACHANDRA NAGAR ANANTAPUR - 515 001 ANDHRA PRADESH', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(17, 'A M A DEED OF LOVE CHARITABLE TRUST', 'ANDHRA PRADESH', 'Children', 'DOOR NO 6-320, BJR NAGAR, NEAR WATER TANK, PORANKI POST, KRISHNA DIST.', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(18, 'ADARSHA YOUTH MAHILA MANDALI', 'ANDHRA PRADESH', 'Art and Culture', '1-113, MAIN ROAD, KODUR- 515601, CHILAMATHUR MANDAL, ANANTAPUR DIST, ANDHRA PRADESH.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(19, 'ZION MINISTRY', 'ANDHRA PRADESH', 'Children', 'Dr no: 2-507-2 muchanapalli village,Reddy gudem mandal,Krishna dist', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+(20, 'YASH FOUNDATION', 'ANDHRA PRADESH', 'Agriculture', 'D.NO 6-12-35, 13/2 Arandalpet, Guntur,AP', 'Trust (Non-Government)');
+
+
+-- Inserting data into Heads_new table
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 5, 'WILSON DAVID RAJU GOLLA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 9, 'Prabhakara Rao Jonnalagadda');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 2, 'PEYYALA RAVI KUMAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 7, 'SHALINI PRABHATA RAVI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 6, 'KAMATAMU NIREEKSHANA RAO');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(11, 8, 'BUDDHA PARAMANANDH VIJAYA KUMAR');
+
+-- Inserting data into Heads_new table for NGO ID 12
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(12, 1, 'BONTHU AKHILESH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(12, 5, 'SATYAVARAPU NAVEEN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(12, 2, 'BAMAR ARUN SINGH');
+
+-- Inserting data into Heads_new table for NGO ID 13
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(13, 1, 'OMPRAKASH GOENKA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(13, 7, 'BHARAT KUMAR GOENKA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(13, 2, 'SUSHIL GOENKA');
+
+-- Inserting data into Heads_new table for NGO ID 14
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(14, 1, 'CHITTIPROLU LEELA SANKAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(14, 5, 'CHEEPULLA DEEKSHITH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(14, 2, 'NEELAM AYYAPPA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(14, 7, 'SANGEM DIVYA MONIKA');
+
+-- Inserting data into Heads_new table for NGO ID 15
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(15, 9, 'VENKATA LAKSHMI KAMESWARI BURRA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(15, 1, 'BURRA GUNNESWARA RAO');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(15, 5, 'J K PRASAD');
+
+-- Inserting data into Heads_new table for NGO ID 16
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(16, 8, 'ASWARTHA NARAYANASWAMY M');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(16, 8, 'RAMADEVI Y');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(16, 5, 'SETHURAM A');
+
+-- Inserting data into Heads_new table for NGO ID 17
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(17, 5, 'SILARAPU AHARON RAJU');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(17, 8, 'SILARAPU MALLIKA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(17, 6, 'BOKKA VAMSI');
+
+-- Inserting data into Heads_new table for NGO ID 18
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(18, 1, 'B SUSEELA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(18, 2, 'BHATRAJU LAVANYA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(18, 5, 'BHATRAJU SANTHAMMA');
+
+-- Inserting data into Heads_new table for NGO ID 19
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(19, 9, 'Barre Ravi Mohan');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(19, 2, 'ELIA DAGANI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(19, 5, 'SUMATHI NALLAMELLI');
+
+-- Inserting data into Heads_new table for NGO ID 20
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(20, 7, 'BEERAKA NAGESHWAR RAO');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(20, 6, 'BEERAKA NAGA SATHISH KUMAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES 
+(20, 8, 'PENUMUDI MURALI KRISHNA');
+

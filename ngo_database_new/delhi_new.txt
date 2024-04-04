@@ -1,0 +1,95 @@
+-- Insert into NGO_new for NGO 71
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (71, 'ASSOCIATION FOR SOCIAL SERVICE AND REHABILITATION OF THE AGED ASSRA', 'DELHI', 'Education and Literacy', 'BB-9-G, DDA FLATS, Munirka, Third Floor', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 72
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (72, 'RAKSHAK FOR HUMAN ALLIANCE FOUNDATION', 'DELHI', 'Children', 'HOUSE NO 8646 GROUND FLOOR GAUSHALLA ROAD LANDMARK GALI GOPAL WALI, NEW ROHTAK ROAD', 'Private Sector Companies');
+
+-- Insert into NGO_new for NGO 73
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (73, 'SHREEDHARA HUMAN WELFARE FOUNDATION', 'DELHI', 'Drinking Water', 'RZ F-760/64 Raj Nagar, PALAM COLONY, NEW DELHI South West Delhi DL 110077', 'Private Sector Companies');
+
+-- Insert into NGO_new for NGO 74
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (74, 'SOCIAL RESPONSIBILITY COUNCIL', 'DELHI', 'Disaster Management', '114F/F,PRATAP BHAWAN,BAHADURSHAH ZAFAR MARG, NEAR PYARY LAL BHAWAN DELHI Central Delhi 110002', 'Private Sector Companies');
+
+-- Insert into NGO_new for NGO 75
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (75, 'YATHARTHBODH FOUNDATION', 'DELHI', 'Agriculture', '490 1ST FLOOR JANTA FLAT GTB ENCLAVE NAND NAGRI DELHI EAST DELHI-110093', 'Private Sector Companies');
+
+-- Insert into NGO_new for NGO 76
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (76, '2 ROTI BANK FOUNDATION', 'DELHI', 'Agriculture', 'FLAT ON TOP FLOOR, KH NO.204 OF PROPERTY NO. R-48 B/3, JOGA BAI EXTENSION JAMIA NAGAR, OKHLA, NEW DELHI-110025', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 77
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (77, 'AAGHAAZ WELFARE FOUNDATION', 'DELHI', 'Children', '1A/3 G/F BLOCK-B NAI BASTI, OKHLA, DELHI', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 78
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (78, 'Absolute Return for Kids', 'DELHI', 'Education and Literacy', 'Flat No 2450, Sector – C, Pocket 2, Vasant Kunj, New Delhi 110070', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 79
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (79, 'Zenith Educational and Social Development Society', 'DELHI', 'Art and Culture', 'Regd. H.O. R-2/1, Budh Vihar, Phase I, Delhi-110086 Postal Address : G-92, Rajiv Nagar, Begumpur, Delhi-110086', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 80
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (80, 'World Urdu Association', 'DELHI', 'Art and Culture', 'F-11/43, THIRD FLOOR, NEAR NOOH MASJID, JOGABAI EXTENSION, OKHLA', 'Trust (Non-Government)');
+
+-- Heads_new for NGO ID 71
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 1, 'NAMITA SAHOO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 6, 'PRASHANTA GHADAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 2, 'ANIL KUMAR ROY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 5, 'DHARVENDRA SINGH YADAV');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 12, 'DEETI RANJITA RAY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (71, 7, 'SUSHREE ACHARYA');
+
+-- Heads_new for NGO ID 72
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (72, 10, 'LOVENEET HANDA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (72, 1, 'GEETA PURI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (72, 7, 'RAM NARESH');
+
+-- Heads_new for NGO ID 73
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (73, 1, 'Mukesh Shukla');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (73, 2, 'ASHISH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (73, 5, 'kamlesh shukla');
+
+-- Heads_new for NGO ID 74
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (74, 10, 'Aditya Singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (74, 7, 'Daksh Khurana');
+
+-- Heads_new for NGO ID 75
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (75, 8, 'RAVI UPADHYAY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (75, 2, 'KISHAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (75, 5, 'NARPAT SINGH');
+
+-- Heads_new for NGO ID 76
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (76, 1, 'MOHD YASAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (76, 2, 'MUKARRAM JALEES SIDDIQUI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (76, 5, 'FARMAN');
+
+-- Heads_new for NGO ID 77
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (77, 8, 'UZMA NAWAZ');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (77, 11, 'ATIF NAWAZ');
+
+-- Heads_new for NGO ID 78
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (78, 8, 'KRUTI BHARUCHA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (78, 9, 'Urmila Chowdhury');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (78, 5, 'Sumit Bose');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (78, 11, 'RAMESH SRINIVASAN');
+
+-- Heads_new for NGO ID 79
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (79, 1, 'BHUPENDRA KUMAR ARORA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (79, 2, 'BABUL KUMAR BOSAK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (79, 5, 'RAJAT MUTNEJA');
+
+-- Heads_new for NGO ID 80
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (80, 8, 'KHWAJA MOHAMMAD EKRAMUDDIN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (80, 9, 'MAHWASH NOOR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (80, 5, 'MD RUKNUDDIN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (80, 13, 'MD IMTEYAJUL HAQUE');
+
+
+

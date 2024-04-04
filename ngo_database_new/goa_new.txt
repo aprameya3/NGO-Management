@@ -1,0 +1,90 @@
+-- Insert into NGO_new for NGO 81
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (81, 'AKHIL VISHWA JAI SHRIRAM GOSANVARDHAN KENDRA VALPOI', 'GOA', 'Animal Husbandry', 'H,NO:-61/1,Betkikarwada,Nanus ValpoiTaluka- Sattari, District-North, State-Goa', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 82
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (82, 'Al-Falah Educational Society', 'GOA', 'Education and Literacy', 'Crescent School Chandrawada Fatorda Margao Goa', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 83
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (83, 'ATMADHARMA CHARITABLE TRUST', 'GOA', 'Children', 'Sai Samarth Niwas, 70/01 Chinchwada, Chimbel', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 84
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (84, 'AYYAPPA SEVA SAMITHI', 'GOA', 'Art and Culture', 'PB NO 131, Shree Ayyappa Temple, Mangor Hill, Vasco Da Gama', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 85
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (85, 'Bailancho Ekvott', 'Goa', 'HIV and AIDS', 'H.No. 172, Rua de Padre Miranda Margao Goa', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 86
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (86, 'Bethesda Life Centre', 'Santa Cruz', 'Women Development and Empowerment', '1503/3 Rego Bagh, Bambolim Complex, Alto Santa Cruz, Goa - 403202', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 87
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (87, 'Canossa Society Goa', 'Arambol', 'Education and Literacy', 'Stella Maris, Canossian Sisters,Modlo Vado, Arambol, Pernem Goa.', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 88
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (88, 'Care and Compassion Goa', 'Margao', 'Women Development and Empowerment', 'House No.450, DEULIMODI, MOLLAR, SARZORA, SALCETE, SOUTH GOA, GOA 403715.', 'Trust (Non-Government)');
+
+-- Insert into NGO_new for NGO 89
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (89, 'GOENCHINARISHAKTI', 'MAPUSA', 'Animal Husbandry', 'C PINTO VERDANT BLOCK A2,F2 MAPUSA GOA 403507', 'Registered Societies (Non-Government)');
+
+-- Insert into NGO_new for NGO 90
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type)
+VALUES (90, 'Konkani Bhasha Mandal', 'Margao', 'Art and Culture', 'Konkani Bhavan, Shankar Bhandari Marg,Vidyanagar, Ghogol, Margao, Goa. 403601', 'Registered Societies (Non-Government)');
+
+-- Heads_new values for NGO 81
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (81, 1, 'HANUMANT CHANDRAKANT PARAB');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (81, 2, 'GURUDAS VASUDEV VAZE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (81, 5, 'LAXMAN RAMCHANDRA JOSHI');
+
+-- Heads_new values for NGO 82
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (82, 1, 'Mohamad Nisar Subedar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (82, 2, 'Abdul Rehman Khan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (82, 12, 'Arbaaz Shaikh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (82, 6, 'Shaikh Inus Shaikh');
+
+-- Heads_new values for NGO 83
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (83, 1, 'Lavina Melvani');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (83, 2, 'Reshma Melvani');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (83, 5, 'Jeetendra Tarachand Melvani');
+
+-- Heads_new values for NGO 84
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (84, 1, 'sasindran kalathil nair');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (84, 5, 'B sankaranarayanan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (84, 7, 'subhash nair');
+
+-- Heads_new values for NGO 85
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (85, 1, 'Auda Viegas');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (85, 2, 'Fatima Vas Coutinho');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (85, 10, 'Zelfa Pedro Oliveiro');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (85, 5, 'Dorothy Celestina Rodrigues');
+
+-- Heads_new values for NGO 86
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (86, 1, 'MARTIN PHILIP');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (86, 7, 'BEENA MARTIN PHILIP');
+
+-- Heads_new values for NGO 87
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (87, 1, 'Audrey Rose Dsouza');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (87, 6, 'Grasy Luisa Rodrigues');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (87, 2, 'Jovita Bosco Mendonca');
+
+-- Heads_new values for NGO 88
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (88, 1, 'Prince Aaron Golden');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (88, 2, 'PAVANIRAJ FRANCIS JACOB');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (88, 5, 'Sujatha Prince Golden');
+
+-- Heads_new values for NGO 89
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (89, 1, 'NISHA VERNEKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (89, 6, 'PRAVIN VERNEKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (89, 11, 'ABHIJIT ARVIND GOLTEKAR');
+
+-- Heads_new values for NGO 90
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (90, 1, 'CHETAN R ACHARYA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (90, 2, 'Nityanand Naik');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (90, 5, 'Suprabhat VAMAN Bhat');

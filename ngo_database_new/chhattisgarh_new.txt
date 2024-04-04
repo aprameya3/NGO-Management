@@ -1,0 +1,73 @@
+-- NGO_new 61
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (61, '21ST CENTURY EDUCATION SOCIETY', 'CHHATTISGARH', 'Education and Literacy', 'BRILLIANT PUBLIC SCHOOLAKALTARA ROADJANJGIR', 'Registered Societies (Non-Government)');
+
+-- NGO_new 62
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (62, 'A S B S FOUNDATION', 'CHHATTISGARH', 'Women Development and Empowerment', 'SHAKUNTALA VIDHYALAY ROAD, GAYATRI MANDIR WARD NO 13, RAMNAGAR BHILAI, DIST- DURG', 'Registered Societies (Non-Government)');
+
+-- NGO_new 63
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (63, 'A Society for education welfare and ability', 'CHHATTISGARH', 'Education and Literacy', 'LIG 149 OLD DEENDAYAL COLONY JUNWANI ROAD BHILAI BHILAI CHHATISHGARH490020', 'Registered Societies (Non-Government)');
+
+-- NGO_new 64
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (64, 'AACHALMAHILA SWA SAHAYATA SAMUH', 'CHHATTISGARH', 'Food Processing', 'Ward No.16, Near Holicrass School, Shankar Ghat, Kawardha, District-Kabirdham (Chhattisgarh)', 'Registered Societies (Non-Government)');
+
+-- NGO_new 65
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (65, 'AKS WELFARE SOCIETY', 'CHHATTISGARH', 'Urban Development and Poverty Alleviation', 'SHRI CHANMAY PATHAK JAMAT PARA WARD NEAR BANK OF INDIA RAJNANDGAON CHHATTISGARH 491441', 'Registered Societies (Non-Government)');
+
+-- NGO_new 66
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (66, 'Bharat Mata Vidhya Sangh', 'CHHATTISGARH', 'Education and Literacy', 'Bharat Mata English Medium School, Bilaspur TiTli Chawck ,Railway Colony Bilaspur.C.G.495004', 'Registered Societies (Non-Government)');
+
+-- NGO_new 67
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (67, 'BHARAT UTKARSH SEVA SANSTHAN', 'CHHATTISGARH', 'Animal Husbandry', 'NAILA ROAD SARKHON , JANJGIR DISTT- JANJGIR CHAMPA', 'Registered Societies (Non-Government)');
+
+-- NGO_new 69
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (69, 'chhattisgarh mahila vikas samiti', 'CHHATTISGARH', 'Women Development and Empowerment', 'old sarkanda mata chowa house no.-100 ward no.48 teh- bilaspur 495001', 'Registered Societies (Non-Government)');
+
+-- NGO_new 70
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (70, 'JAI AMBE EDUCATION SOCIETY', 'CHHATTISGARH', 'Education and Literacy', 'Goverdhan Chowk Dr. Rajendra nagar Raipur C.G.', 'Registered Societies (Non-Government)');
+
+-- Heads_new for NGO ID 61
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (61, 8, 'ALOK KUMAR AGRAWAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (61, 5, 'BABITA DHANUKA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (61, 2, 'SANDHYA AGRAWAL');
+
+-- Heads_new for NGO ID 62
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (62, 1, 'DAMINI SAHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (62, 9, 'OMKARI SAHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (62, 5, 'Pooja Sahu');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (62, 7, 'Pramod Kumar Sah');
+
+-- Heads_new for NGO ID 63
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (63, 1, 'Rahul Vishwakarma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (63, 2, 'Babli Vishwakarma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (63, 5, 'Arvind Tamrakar');
+
+-- Heads_new for NGO ID 64
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (64, 5, 'PRIYANKA TIWARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (64, 1, 'VIJAY LAXMI TIWARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (64, 7, 'PREETI TIWARI');
+
+-- Heads_new for NGO ID 65
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (65, 2, 'Abdul hanif');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (65, 7, 'AJAY DEEP RAJWANI');
+
+-- Heads_new for NGO ID 66
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (66, 1, 'VICTOR HENRY THAKUR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (66, 7, 'Shaji Thomas');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (66, 5, 'Joseph Moolakkara');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (66, 6, 'SEBASTIAN POOMATTAM');
+
+-- Heads_new for NGO ID 67
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (67, 1, 'puspa devi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (67, 5, 'MAHIMA PANDEY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (67, 2, 'ANUKRITI');
+
+-- Heads_new for NGO ID 69
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (69, 7, 'shivani thakur');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (69, 10, 'nikhil kumar rai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (69, 8, 'KUNTI VARKADE');
+
+-- Heads_new for NGO ID 70
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (70, 1, 'YOGESHWAR PRASAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (70, 6, 'BEENA SAHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (70, 7, 'Rakesh Dewangan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (70, 13, 'Santosh Kumar Yadav');
