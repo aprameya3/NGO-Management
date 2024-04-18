@@ -1,0 +1,95 @@
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('231', 'ANAND GURU KIRPA WELFARE FOUNDATION', 'PUNJAB', 'Differently Abled', 'OPPOSITE PEER BANNA BANOI DARGAH, PEER NANNA BANOI ROAD, SUNAM', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 231
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('231', '1', 'HARDEV SINGH HANJRA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('231', '5', 'NARESH KUMAR');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('232', 'ATULYA PRAYAS CHARITABLE SOCIETY', 'PUNJAB', 'Dalit Upliftment', 'H. NO. 148, KRISHANA ENCLAVE, DHAKOLI, ZIRAKPUR, SAS NAGAR,PUNJAB-140603', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 232
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('232', '8', 'RAMNIK SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('232', '9', 'MONICA RAI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('232', '9', 'AMANDEEP SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('232', '9', 'MANDEEP SINGH');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('233', 'badhte kadam', 'PUNJAB', 'Youth Affairs', 'h.no.450/11 prem nagar hardo chhanni road gurdaspur', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 233
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('233', '1', 'WILLIAM GILL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('233', '2', 'RAFIQ MASIH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('233', '5', 'RACHNA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('234', 'bhimraoeducation', 'PUNJAB', 'Urban Development and Poverty Alleviation', 'VPO NIHAL KHERA TEH AND DISTT FAZILKA', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 234
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('234', '1', 'TARA CHAND SHILA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('234', '6', 'NEELAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('234', '2', 'MANJU RANI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('234', '11', 'MANPREET KAUR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('234', '13', 'MUKESH KUMAR');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('235', 'CHINMAYA MISSION AMRITSAR TRUST', 'PUNJAB', 'Health and Family Welfare', 'CHINMAYA AMRIT CHINMAYA MARG E-BLOCK RANJIT AVENUE, AMRITSAR.', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 235
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('235', '8', 'AVINASH MOHINDRU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('235', '13', 'ASHWANI MALHOTRA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('236', 'DRISHTI FOUNDATION FOR THE BLIND', 'PUNJAB', 'Differently Abled', '161/13, HUSSAINPURA, NEW MARKET, AMRITSAR', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 236
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('236', '1', 'RAVINDER KUMAR JOSHI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('236', '11', 'VISHU CHAND');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('237', 'FRISHTA INDIA CHARITABLE TRUST', 'PUNJAB', 'Children', 'FRISHTA INDIA CHARITABLE TRUST, VILLAGE MUKANDPUR, DERABASSI, S.A.S NAGAR, MOHALI, PUNJAB', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 237
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('237', '1', 'KULDIP STUDLEY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('237', '6', 'BACHITTER SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('237', '2', 'IMSUMEREN PONGEN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('237', '11', 'BHUPINDER SINGH');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('238', 'GUJJAR SAMAJ SUDHAR SABHA', 'PUNJAB', 'Sports', '1281, GALI NO.2, RAJINDER NAGAR, CIVIL LINE LUDHIANA', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 238
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('238', '1', 'KRISHAN DEV');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('238', '8', 'RAM SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('238', '9', 'JAGDISH KUMAR BHUMBLA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('238', '6', 'BALDEV RAJ');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('239', 'JAGDAMBAY HANDICRAFTS WOMAN WELFARE SOCIETY', 'PUNJAB', 'Women Development and Empowerment', '112-L, 1st Floor, Model Town, Behind Arya Samaj Mandir, Jalandhar', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 239
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('239', '1', 'SAROJ RANI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('239', '2', 'ARJUN THAPAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('239', '5', 'JAI PAL SAHNI');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('240', 'YUVAA', 'PUNJAB', 'Youth Affairs', 'House No. 56, Guru Gobind Singh Avenue GT Road Bypass, Jalandhar 144009', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 240
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('240', '7', 'Ankur Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('240', '8', 'Chahat');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('240', '2', 'Arusa');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('240', '5', 'Manpreet Singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('240', '6', 'Vishesh Arora');

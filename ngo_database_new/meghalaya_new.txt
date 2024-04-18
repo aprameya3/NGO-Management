@@ -1,0 +1,78 @@
+-- NGO 191
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('191', 'ANNIE MARGARET BARR CHILDRENS VILLAGE', 'MEGHALAYA', 'Children', 'MAWSYNJRI, KHARANG', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 191
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('191', '1', 'BIANGHEIPORMI NIANGTI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('191', '2', 'DRANWELL BARISHISHA MUKHIM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('191', '3', 'CREAMLIMON NONGBRI');
+
+-- NGO 192
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('192', 'DURA WASAA ASSOCIATION TURA', 'MEGHALAYA', 'Sports', 'TURA, West Garo Hills, Meghalaya', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 192
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('192', '1', 'Fleming Ch. Marak');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('192', '2', 'GARY GILSANG CH. SANGMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('192', '3', 'Gary Gilsang Ch Sangma');
+
+-- NGO 193
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('193', 'EASTERN PANORAMA FOUNDATION', 'MEGHALAYA', 'Civic Issues', 'First Floor, Hotel Sapphire, Keating Road, Shillong- 793001', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 193
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('193', '1', 'Kamal Kumar Jhunjhunwala');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('193', '2', 'Harsh Jhunjhunwala');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('193', '3', 'Madhulata Jhunjhunwala');
+
+-- NGO 194
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('194', 'KA LAWEI INTEGRATED RURAL DEVELOPMENT SOCIETY', 'MEGHALAYA', 'Rural Development and Poverty Alleviation', 'LAITRYNGEW SOHRA ROAD SHELLA BHOLAGANJ BLOCK EAST KHASI HILLS DISTRICT MEGHALAYA 793111', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 194
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('194', '1', 'ARMY STAR NONGKHLAW');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('194', '2', 'BANKERLANG DIENGDOH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('194', '3', 'KENYSIUS THYRNIANG');
+
+-- NGO 195
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('195', 'MEGHALAYA AUTKARSH FOUNDATION', 'MEGHALAYA', 'Sports', 'C/O ANJANA ARENG TURA AMPATI ROAD PO TURA HAWAKHANA PROPER 17293 HAWAKHANA West Garo Hills ML 794001 IN', 'Private Sector Companies');
+
+-- Heads for NGO 195
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('195', '1', 'ANJANA ARENG');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('195', '2', 'PALLAB D ARENGH');
+
+-- NGO 196
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('196', 'Meghalaya Golf Promoters Society', 'MEGHALAYA', 'Sports', 'Sagarmal Ramkumar,Thana Road', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 196
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('196', '1', 'GAURAV BAJAJ');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('196', '2', 'Kishan Singhania');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('196', '3', 'Daniel Surong Jyrwa');
+
+-- NGO 197
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('197', 'P A SANGMA FOUNDATION', 'MEGHALAYA', 'Health and Family Welfare', 'At Walbakgre,DistrictWest Garo Hills , StateiMeghalaya - Pin- 794101', 'Trust (Non-Government)');
+
+-- Heads for NGO 197
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('197', '1', 'Soradini Sangma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('197', '2', 'Thomas a Sangma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('197', '3', 'Dr Charles Reuben Lyngdoh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('197', '4', 'Bebeth Sangma');
+
+-- NGO 198
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('198', 'POSITIVE ENERGY ART FOUNDATION', 'MEGHALAYA', 'Art and Culture', 'C/o. Lovelymon Dkhar, Madanrting, Shillong, East Khasi Hills, Meghalaya-793021', 'Private Sector Companies');
+
+-- Heads for NGO 198
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('198', '1', 'PRAKASH KISHORE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('198', '2', 'UMESHWARI DKHAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('198', '3', 'RAJEEV RANJAN');
+
+-- NGO 199
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('199', 'SEIN KYNTULANG KI KYNTHAI KYNDONGTUBER', 'MEGHALAYA', 'Drinking Water', 'Village and BPO. Kyndongtuber-793150, West Jaintia Hills District, Meghalaya.', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 199
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('199', '1', 'DAKARUPA SWER');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('199', '2', 'ROBINA SWER');
+
+-- NGO 200
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('200', 'Seng Khasi Cultural Club Social Sports Dommyntong', 'MEGHALAYA', 'Sports', 'Dommyntong (Village) B.P.O.Marskuin P.o.Nongstoin west Khasi Hills .793119', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 200
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('200', '1', 'slanding lyngkhoi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('200', '2', 'Darilin lyngkhoi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('200', '3', 'Wida kharkylliang');

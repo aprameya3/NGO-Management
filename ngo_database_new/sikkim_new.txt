@@ -1,0 +1,92 @@
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('251', 'Arithang Neel Gagan Development Society', 'SIKKIM', 'Legal Awareness and Aid', 'Martam, Gyalshing, West Sikkim', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 251
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('251', '8', 'Bir Bahadur Rai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('251', '5', 'Dilli Ram Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('251', '11', 'Pabi Maya Sharma');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('252', 'Association for Social Health in India Sikkim', 'SIKKIM', 'Health and Family Welfare', 'Lower Burtuk, near Helipad Indira byepass road, Gangtok East Sikkim', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 252
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('252', '1', 'Rudra Poudyal');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('252', '6', 'Thakur Prasad Koirala');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('252', '9', 'Khus Kumari Subba');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('252', '1', 'Sharada Pradhan');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('253', 'DODRUPCHEN CHORTEN TRUST', 'SIKKIM', 'Environment and Forests', 'Deorali Chorten Gonpa P O Tadong Nonrural- INR', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 253
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('253', '13', 'Dodrupchen Rimpoche');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('253', '12', 'Lobzang Lepcha');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('253', '5', 'Dukgay Tshering Lepcha');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('253', '10', 'C.L Denzongpa');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('254', 'FUTURITY CLUB', 'SIKKIM', 'Environment and Forests', 'SAJONG RUMTEK GANGTOK EAST SIKKIM -737135', 'Other Registered Entities (Non-Government)');
+
+-- Heads_new table for NGO 254
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('254', '8', 'KAILASH CHETTRI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('254', '6', 'RAMESH CHETTRI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('254', '5', 'SAROJ GURUNG');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('255', 'Himalayan Institute of Natural Sciences', 'SIKKIM', 'Environment and Forests', 'Mandir Dara, New Secondary School Road, Namchi, South Sikkim -737126', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 255
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('255', '8', 'Hemant Dawarhi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('255', '12', 'Saraswoti Aale');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('255', '5', 'Devika Sharma');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('256', 'HOPE CENTRE', 'SIKKIM', 'HIV/AIDS', 'Mazhi Goan, Jorethang, South, Sikkim, Pin No- 737121', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 256
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('256', '13', 'PREM KUMAR CHETTRI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('256', '2', 'Aroon Subba');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('256', '7', 'SUREN TAMANG');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('257', 'KHANGCHENDZONGA CONSERVATION COMMITTEE', 'SIKKIM', 'Tourism', 'Yuksam,West Sikkim P.O Yuksam, West SikkimPin number 737113 India', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 257
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('257', '9', 'Kinzong Sharap Bhutia');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('257', '1', 'Tshering Uden Bhutia');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('257', '5', 'Ongyala Bhutia');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('258', 'Perbing Samteling Gumpa Managing Committee', 'SIKKIM', 'Civic Issues', 'Perbing Samteling Gumpa Managing Committee, Perbing, P.O. Perbing, P S Namchi, South Sikkim', 'Other Registered Entities (Non-Government)');
+
+-- Heads_new table for NGO 258
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('258', '1', 'Dawa Dadul Sherpa');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('258', '2', 'Mingma Topden Sherpa');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('258', '5', 'Pema Tshering Sherpa');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('259', 'SRIPATAM SANSKRIT PATHSALA (SCHOOL) MANAGING COMMITTEE', 'SIKKIM', 'Science and Technology', 'LOWER SRIPATAM, NEAR SANSKRIT PATHSALA, Yangang, Sikkim', 'Other Registered Entities (Non-Government)');
+
+-- Heads_new table for NGO 259
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('259', '11', 'CHURAMANI GAUTAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('259', '12', 'SHIVA LALL GAUTAM');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('260', 'Stars Of Hope', 'SIKKIM', 'Youth Affairs', 'Stars Of Hope, Baraily Bhawan, Development Area, Near Sangram Hall, Gangtok, East Sikkim', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 260
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('260', '8', 'Bikash Thapa');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('260', '2', 'Jeena Subedi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('260', '11', 'Praticha Chettri');

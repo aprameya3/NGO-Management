@@ -1,0 +1,73 @@
+-- NGO 141
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (141, 'Akila Bharatha Mahila Seva Samaja', 'Karnataka', 'Women Development and Empowerment', 'No 268, 6th cross, 1st block, Jayanagar, Bengaluru-560011, Karnataka', 'Registered Societies (Non-Government)');
+
+-- NGO 142
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (142, 'AKILAM FOUNDATIONS SPIRITUAL and CHARITABLE TRUST', 'Karnataka', 'Differently Abled', 'No.106/1, Ashwathamma Land, 12th Cross, 3rd Main, Hoysalanagar, T C Palya Main Road, Ramamurthynagar, Dooravaninagar Post', 'Trust (Non-Government)');
+
+-- NGO 143
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (143, 'ALAAP SANGEETHA KALA TRUST', 'Karnataka', 'Art and Culture', 'Ward No 20, Allam Karibasappa Colony, Sanganakallu Road, Ballary – 583102', 'Trust (Non-Government)');
+
+-- NGO 144
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (144, 'AMRUTHA SHISHU NIVASA', 'Karnataka', 'Children', '1-A, 5TH MAIN, N R COLONY, BENGALURU', 'Registered Societies (Non-Government)');
+
+-- NGO 146
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (146, 'AVUMA TRUST', 'Karnataka', 'Differently Abled', 'LOKESH J S/O JAYARAMAPPA V, KALLUDI-561208, GOURIBIDANUR (T), CHIKKABALLAPUR (D), KARNATAKA STATE', 'Trust (Non-Government)');
+
+-- NGO 147
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (147, 'Bat Conservation India Trust', 'Karnataka', 'Environment and Forests', '285, 10th Cross, Rashi Residency Layout, Kadabagere', 'Trust (Non-Government)');
+
+-- NGO 148
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (148, 'BHARAVASE TRUST', 'Karnataka', 'Children', 'No 179 8th cross Chikkagollarahatti Rathnanagar near Ayur Ashram Bangalore 560091', 'Trust (Non-Government)');
+
+-- NGO 149
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (149, 'WELIVE FOUNDATION', 'Karnataka', 'Youth Affairs', '843, 1st Main Rd, BDA Layout I Block, HAL 3rd Stage, Bhoomi Reddy Colony, New Tippasandra, Bengaluru, Karnataka 560075', 'Private Sector Companies');
+
+-- NGO 150
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (150, 'VATTIKUTI INDIA FOUNDATION', 'Karnataka', 'Drinking Water', 'SY 7P and 93P, ELECTRONIC CITY WEST, INDUSTRIAL AREA, BEGUR HOBLI, BANGALORE560100', 'Private Sector Companies');
+
+-- Heads for NGO 141
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (141, 1, 'Laxmi Ananda Rao');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (141, 2, 'Ashish Shetty');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (141, 3, 'Dushyant R Prasad');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (141, 4, 'Mahesh Shandilya');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (141, 5, 'Ajay Kumar P K');
+
+-- Heads for NGO 142
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (142, 1, 'Manigandan G');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (142, 3, 'YASHODHA M');
+
+-- Heads for NGO 143
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (143, 1, 'B RAMANAPPA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (143, 3, 'R POOJITHA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (143, 5, 'K SUJATA');
+
+-- Heads for NGO 144
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (144, 1, 'TATACHAR SREENIVASAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (144, 2, 'SHYAM PRASAD TEKKEKERE SUBRAHMANYA BHAT');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (144, 3, 'LAKSHMI NARAYANA SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (144, 4, 'SURYA NARAYANA UMASHANKAR');
+
+-- Heads for NGO 146
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (146, 2, 'CHANDRAKALA KN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (146, 1, 'LOKESH J');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (146, 3, 'J GAYITHRI');
+
+-- Heads for NGO 147
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (147, 1, 'Rajesh Bittasandra Puttaswamaiah');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (147, 2, 'Chaitra Maraliga Ramaiah');
+
+-- Heads for NGO 148
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (148, 1, 'MOHAN GOWDA R');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (148, 3, 'PAVITHRA B R');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (148, 4, 'Pavithra K');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (148, 2, 'Thimmegowda K P');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (148, 5, 'Roopesh K');
+
+-- Heads for NGO 149
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (149, 5, 'Anant Gangola');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (149, 4, 'Ramya Sundararajan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (149, 3, 'N S Parthasarathy');
+
+-- Heads for NGO 150
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (150, 1, 'Joseph Neri');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (150, 2, 'Gopal D Chakravarthy');

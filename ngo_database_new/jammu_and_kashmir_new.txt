@@ -1,0 +1,81 @@
+-- NGO 121
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (121, 'A B Skills', 'JAMMU and KASHMIR', 'Women Development and Empowerment', '51, Darulaslam, New Colony, Batamaloo', 'Trust (Non-Government)');
+
+-- NGO 122
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (122, 'A P J MEMORIAL EDUCATIONAL TRUST', 'JAMMU and KASHMIR', 'Education and Literacy', 'DRUGTENGOO, PRENG KANGAN', 'Trust (Non-Government)');
+
+-- NGO 123
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (123, 'Air Force School Jammu', 'Jammu and Kashmir', 'Science and Technology', 'AIR FORCE SCHOOL AIR FORCE STATIONSATWARIJAMMU CANTT', 'Registered Societies (Non-Government)');
+
+-- NGO 124
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (124, 'ALL HUMAN WELFARE TRUST', 'Jammu and Kashmir', 'Rural Development and Poverty Alleviation', 'KULGAM, KASHMIR PIN CODE192231', 'Trust (Non-Government)');
+
+-- NGO 125
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (125, 'Darkshan Womens and Child Welfare Society', 'Jammu and Kashmir', 'Women Development and Empowerment', 'Hamza Colony Sector BHNo 18 Bagat Kaipora Budgam 1900015', 'Registered Societies (Non-Government)');
+
+-- NGO 126
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (126, 'FRIENDS YOUTH AND CULTURAL CLUB', 'Jammu and Kashmir', 'Health and Family Welfare', 'NEAR BAL VIDHYA MANDIR SCHOOL DHARAT NOWSHERA DISTT RAJOURI, J and K PIN 185151', 'Registered Societies (Non-Government)');
+
+-- NGO 127
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (127, 'GREEN COOPERATIVE PUBLIC SCHOOL', 'Jammu and Kashmir', 'Agriculture', 'Near Maruti Showroom .Badhoon , Rajouri jammu and kashmir 185132', 'Registered Societies (Non-Government)');
+
+-- NGO 128
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (128, 'Inception', 'Jammu and Kashmir', 'Animal Husbandry', 'P.O.BOX 777GPOSrinagarKashmir190001', 'Registered Societies (Non-Government)');
+
+-- NGO 129
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (129, 'J and K YOUTH DEVELOPMENT FORUM', 'Jammu and Kashmir', 'Youth Affairs', 'Head office:-Baktoo Complex Beehama Ganderbal Jammu', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 121
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (121, 1, 'Bilquis Abdullah');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (121, 2, 'Mir Arif Jeelani');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (121, 3, 'Asima Aslam Qadri');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (121, 4, 'Nasir Ahmad Bhat');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (121, 5, 'Syed Himayoon Akther Bukhari');
+
+-- Heads for NGO 122
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (122, 4, 'KULSOOMA HAMID');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (122, 3, 'BILAL AHMAD DAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (122, 2, 'ABDUL HAMID MAGRAY');
+
+-- Heads for NGO 123
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (123, 5, 'Raman Arora');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (123, 1, 'Shuchi Gupta');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (123, 3, 'Sarojni Pandita');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (123, 4, 'Prakriti Sharma');
+
+-- Heads for NGO 124
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (124, 1, 'AEJAZ AHMAD MALIK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (124, 2, 'PEER BILAL AHMAD SHAH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (124, 3, 'Mubark Ahmad Mir');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (124, 4, 'RIYAZ AHMAD GANAIE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (124, 5, 'IMRAAN AHMAD NAIK');
+
+-- Heads for NGO 125
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (125, 1, 'Neelofar Shah');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (125, 2, 'Abid Ashraf');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (125, 3, 'Kulsooma Akhter');
+
+-- Heads for NGO 126
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (126, 1, 'THORU RAM SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (126, 2, 'SANTOSH KUMARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (126, 3, 'NEK RAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (126, 4, 'SUNITA DEVI');
+
+-- Heads for NGO 127
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (127, 1, 'Shah nawaz Chowdhary');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (127, 2, 'Raseela Akhter');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (127, 3, 'randesh singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (127, 4, 'HAQ NAWAZ CHOWDHARY');
+
+-- Heads for NGO 128
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (128, 1, 'Imad Riyaz Malik');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (128, 2, 'Mumtaza Rasool');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (128, 3, 'Asmat sultan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (128, 4, 'Amir sana ullah');
+
+-- Heads for NGO 129
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (129, 1, 'SHEHRE YAR MAJEED');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (129, 2, 'FAROOQ AHMAD DAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (129, 3, 'ABDUL RASHID MIR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (129, 4, 'ZAHOOR AHMAD BHAT');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (129, 5, 'AABID RASOOL');

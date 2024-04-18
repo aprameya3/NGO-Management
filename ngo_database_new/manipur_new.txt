@@ -1,0 +1,81 @@
+-- NGO 181
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('181', 'ANOUBA IMA MANIPUR YAIPHA LUP', 'MANIPUR', 'Environment and Forests', 'SEGA ROAD THOUDABHABOK LEIKAI', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 181
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('181', '1', 'CHAKPRAM INDUBALA DEVI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('181', '2', 'THINGUJAM MANISHANG DEVI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('181', '3', 'YUMNAM NOLINI DEVI');
+
+-- NGO 182
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('182', 'Apou Kading High School', 'MANIPUR', 'Children', 'GAILILONG,TAMEI, TAMENGLONG, MANIPUR', 'Academic Institutions (Private)');
+
+-- Heads for NGO 182
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('182', '1', 'GUITHUANPHUNGBOU PAMEI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('182', '2', 'NK HUTHONBOU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('182', '3', 'HEMANG CHAWANG');
+
+-- NGO 183
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('183', 'CENTRE FOR RESOURCE MANAGEMENT AND COMMUNITY DEVELOPMENT (CEREMCOD)', 'MANIPUR', 'Youth Affairs', 'K Salbung Village, Churachandpur', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 183
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('183', '1', 'CH Khailet');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('183', '2', 'GINKHOSIEM SINGSON');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('183', '3', 'T Lunkhosei Singson');
+
+-- NGO 184
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('184', 'EIN GEDI', 'MANIPUR', 'Rural Development and Poverty Alleviation', 'VENGPUI, RENGKAI', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 184
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('184', '1', 'JOSEPH D JOUTE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('184', '2', 'ELDA ROHLUOTHANG');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('184', '3', 'ANNIE GANESH SHINDE');
+
+-- NGO 185
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('185', 'GOODFAITH FOUNDATION', 'MANIPUR', 'Animal Husbandry', 'SAIKUL BAZAR, SADAR HILLS EAST, PO', 'Trust (Non-Government)');
+
+-- Heads for NGO 185
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('185', '1', 'LUNMINTHANG DIMNGEL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('185', '2', 'NEIKHOVAH DIMNGEL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('185', '3', 'PAOTINLEN DIMNGEL');
+
+-- NGO 186
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('186', 'Hindi Prachar Parishad', 'MANIPUR', 'Education and Literacy', 'Kakching Khullen Turel Wangma Part I, P.O. Kakching, Thoubal District, Manipur-795103, India', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 186
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('186', '1', 'Raju Yengkhom');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('186', '2', 'Yengkhom Polendro Singh');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('186', '3', 'Yengkhom Modhuchandra Singh');
+
+-- NGO 187
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('187', 'Hmar Women Association', 'MANIPUR', 'Women Development and Empowerment', 'Rengkai, P.O. Churachandpur, Churachandpur, Manipur, PIN795128', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 187
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('187', '1', 'Joute Lal Sawmi');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('187', '2', 'Rebecca Siemlien Hmar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('187', '3', 'Lalrinpui');
+
+-- NGO 188
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('188', 'Institute of Performing Arts', 'MANIPUR', 'Art and Culture', 'Akampat Pungyeibam Leirak, Imphal East - 795001, Manipur, India.', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 188
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('188', '1', 'CHINGAKHAM NANDAKUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('188', '2', 'MAKHONMANI MONGSABA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('188', '3', 'CHINGAKHAM NANDAKUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('188', '4', 'BACHASPATIMAYUM RABITA DEVI');
+
+-- NGO 189
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('189', 'KAKA FOUNDATION', 'MANIPUR', 'Differently Abled', 'KAKCHING CHUMNANG LEIKAI', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 189
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('189', '1', 'MAYANGLAMBAM INDRAKUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('189', '2', 'RAHUL NONGMAITHEM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('189', '3', 'MOIRANGTHEM MEMTOMBI DEVI');
+
+-- NGO 190
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('190', 'THE UNIQUE MODEL ACADEMY', 'MANIPUR', 'Science and Technology', 'Heingang Mayai Leikai', 'Trust (Non-Government)');
+
+-- Heads for NGO 190
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('190', '1', 'KONJENGBAM JAYENTA SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('190', '2', 'SAPAM HEMCHANDRA SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('190', '3', 'NAOROIBAM DEWAN SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('190', '4', 'KHOINAIJAM NARA SINGH');

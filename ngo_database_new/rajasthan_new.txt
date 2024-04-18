@@ -1,0 +1,89 @@
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('241', 'Akhil Bhartiya Shree Maharshi Gautam Sikshan Shodh Sansthan', 'RAJASTHAN', 'Education and Literacy', 'BHUNABAI JAIPUR ROAD AJMER', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 241
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('241', '8', 'Radheshyam Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('241', '1', 'Raja Ram Sharma');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('241', '5', 'Ram Swaroop Sharma');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('242', 'AMRITA BAHUDESHYA PRATMIK SAHKARI SAMITI LIMITED JHUNJHUNU', 'RAJASTHAN', 'Women Development and Empowerment', 'Women and Child Development Department Near Income Tax Office, Mandawa Mod, Jhunjhunu333001', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 242
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('242', '1', 'RUKAMANI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('242', '12', 'DEEPAK SWAMI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('242', '6', 'SHABEENA');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('243', 'AMRITA TREE GROWER AND SOCIAL SANSTHAN NAGAUR', 'RAJASTHAN', 'Environment and Forests', 'Nagaur(Rajasthan)', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 243
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('243', '2', 'RAM LAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('243', '1', 'KISHNA RAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('243', '5', 'SURGYAN');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('244', 'BALAJEE CHARITABLE TRUST', 'RAJASTHAN', 'Health and Family Welfare', '117, INDUSTRIAL AREA, JHOTWARA', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 244
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('244', '8', 'KAILASH KUMAR KANODIA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('244', '2', 'ASHISH KUMAR KANODIA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('244', '5', 'MADHU SUDAN SOMANI');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('245', 'COMMITTEE FOR HUMAN RESEARCH AND DEVELOPMENT SOCIETY', 'RAJASTHAN', 'Urban Development and Poverty Alleviation', '5 RATAN BAI DAMMANI QTRS. NR TOLIYASAR BHERUJI TEMPLE, K.E.M. ROAD, BIKANER -334001 (RAJ)', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 245
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('245', '1', 'PRATIMA TWARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('245', '5', 'CHITRA MISHRA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('245', '2', 'SHAFI MOHAMMAD CHOUHAN');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('246', 'Entomological Research Association', 'RAJASTHAN', 'Agriculture', 'Department of Entomology, Rajasthan College of Agriculture, MPUAT, Udaipur 313001', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 246
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('246', '1', 'Satish Chandra Bhardwaj');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('246', '2', 'Manoj Kumar Mahla');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('246', '5', 'Narayan Lal Dangi');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('247', 'GRAMEEN MAHILA VIKAS PRASHIKSHAN SANSTHAN', 'RAJASTHAN', 'Women Development and Empowerment', 'RANJIT NAGAR D-8 KE SAMNE PRAJAPATI BHAWAN BHARATPUR', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 247
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('247', '2', 'VIMLESH FOUJDAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('247', '13', 'MAVASI RAM');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('247', '1', 'NAVAL SINGH');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('248', 'HADOTI NETWORK FOR PEOPLE LIVING WITH HIV AIDS SAMITI', 'RAJASTHAN', 'HIV/AIDS', 'A 12 Harigarh House Behind CMHO Office Baggikhana Nayapura', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 248
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('248', '1', 'SHREE SURESH JAIN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('248', '5', 'Shakir Husain');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('248', '2', 'DURGESH');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('249', 'HELPING WORLD FOUNDATION', 'RAJASTHAN', 'Urban Development and Poverty Alleviation', '551,NEW JALUPURA,SHASTRI NAGAR', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 249
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('249', '8', 'YUSUF KHAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('249', '2', 'MOBINA KHAN');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('250', 'Vivekanand bal vidyalaya Shiksha samiti', 'RAJASTHAN', 'Art and Culture', 'Near Nagar Parishad, Pratap Nagar, Tallaiya Road, Dhaulpur, Dholpur', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 250
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('250', '13', 'VIVEK SONI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('250', '2', 'BALVIR SINGH VERMA');

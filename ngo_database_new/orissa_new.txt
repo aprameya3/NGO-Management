@@ -1,0 +1,89 @@
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('221', '3rd Eye Foundation', 'ORISSA', 'Legal Awareness and Aid', '401, Shanti Nivas, Bomikhal Near Esplanade mall, Rasulgarh', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 221
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('221', '8', 'SATCHIDANAND MAHAPATRA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('221', '2', 'LIPSA BEHERA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('221', '5', 'PRADEEP KUMAR RATH');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('222', 'AgrivediC', 'ORISSA', 'Environment and Forests', 'At/Po- Balliguda (Kamana sahi) Dist-Kandhamal ORISSA PIN-72103', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 222
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('222', '2', 'BIKASH MOHANTY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('222', '1', 'TUSHAR KANTA MISHRA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('222', '5', 'SISINTI SUSIL KUMAR PATRA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('223', 'AMA GAON AMA MAA AMA MIRAMBIKA', 'ORISSA', 'Rural Development and Poverty Alleviation', 'At- Bali Sahi, Nuapada, Madhupatna, Cuttack', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 223
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('223', '8', 'Jiban Jyoti Barik');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('223', '2', 'Subhashree Behera');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('223', '5', 'Satyajit Mohanty');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('224', 'barunei agragami jubak sangha', 'ORISSA', 'Aged/Elderly', 'At-Balisahi, Po-Pattanaikia, Via-Sakhigopal,Dist-Puri', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 224
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('224', '2', 'Mr. Sangram Kishor Dash');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('224', '1', 'Laxmi Priya Gahana');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('224', '5', 'Biswajit Hota');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('225', 'CENTRE FOR PEOPLES HELP CARE SOCIETY', 'ORISSA', 'Aged/Elderly', 'AT- BARTOLI, POST- JABAGHAT, VIA- JHIRPANI, ROURKELA- 769042,DIST- SUNDERGARH,ODISHA', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 225
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('225', '12', 'MANSID EKKA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('225', '1', 'MANSID EKKA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('226', 'CENTRE FOR RESEARCH AND SOCIAL REFORMS', 'ORISSA', 'Civic Issues', 'AT-SHYAMRAIPUR, PO-REMUNA, BALASORE', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 226
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('226', '1', 'SK SAMI AHMAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('226', '5', 'JARINA BIBI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('226', '2', 'PARWEEN NISHA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('227', 'COMMON MAN FOUNDATION', 'ORISSA', 'Drinking Water', 'INDIPUR,DHENKANAL,ODISHA', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 227
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('227', '7', 'SAROJ KUMAR SAHOO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('227', '11', 'ANITA SAHOO');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('228', 'DEARLIFE CHARITABLE FOUNDATION', 'ORISSA', 'Human Rights', 'UNIT NO DCB-722, DLF CYBERCITY, IDCO INFO PARK CHANDAKA INDUSTRIAL ESTATE, PATIA BHUBANESWAR Khordha OR 751024 IN', 'Private Sector Companies', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 228
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('228', '10', 'PRAMOD KUMAR ROUL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('228', '10', 'SUKANYA SHARMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('228', '10', 'PRAKASH CHANDRA RAULA');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('229', 'EXODUS CHARITABLE TRUST', 'ORISSA', 'Rural Development and Poverty Alleviation', 'AT/P.O-BARAKHAMA', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 229
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('229', '2', 'BROS ALEN DIGAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('229', '1', 'ADAM DIGAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('229', '5', 'DEEPALI MOHANTY');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('230', 'ZION FELLOWSHIP', 'ORISSA', 'Health and Family Welfare', 'GAJAPATI NAGAR 6TH LANE', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 230
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('230', '2', 'SAMUEL SONDOR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('230', '1', 'JHARANA SONDOR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('230', '5', 'JAMES SONDOR');

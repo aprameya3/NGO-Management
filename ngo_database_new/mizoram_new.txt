@@ -1,0 +1,211 @@
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('201', 'SAZEP BRAN MIZO HMEICHHE INSUIHKHAWM PAWL', 'MIZORAM', 'Women Development and Empowerment', 'SAZEP BRANCH', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 201
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('201', '1', 'LALTANPUII');
+
+-- Inserting into Heads_new table for NGO 201
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('201', '2', 'ZORAMTHANGI SAILO');
+
+-- Inserting into Heads_new table for NGO 201
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('201', '3', 'K LALMALSAWMI');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('202', 'AINAWN SOCIETY', 'MIZORAM', 'Agriculture', 'H.NO. B/12 MRF TYRE SHOWROOM BUILDING DAWRPUI VENGTHAR AIZAWL, MIZORAM-796001');
+
+-- Inserting into Heads_new table for NGO 202
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('202', '1', 'Malsawmi Sen');
+
+-- Inserting into Heads_new table for NGO 202
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('202', '2', 'LALCHHUANAWMI');
+
+-- Inserting into Heads_new table for NGO 202
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('202', '3', 'Lalthansanga');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('203', 'AIZAWL FOOTBALL CLUB', 'MIZORAM', 'Sports', 'No.188, Dawrpui West, Aizawl, Mizoram');
+
+-- Inserting into Heads_new table for NGO 203
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('203', '1', 'Vanlalnghaka Chhawnchhek');
+
+-- Inserting into Heads_new table for NGO 203
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('203', '2', 'Robert Romawia Royte');
+
+-- Inserting into Heads_new table for NGO 203
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('203', '3', 'Lalhriatchiani');
+
+-- Inserting into Heads_new table for NGO 203
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('203', '4', 'Hmingthansanga');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('204', 'Dinthar Football Club', 'MIZORAM', 'Sports', 'T Section, Dinthar Veng');
+
+-- Inserting into Heads_new table for NGO 204
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('204', '1', 'Hmingthansiama');
+
+-- Inserting into Heads_new table for NGO 204
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('204', '2', 'Johny Lalrinchhana');
+
+-- Inserting into Heads_new table for NGO 204
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('204', '3', 'Lalthianghlima');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('205', 'Do Re Mi Drama and Cultural Club', 'MIZORAM', 'Art and Culture', 'c/o SHADE, Durtlang Road, Bawngkawn, Aizawl-796 014 Mizoram');
+
+-- Inserting into Heads_new table for NGO 205
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('205', '1', 'H Chhawntluanga');
+
+-- Inserting into Heads_new table for NGO 205
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('205', '2', 'H Chhawntluanga Chhawntluanga');
+
+-- Inserting into Heads_new table for NGO 205
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('205', '3', 'VL BELA');
+
+-- Inserting into Heads_new table for NGO 205
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('205', '4', 'Esther Lalthasangzuali');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('206', 'Enna In Boys Home', 'MIZORAM', 'Children', 'ENNA IN BOYS HOME VENGTHAR, KOLASIB-796081 MIZORAM', 'Trust (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 206
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('206', '1', 'ALPHONSA LALRINKIMI');
+
+-- Inserting into Heads_new table for NGO 206
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('206', '2', 'C LALKHUMI');
+
+-- Inserting into Heads_new table for NGO 206
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('206', '3', 'Zothanmawia');
+
+-- Inserting into NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('207', 'Isua Krista Kohhran', 'MIZORAM', 'Aged/Elderly', 'Isua Krista Kohhran, Headquarters Office, Ground Floor, Bualpui (NG), Lawngtlai,796891');
+
+-- Inserting into Heads_new table for NGO 207
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('207', '1', 'Lalzaidama');
+
+-- Inserting into Heads_new table for NGO 207
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('207', '2', 'JM Lalhuapliana');
+
+-- Inserting into Heads_new table for NGO 207
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('207', '3', 'VANLALHRUAIA');
+
+-- Inserting into NGO_new table for NGO 208
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('208', 'MHIP NORTH KHAWLEK BRANCH', 'MIZORAM', 'Women Development and Empowerment', 'Mizo Hmeichhe Insuihkhawm Pawl(MHIP), N.Khawlek Branch, N.Khawlek; Mizoram', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 208
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('208', '1', 'Lalduhsaki');
+
+-- Inserting into Heads_new table for NGO 208
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('208', '2', 'Lalrodawngi');
+
+-- Inserting into Heads_new table for NGO 208
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('208', '3', 'Lalrinfeli');
+
+-- Inserting into NGO_new table for NGO 209
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('209', 'NATIONAL EXHILARATION UNION SOCIETY (NEXUS)', 'MIZORAM', 'HIV/AIDS', 'B-48, Muka Colony, Mission Veng, Aizawl, Mizoram', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 209
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('209', '1', 'Benjamin Tlangthanmawia');
+
+-- Inserting into Heads_new table for NGO 209
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('209', '2', 'Samuel Zothantluanga');
+
+-- Inserting into Heads_new table for NGO 209
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('209', '3', 'Lalhmingthangi');
+
+-- Inserting into NGO_new table for NGO 210
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES 
+('210', 'NEW HOPE SOCIETY', 'MIZORAM', 'HIV/AIDS', 'New Hope Society, Bethel Veng, Champhai Mizoram796321', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 210
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('210', '1', 'Lalnunsangi');
+
+-- Inserting into Heads_new table for NGO 210
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('210', '2', 'Lalchhanhimi');
+
+-- Inserting into Heads_new table for NGO 210
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES 
+('210', '3', 'Lalvulmawii');
+
+

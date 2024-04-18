@@ -1,0 +1,84 @@
+-- NGO 131
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (131, 'ADARSH VIKASH KENDRAPALKOT', 'Jharkhand', 'HIV/AIDS', 'Village-Palkot,Post-Palkot,Thana-PalkotPIN-835220', 'Registered Societies (Non-Government)');
+
+-- NGO 132
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (132, 'ADARSH SEWA KENDRA', 'Jharkhand', 'Drinking Water', 'VILLAGE:BENGABAD, P.O: BENGABAD, DISTRICT: - GIRIDIH, PIN:- 815312', 'Registered Societies (Non-Government)');
+
+-- NGO 133
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (133, 'ANNPURNA HEALTH AND EDUCATION WELFARE SOCIETY', 'Jharkhand', 'Health and Family Welfare', 'VILL-AURU PO-AURUGERUA PS-HUNTERGANJ DIST-CHATRA (JHARKHAND)', 'Registered Societies (Non-Government)');
+
+-- NGO 134
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (134, 'ANTI CRIME AND HUMAN RIGHTS PROTECTION COUNCIL OF INDIA', 'Jharkhand', 'Legal Awareness and Aid', 'H/O- SRI LALMANI KUMAR SINHA, 215, B, GAURI SHANKAR VILLA, NEAR DEVANGANA CHOWK', 'Trust (Non-Government)');
+
+-- NGO 135
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (135, 'Asirbadh Hospitality Private Limited', 'Jharkhand', 'Agriculture', 'A.G Office Road, Doranda, Ranchi-834002, Jharkhand', 'Other Registered Entities (Non-Government)');
+
+-- NGO 136
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (136, 'BASERA SEWM SEVI SANSTHA', 'Jharkhand', 'Dalit Upliftment', 'GANDHI NAGAR SABJI BAGAN PO DHANBAD PSDHANSAR DIST DHANBADJHARKHAND 826001', 'Registered Societies (Non-Government)');
+
+-- NGO 137
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (137, 'DARSHANI DEVI SEWA FOUNDATION', 'Jharkhand', 'Women Development and Empowerment', '384 SIJUA BASTI KARMATAND DIST BOKARO JHARKHAND BOKARO BOKARO 828404', 'Private Sector Companies');
+
+-- NGO 138
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (138, 'Enabling India', 'Jharkhand', 'Agriculture', 'Shyam Colony Vill -Sarai ToliPO- Mahilong PS- Tatisilway Dist- RanchiJharkahand Pin Code-835103', 'Registered Societies (Non-Government)');
+
+-- NGO 139
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (139, 'Gramin Vikash Kalyan Kendra', 'Jharkhand', 'Rural Development and Poverty Alleviation', 'AT:THARI, MAHUBANA, RAMGARH', 'Registered Societies (Non-Government)');
+
+-- NGO 140
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES (140, 'HELP and CARE WELFARE SOCIETY', 'Jharkhand', 'Disaster Management', 'TIWARI TANK ROAD TIWARI STREET HINDPIRI RANCHI', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 131
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (131, 1, 'Mohammed Nasir Siddique');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (131, 2, 'Akil Bakhs');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (131, 3, 'Sajid Ansari');
+
+-- Heads for NGO 132
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (132, 1, 'DURGA PRASAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (132, 2, 'SANDEEP KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (132, 3, 'AJAY KUMAR KANDHWAY');
+
+-- Heads for NGO 133
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (133, 4, 'ANAND KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (133, 3, 'MITHLESH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (133, 5, 'ARUN KUMAR VERMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (133, 1, 'KAMLESH PRAJAPATI');
+
+-- Heads for NGO 134
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (134, 1, 'LALMANI KUMAR SINHA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (134, 2, 'PAWAN KUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (134, 3, 'AMIT KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (134, 4, 'PAWAN KUMAR SHARMA');
+
+-- Heads for NGO 135
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (135, 3, 'RUPALI BASU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (135, 4, 'ARBIND BASU');
+
+-- Heads for NGO 136
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (136, 2, 'RAVI RANJAN SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (136, 1, 'RAGHUNATH PRASAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (136, 3, 'ARTI DEVI');
+
+-- Heads for NGO 137
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (137, 1, 'DARSHANI DEVI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (137, 2, 'RAJ KUMAR MAHTO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (137, 3, 'CHANDRAKET KUMAR SINGH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (137, 4, 'PRITAM KUMAR MAHTO');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (137, 5, 'SHANKAR KUMAR MAHTO');
+
+-- Heads for NGO 138
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (138, 1, 'Anish Kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (138, 2, 'Pramod Kumar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (138, 3, 'Uttam Kumar Pandey');
+
+-- Heads for NGO 139
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (139, 3, 'KARTIK MANDAL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (139, 4, 'PUSPA KUMARI KISKU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (139, 5, 'ANNA HANSDAK');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (139, 2, 'NITESH KUMAR PANDIT');
+
+-- Heads for NGO 140
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (140, 2, 'MOHAMMAD AZAD');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (140, 1, 'ARSHAD JAMIL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (140, 3, 'AFZAL HUSSAIN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES (140, 4, 'Md Jawed');

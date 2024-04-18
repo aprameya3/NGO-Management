@@ -1,0 +1,77 @@
+-- Inserting into NGO_new table for NGO 211
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('211', 'APONZA WOMEN SOCIETY', 'NAGALAND', 'Women Development and Empowerment', 'APONZA WOMEN SOCIETY. K.STATION B.P.O KANDINU.. P.O TSEMINYU-797109. KOHIMA DISTRICT NAGALAND.', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 211
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('211', '1', 'SENELI APON RENGMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('211', '2', 'NEISENUO APON RENGMA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('211', '3', 'HAICHULI APON');
+
+-- Inserting into NGO_new table for NGO 212
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('212', 'Clark Theological College', 'NAGALAND', 'Education and Literacy', 'Clark Theological College, Aolijen, Mokokchung ,Nagaland', 'Academic Institutions (Private)');
+
+-- Inserting into Heads_new table for NGO 212
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('212', '1', 'Marnungsang');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('212', '2', 'A.Temjen jamir');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('212', '3', 'Atoba Tali Ao');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('212', '4', 'Renbi Rangthang');
+
+-- Inserting into NGO_new table for NGO 213
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('213', 'Cultural Club Of Ahthibung', 'NAGALAND', 'HIV/AIDS', 'Cultural Club Of Ahthibung Peren, Nagaland-797110', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 213
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('213', '1', 'MANGKHOLEN LENTHANG');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('213', '2', 'Janghao');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('213', '3', 'MANGKHOLEN LENTHANG');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('213', '4', 'LHAINEITHEM');
+
+-- Inserting into NGO_new table for NGO 214
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('214', 'Dreamers Education Foundation', 'NAGALAND', 'Education and Literacy', 'House No. 44, Lane5, 7th Mile,Model Village, Chumukedima,Dimapur: Nagaland', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 214
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('214', '1', 'Khiuchunlungbou K Newmai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('214', '2', 'Langonglu Panmei');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('214', '3', 'Poukenhalakliu Newmai');
+
+-- Inserting into NGO_new table for NGO 215
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('215', 'HONGPHOI TEYO MULTIPURPOSE COOPERATIVE SOCIETY LIMITED', 'NAGALAND', 'Health and Family Welfare', 'Hongphoi village Mon District', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 215
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('215', '1', 'wangham');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('215', '2', 'temom konyak');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('215', '3', 'jukhao konyak');
+
+-- Inserting into NGO_new table for NGO 216
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('216', 'KHALA LAGHA WELFARE SOCIETY', 'NAGALAND', 'Drinking Water', 'Khala Lagha Welfare Society Thilixu Village, Dimapur, Nagaland', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 216
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('216', '1', 'Henito');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('216', '2', 'Henito');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('216', '3', 'ViKali');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('216', '4', 'Kishevi');
+
+-- Inserting into NGO_new table for NGO 217
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('217', 'MONGSENLEPER WOMEN WELFARE SOCIETY', 'NAGALAND', 'Women Development and Empowerment', 'korangmopu ward Mongsenyimti Village mokokchung district pin 798601', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 217
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('217', '1', 'ZULUTEMJEN JAMIR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('217', '2', 'MEYISONGLA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('217', '3', 'AYANGLA');
+
+-- Inserting into NGO_new table for NGO 219
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('219', 'Network of Naga People Living with HIV and AIDS', 'NAGALAND', 'HIV/AIDS', 'NNP , Secretariat, M.K Market, Kohima, Nagaland, Pin code- 797001', 'Registered Societies (Non-Government)');
+
+-- Inserting into Heads_new table for NGO 219
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('219', '1', 'Lanu');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('219', '2', 'Lucy Wungleng');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('219', '3', 'T Temsu Jamir');
+
+-- Inserting into NGO_new table for NGO 220
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('220', 'Social reformation and upliftment society', 'NAGALAND', 'Urban Development and Poverty Alleviation', 'Naga Colony, Burma Camp, Nagaland, Dimapur, Pin-797112', 'H/RS-554');
+
+-- Inserting into Heads_new table for NGO 220
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '1', 'Mairikiu John');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '2', 'Shanti Malangmai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '3', 'Namgawi Charles');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '4', 'Kachugai Longmei');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '5', 'Chalandonbo Malangmai');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('220', '6', 'Abuiliu Malangmai');

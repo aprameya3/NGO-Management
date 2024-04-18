@@ -1,0 +1,84 @@
+-- NGO 151
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('151', 'AKHILA VYPEEN PULAYAVAMSODHARINI SABHA', 'KERALA', 'Youth Affairs', 'AKHILA VYPEEN PULAYAVAMSODHARINI SABHA H O NAYARAMBALAM EDAVANAKAD P O 682502', 'Trust (Non-Government)');
+
+-- Heads for NGO 151
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('151', '1', 'P K BABY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('151', '2', 'PRASAD N K');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('151', '3', 'SAJAN M K');
+
+-- NGO 152
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('152', 'Alzheimer''s and Related Disorders Society of India', 'KERALA', 'Aged/Elderly', 'PB No:53, Guruvayoor Road, Kunnamkulam', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 152
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('152', '1', 'Robert Mathew');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('152', '5', 'Nilanjana Maulik');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('152', '4', 'Agith Thomas John');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('152', '3', 'THOMAS CHERIAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('152', '6', 'Meera Pattabiraman');
+
+-- NGO 153
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('153', 'B. P Moideen Seva Mandir', 'KERALA', 'Women''s Development and Empowerment', 'B P Moideen Seva Mandir, Mukkam Post, Calicut', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 153
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('153', '3', 'BABY SHAKEELA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('153', '4', 'RUKHIYA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('153', '1', 'KANCHANA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('153', '2', 'INDIRA');
+
+-- NGO 154
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('154', 'BEZER BLINDS SERVING FRIEND', 'KERALA', 'Differently Abled', 'BEZER BLINDS SERVING FRIEND, Nambikolly, Nenmenikunnu (PO), Cheeral(via) Wayanad Pin673595, Sulthan Bathery', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 154
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('154', '2', 'VIJAYAKUMARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('154', '3', 'George Thomas');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('154', '1', 'K SELVARAJ');
+
+-- NGO 155
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('155', 'BOLSTER FOUNDATION', 'KERALA', 'Rural Development and Poverty Alleviation', '34/229, 16 Mill Road,Vylankara, Vavad, Koduvally P.O, Kozhikode', 'Trust (Non-Government)');
+
+-- Heads for NGO 155
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('155', '1', 'SHAHUL HAMEED M M');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('155', '2', 'MUHAMMED JALALUDEEN ALBAKARI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('155', '3', 'MUJEEBU RAHMAN');
+
+-- NGO 156
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('156', 'BOYS AND GIRLS HIGH SCHOOL THEVALAKKARA', 'KERALA', 'Education and Literacy', 'KOVOOR, ARINALOOR PO, KOLLAM, KERALA-690538', 'Academic Institutions (Private)');
+
+-- Heads for NGO 156
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('156', '1', 'SHIBU C');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('156', '2', 'MUBEENA S');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('156', '3', 'JAGADEESAN PILLAI');
+
+-- NGO 157
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('157', 'C R MADHU SHABDIKA GRANDHASALA', 'KERALA', 'Art and Culture', 'C R MADHU SHABDIKA GRANDHASALA PUTHIYAKAVU KS PURAM KARUNAGAPPALLY KOLLAM 690544', 'Other Registered Entities (Non-Government)');
+
+-- Heads for NGO 157
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('157', '1', 'BINDHU');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('157', '2', 'THARA S');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('157', '3', 'JALAJA M');
+
+-- NGO 158
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('158', 'Calicut Diocese Social Service Society', 'KERALA', 'Aged/Elderly', 'Calicut Diocese Social Service Society Mini bye pass Road, Eranhipalam P.O, Calicut 673 006', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 158
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('158', '1', 'CHAKKALAKKAL VARGHESE OUSEPH');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('158', '2', 'VARGHESE PUTHENVEETTIL');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('158', '3', 'ALFRED V C');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('158', '4', 'PAUL PERCY DSILVA');
+
+-- NGO 159
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('159', 'YWCA Kollam', 'KERALA', 'Differently Abled', 'VIKAS BHAVANYOUNG WOMEN CHRISTIAN ASSOCIATION OPP TO COMMISSIONER OF POLICE OFFICE', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 159
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('159', '1', 'Shyla Rachel Varkey');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('159', '2', 'Anitha Len Philip');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('159', '3', 'Latha G Enoch');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('159', '4', 'Beena Jacob');
+
+-- NGO 160
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('160', 'WESTERN GHATS BEEKEEPING AND MARKETING SOCIETY(WBMS)', 'KERALA', 'Agriculture', 'XIX/293/C VAYATTUPARAMBA P.O NADUVIL VIA KANNUR DT KERALA-670582', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 160
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('160', '1', 'JOSEPH DENNIS');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('160', '2', 'ANEESH THOMAS');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('160', '3', 'BIJU VARGHESE');

@@ -1,0 +1,98 @@
+-- Insert statements for NGO_new
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('271', 'AADIWASI DEVELOPMENT AND RESOURCE SOCIETY HERMITAGE', 'TELANGANA', 'Tribal Affairs', 'H.No.9-6-179/2, Road No. 1, Durga Bhavani Nagar, Santoshnagar, Hyderabad-500059', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('272', 'ACT PUBLIC WELFARE FOUNDATION', 'TELANGANA', 'Civic Issues', 'FNo 302, 3rd Floor, Abbasi Tower Errum Manzil, Khiartabad, Taj Krishna Road Opposite Lane of Emirates Airlines', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('273', 'AREMAMMA FOUNDATION', 'TELANGANA', 'Urban Development and Poverty Alleviation', '8-3-1013 FLAT NO 401, ZEENATH RESIDENCY, SRI NAGAR COLONY YR GUDA HYDERABAD', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('274', 'AUTISM ASHRAM and RESEARCH FOUNDATION', 'TELANGANA', 'Differently Abled', '3 KESHAVARAM VILLAGE MC PALLY MANDAL', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('275', 'CENTRAL COTTAGE INDUSTRIES', 'TELANGANA', 'Art and Culture', '8-2-608/m/2 Rd no 10 Banjara hills', 'Other Registered Entities (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('276', 'HI-TECH ENGINEERING AND PROJECTS INDIA PRIVATE LIMITED', 'TELANGANA', 'Science and Technology', 'PLOT NO.77 PIPELINE ROAD SUBHASH NAGAR IDA JEEDIMETLA HYDERABAD TELANGANA INDIA 500055', 'Private Sector Companies');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('277', 'I STAND FOR WARRIORS', 'TELANGANA', 'Civic Issues', 'H.NO. PLOT N0-39, FLAT NO-G2, TEMPLE VIEW RESIDENCY ROAD NO-3, SRI BALAJINAGAR COLONY MANIKONDA S.O.', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('278', 'JESUS CHRIST OF NAZARETH MINISTRIES', 'TELANGANA', 'Women Development and Empowerment', '16-1673, HANUMANPET, MIRYALAGUDA', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('279', 'KAMMETA GREEN MEMBERS ASSOCIATION', 'TELANGANA', 'Agriculture', 'SHOP NO. 02, GUPTA HEIGHTS, RAMESHWARAMBANDA ROAD, INDRESHAM VILLAGE, PATANCHERU(M), SANGAREDDY(DIST), TELANGANA STATE.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('280', 'WINGS YOUTH WELFARE SOCIETY', 'TELANGANA', 'Youth Affairs', 'House No 35, JSN Nagar Colony, lane No.2, Street No 8, Habsiguda, Hyderabad 50007', 'Registered Societies (Non-Government)');
+
+
+-- Insert statements for Heads_new
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('271', '1', 'S SAKRU NAIK');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('271', '2', 'KETHAVATH BALU');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('271', '3', 'PALLAPOLU SAIKIRAN REDDY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('272', '1', 'MOHAMMED RAHIM KHAN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('272', '2', 'MOHAMMAD GHOUSE KHAN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('272', '3', 'RAJU GURRUM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('273', '1', 'YERRAPU REDDY AJAY KUMAR REDDY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('273', '2', 'AJANTHA RANI YERRAPAREDDY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('273', '3', 'HARSHAVARDHANA REDDY YERRAPUREDDY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('274', '1', 'ANIL KUMAR KUNDRA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('274', '2', 'JYOTSHNA KUNDRA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('274', '3', 'SONIA KUNDRA SINGH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('278', '1', 'SHEIKH JOSEPH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('278', '2', 'VEMU SUBRAHMANYAM');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('278', '3', 'THIRUVAIPATI CHALAMAIAH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('278', '4', 'GADDALA MUTTHAIAH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('279', '1', 'KISHORE KUMAR BATCHU');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('279', '2', 'BATHKURI SURESH REDDY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('279', '3', 'RAMESH GOPATHI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('280', '1', 'VODAPALLI LAXMI');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('280', '2', 'MEHARUNNISA PATAN');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('280', '3', 'GANDE INDHU SRI');

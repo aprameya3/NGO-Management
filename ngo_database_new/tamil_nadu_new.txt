@@ -1,0 +1,55 @@
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('261', 'BRAVE VISION SPORTS FOUNDATION', 'TAMIL NADU', 'Sports', 'S/O-KUMARASAMY D.NO-24K/18 VANCHIAMAN PETROL BUNK(OPP) SEETHAPATTY', 'Private Sector Companies');
+
+-- Heads_new table for NGO 261
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('261', '1', 'PANDIAN JEEVA ANANTHI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('261', '2', 'BALAKUMARASAMY SELVAKUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('261', '3', 'P RAVI');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('262', 'PANRUTI ONDRUPATTA ILAIGNER KAZHAKAM', 'TAMIL NADU', 'Drinking Water', '25,KAMARAJ NAGAR', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 262
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('262', '1', 'RAMU DATCHANAMOORTHY');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('262', '2', 'KUPPUSAMY RANJITH KUMAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('262', '3', 'VIJAYAN MANIARASAN');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('263', '4 M TRUST', 'TAMIL NADU', 'Women Development and Empowerment', 'No-4, Buhari building, Moores road, Chennai-600006', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 263
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('263', '2', 'MARYAM ABDUL QADIR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('263', '1', 'ABDUL QADIR');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('264', 'Aged People Care Trust', 'TAMIL NADU', 'Aged/Elderly', 'No.10, Perambakkam, Ananthapuram Village, Mugunthagiri Post, Cheyyur Tk, Chengalpattu Dist603309', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 264
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('264', '1', 'Prabu Krishnan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('264', '2', 'R Lakshmi');
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('265', 'ANNAI BHARATHA MATHA EDUCATIONAL CHARITABLE TRUST', 'TAMIL NADU', 'Education and Literacy', 'OLD NO.5,558,NEW NO.5/123, SUBRAMANIYA BHARATHIYAR STREET, M.A.NAGAR, REDHILLS,CHENNAI600 052', 'Trust (Non-Government)');
+
+-- Heads_new table for NGO 265
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('265', '1', 'M Arumugapandiyan');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('265', '2', 'A PONRANI');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('265', '3', 'A Preetha');
+
+-- Repeat the process for the remaining NGOs and their heads...
+
+-- NGO_new table
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES 
+('270', 'YENDRUM ANBUDAN PARAVAIKAL SANGAM', 'TAMIL NADU', 'Sports', 'BHARATHY NAGAR, CHERAMBADI, PANDALUR', 'Registered Societies (Non-Government)');
+
+-- Heads_new table for NGO 270
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('270', '1', 'MANIKANDAN C');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('270', '2', 'KATHIRESAN');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('270', '3', 'SHABEER');

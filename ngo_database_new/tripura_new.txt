@@ -1,0 +1,134 @@
+-- Insert statements for NGO
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('281', 'AKHANDA', 'TRIPURA', 'HIV/AIDS', 'DrMantu Sarkar Yoga NimbarkBus StopP O Siddhi AshramAgartala Tripura West PiN 799003 Ph 9774918828 8132025165', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('282', 'Alor Dishari', 'TRIPURA', 'Children', 'north badhar ghat,subhash pally. agartala.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('283', 'Banatattwa Khadi Gram Udyog Samity', 'TRIPURA', 'Agriculture', 'Bardawali, P.O.-A.D.Nagar, Sadar,', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('284', 'BARNOMALA', 'TRIPURA', 'Art and Culture', 'C/o. Amitava Nag (Partha). Hospital Road. Chandrapur Colony.', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('285', 'Earth Key foundation', 'TRIPURA', 'Drinking Water', 'KAMESWAR , P.O- KAMESWAR , DHARMANAGAR ,NORTH TRIPURA DISTRICT PIN- 799253', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('286', 'HUMAN RIGHTS CELL TRIPURA', 'TRIPURA', 'Human Rights', 'Vill Jail Road Dharmanagar North Tripura 799250', 'Trust (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('287', 'MUKTI MARG', 'TRIPURA', 'Children', 'ABHAYNAGAR, AGARTALA, SADAR SUBDIVISION, WEST TRIPURA DISTRICT', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('288', 'OCEANHEARTS', 'TRIPURA', 'Tribal Affairs', 'BLOOMSMOUND, P.O. :- Churaibari, Dharmanagar North Tripura', 'Other Registered Entities (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('289', 'VIDYA WELFARE SOCIETY', 'TRIPURA', 'Differently Abled', 'Vidya Welfare Society, Office Lane, Agartala-799001', 'Registered Societies (Non-Government)');
+
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) 
+VALUES ('290', 'Zara Foundation', 'TRIPURA', 'Drinking Water', 'Advisor Chowmohani, Krishna Nagar, Po-Agartala sadar, West Tripura.', 'Registered Societies (Non-Government)');
+
+
+-- Insert statements for Heads
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('281', '1', 'MANTU SARKAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('281', '2', 'PRAN BALLAB CHAKRABORTY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('281', '3', 'TUTAN SARKAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('281', '4', 'Ashesh Kumar Dey');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('282', '1', 'Sukanta Das');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('282', '2', 'Prasanta Das');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('282', '3', 'Suraj Bhattacharjee');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('283', '1', 'Subhasish Chakraborty');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('283', '2', 'Mukta Datta Chakraborty');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('283', '3', 'Pranab Chakraborty');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('284', '1', 'Amitava Nag');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('284', '2', 'Nabajyoti Das');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('284', '3', 'Jayanta kumar Roy');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('285', '1', 'NITISH DEB');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('285', '2', 'ALOK DHAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('285', '3', 'SUMAN CHAKRABORTY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('285', '4', 'UTTAM DEBNATH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('286', '1', 'Suman Mohanta');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('286', '2', 'Swapan Kumar Paul');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('286', '3', 'Jhantu Debnath');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('287', '1', 'ANITA BASAK GHOSH');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('287', '2', 'YAMUNA BISWAS');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('287', '3', 'SUBRATA GUHA');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('287', '4', 'APARNA SUTRADHAR');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('287', '5', 'BISWAJIT CHAKRABORTY');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('288', '1', 'Samir Sutradhar');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('288', '2', 'Indranil Sarkar');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('288', '3', 'Sudip Kumar Das');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('289', '1', 'Niharendu Majumder');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('289', '2', 'Tushar Kanti Sengupta');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('289', '3', 'Phalguni Saha');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('290', '1', 'Salma Khatun');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('290', '2', 'Reshmi Deb');
+
+INSERT INTO Heads_new (ngo_id, position_id, head_name) 
+VALUES ('290', '3', 'Debajyoti Bhowmik');

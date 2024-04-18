@@ -1,0 +1,75 @@
+-- NGO 171
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('171', 'LOKDHARA PRATISHTHAN', 'MAHARASHTRA', 'Aged/Elderly', 'AT. SAMATANAGAR, BORIVALI, NEAR Z.P. SCHOOL MARATHI, POST. PADGHA, TAL. BHIWANDI', 'Trust (Non-Government)');
+
+-- Heads for NGO 171
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('171', '1', 'MILIND SURESH JADHAV');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('171', '2', 'AKSHAY SURESH JADHAV');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('171', '3', 'AMOL SURESH JADHAV');
+
+-- NGO 172
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('172', '1 RUPEE CLINIC FOUNDATION', 'MAHARASHTRA', 'Health and Family Welfare', 'Dimond Homes Basment B, Opp Manas Society, Bhaskar, Thane, Thane, Maharashtra- 400099', 'Private Sector Companies');
+
+-- Heads for NGO 172
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('172', '1', 'AMOL BHIMRAO GHULE');
+
+-- NGO 173
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('173', 'AADHAR CHARITABLE TRUST', 'MAHARASHTRA', 'Environment and Forests', 'PANJRAPOLE, JAY BHOLA NAGAR, DINQUARRY MARG, CHEMBUR, MUMBAI', 'Trust (Non-Government)');
+
+-- Heads for NGO 173
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('173', '1', 'HARIHARAN S');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('173', '2', 'NILESH BALASAHEB PAWAR');
+
+-- NGO 174
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('174', 'YUVARANG FOUNDATION', 'MAHARASHTRA', 'Rural Development and Poverty Alleviation', 'AmarAmrut Road, Raysingpura, Nandurbar Dist Nandurbar', 'Other Registered Entities (Non-Government)');
+
+-- Heads for NGO 174
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('174', '1', 'Jitendra Jagdish Lule');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('174', '2', 'Rahul Dattatray Shinde');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('174', '3', 'Jyoti Jitendra Lule');
+
+-- NGO 175
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('175', 'WINNER BAHUDDESHIY SANSTHA', 'MAHARASHTRA', 'Animal Husbandry', 'C/O SHRI NARESH GOPALRAO WANKAR R/O 128, KHARBI ROAD, BHAVAN SHALEJAVAL, SHESHNAGAR, HANUMAN NAGAR, NAGPUR', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 175
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('175', '1', 'AMOL KASHIRAM JAWANJALKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('175', '2', 'NARESH GOPALRAOJI WANKAR');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('175', '3', 'Umesh Mahadeorao Waghamare');
+
+-- NGO 176
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('176', 'Vivekanand Shobha Jeevan Jyoti Kendra', 'MAHARASHTRA', 'Differently Abled', 'Shishu Niketan, Umrale, Nalasopara (West)', 'Trust (Non-Government)');
+
+-- Heads for NGO 176
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('176', '1', 'Sunil Narender Khanna');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('176', '2', 'Subhasri Duttagupta');
+
+-- NGO 177
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('177', 'UTTAR BHARTIYA MAHASANGH', 'MAHARASHTRA', 'Aged/Elderly', 'UTTAR BHARTIYA MAHASANGH 1 GHANSHYAM DUBE TOWER M.G. ROAD, BORIVALI (EAST) MUMBAI 400 066', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 177
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('177', '1', 'DR YOGESH DUBE');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('177', '2', 'RAMESH MATADIN MISHRA');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('177', '3', 'AWADH NARAYAN YADAV');
+
+-- NGO 178
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('178', 'TULJAI PRATISHTHAN TAKLI KU', 'MAHARASHTRA', 'Drinking Water', 'Pandurang Nandkishor Hulker At post Takli Ku Tq. Dist. Parbhani. 431540', 'Registered Societies (Non-Government)');
+
+-- Heads for NGO 178
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('178', '1', 'Anita Pralhad Apshinde');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('178', '2', 'Pandurang Nandkishor Hulekar');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('178', '3', 'Mohan Jankirampant Joshi');
+
+-- NGO 179
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('179', 'Swatantryaveer Savarkar Mandal', 'MAHARASHTRA', 'Rural Development and Poverty Alleviation', 'Swatantravir Savarkar Mandal, sector 25, Bulk Land, Pradhikaran Nigdi Pune 44', 'Trust (Non-Government)');
+
+-- Heads for NGO 179
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('179', '1', 'Satish Baswant Patil');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('179', '2', 'Bhaskar Keru Rikame');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('179', '3', 'RATNAKAR JANARDAN DEO');
+
+-- NGO 180
+INSERT INTO NGO_new (id, ngo_name, state, sector, address, type) VALUES ('180', 'ST GONSALO GARCIA ASHRAM', 'MAHARASHTRA', 'Children', 'Bassein Fort, P. O.Vasai,401 201 Dist. Palghar', 'Trust (Non-Government)');
+
+-- Heads for NGO 180
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('180', '1', 'Sunil Santhosh Serrao');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('180', '2', 'Norbert Balthazar Dsouza');
+INSERT INTO Heads_new (ngo_id, position_id, head_name) VALUES ('180', '3', 'AMIT RAMCHANDRA MAHEROTRA');
